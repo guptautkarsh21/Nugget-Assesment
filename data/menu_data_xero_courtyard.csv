@@ -1,0 +1,124 @@
+category,subcategory,name,price,veg_status,tags,description,restaurant_name
+Unknown Category,,Cheese Garlic Bread,199,Veg,,Garlic-infused bread topped with mozzarella cheese,Xero Courtyard
+Unknown Category,,Classic Fries,199,Veg,,Classic salted and seasoned fries with trio dip,Xero Courtyard
+Unknown Category,,Do It Your Way Fries,249,Veg,,"Choose your seasoning: peri-peri, tandoori, smokey garlic, pizza style, liquid cheese, mushroom, Xero hot sauce, jalapeno",Xero Courtyard
+Unknown Category,,Kadak Rumali Roti,149,Veg,,"Kaddak roti topped with chopped onion, tomato, and peri-peri seasoning",Xero Courtyard
+Unknown Category,,Masala Papad,179,Veg,,"Roasted papad with chopped onion, tomato, and seasoning",Xero Courtyard
+Unknown Category,,Mini Sandwiches,199,Veg,,"Creamy and crunchy sandwich stuffed with mixture of vegetables, seasoning, and eggless mayo",Xero Courtyard
+Unknown Category,,Peanut Masala,199,Veg,,"Peanuts mixed with chopped onion, tomato, coriander, and seasoning",Xero Courtyard
+Unknown Category,VEG SOUPS,Basil Tomato Soup,199,Veg,,,Xero Courtyard
+Unknown Category,VEG SOUPS,Cream Of Mushroom,199,Veg,,,Xero Courtyard
+Unknown Category,VEG SOUPS,Veg Hot & Sour Soup,199,Veg,,,Xero Courtyard
+Unknown Category,VEG SOUPS,Veg Lemon Coriander Soup,199,Veg,,,Xero Courtyard
+Unknown Category,VEG SOUPS,Veg Manchow Soup,199,Veg,,,Xero Courtyard
+Unknown Category,VEG SOUPS,Veg Sweet Corn Soup,199,Veg,,,Xero Courtyard
+Unknown Category,VEG SOUPS,Veg Tom Yum Soup,199,Veg,,,Xero Courtyard
+Unknown Category,NON-VEG SOUPS,Cream Of Chicken,229,Non-Veg,,,Xero Courtyard
+Unknown Category,NON-VEG SOUPS,Non-Veg Hot & Sour Soup,229,Non-Veg,,,Xero Courtyard
+Unknown Category,NON-VEG SOUPS,Non-Veg Lemon Coriander Soup,229,Non-Veg,,,Xero Courtyard
+Unknown Category,NON-VEG SOUPS,Non-Veg Manchow Soup,229,Non-Veg,,,Xero Courtyard
+Unknown Category,NON-VEG SOUPS,Non-Veg Sweet Corn Soup,229,Non-Veg,,,Xero Courtyard
+Unknown Category,NON-VEG SOUPS,Non-Veg Tom Yum Soup,229,Non-Veg,,,Xero Courtyard
+Unknown Category,NON-VEG SOUPS,Smoke Chicken Soup,229,Non-Veg,,,Xero Courtyard
+Unknown Category,VEG APPETIZERS,Chilli Paneer,399,Veg,,"Marinated cottage cheese cubes, fried and tossed with onion, bell pepper, fresh red chili, and fresh tomato chili sauce",Xero Courtyard
+Unknown Category,VEG APPETIZERS,Chilly Mushroom,399,Veg,,"With fresh cream and aromatic spices, roasted in a clay oven",Xero Courtyard
+Unknown Category,VEG APPETIZERS,Cigar Rolls,399,Veg,,Succulent mixture of sweet corn with cheese and herbs wrapped into cigar-shaped rolls,Xero Courtyard
+Unknown Category,VEG APPETIZERS,Crispy Corn Salt & Pepper,349,Veg,,"Crispy fried corn tossed with onion, bell pepper, fresh red chili, burnt garlic, and Chinese wine",Xero Courtyard
+Unknown Category,VEG APPETIZERS,Dahi K Sholey,399,Veg,,Spicy yogurt mixture wrapped in bread and deep-fried to a crisp,Xero Courtyard
+Unknown Category,VEG APPETIZERS,Malai Paneer Tikka,399,Veg,,"Cottage cheese cubes marinated in yogurt and cashew nut paste with fresh cream and aromatic spices, roasted in a clay oven",Xero Courtyard
+Unknown Category,VEG APPETIZERS,Stuffed Mushrooms,399,Veg,,"A mixture of cheese and nuts stuffed into mushroom caps, marinated in yogurt and chili, roasted in a clay oven",Xero Courtyard
+Unknown Category,VEG APPETIZERS,Thai Style Spring Roll,399,Veg,,"Garlic cloves, ginger, spring onion, and sliced glass noodles wrapped and deep-fried, served with hot garlic sauce",Xero Courtyard
+Unknown Category,VEG APPETIZERS,Veg Manchurian Dry,399,Veg,,Indo chinese fried balls in tangy sauce,Xero Courtyard
+Unknown Category,VEG APPETIZERS,Veg Manchurian Gravy,399,Veg,,Indo chinese fried balls in tangy sauce,Xero Courtyard
+Unknown Category,VEG APPETIZERS,Veg Taco,399,Veg,,"Exotic vegetables and cheese tossed in a pan, served with Mexican salsa and sour cream",Xero Courtyard
+Unknown Category,NON-VEG APPETIZERS,Chicken 65,449,Non-Veg,,Spicy chinese-style retro chicken,Xero Courtyard
+Unknown Category,NON-VEG APPETIZERS,Chicken Lollipop,449,Non-Veg,,Chicken lollipop marinated and deep-fried to a crisp,Xero Courtyard
+Unknown Category,NON-VEG APPETIZERS,Chicken Seekh,399,Non-Veg,,Minced chicken marinated with Indian herbs served on a skewer,Xero Courtyard
+Unknown Category,NON-VEG APPETIZERS,Chicken Strips,399,Non-Veg,,"Fried chicken strips with BBQ sauce, peri-peri sauce, & cheese blend",Xero Courtyard
+Unknown Category,NON-VEG APPETIZERS,Chicken Tikka,449,Non-Veg,,"Spicy marinated boneless chicken, roasted in a clay oven",Xero Courtyard
+Unknown Category,NON-VEG APPETIZERS,Chilli Chicken,449,Non-Veg,,Tangra-inspired chili chicken with scallion and chili garlic crumble,Xero Courtyard
+Unknown Category,NON-VEG APPETIZERS,Chilli Wings,449,Non-Veg,,Wok-tossed wings flavored with bell pepper and Cajun garlic dust,Xero Courtyard
+Unknown Category,NON-VEG APPETIZERS,Fish N Chips,499,Non-Veg,,"Sole fish marinated, deep-fried, and served with tartar sauce",Xero Courtyard
+Unknown Category,NON-VEG APPETIZERS,Fish Tikka,549,Non-Veg,,Sole fish marinated with yogurt & Indian spices,Xero Courtyard
+Unknown Category,NON-VEG APPETIZERS,Grilled Chicken,499,Non-Veg,BESTSELLER,Grilled chicken served with grilled vegetables & pesto mashed potatoes (Brown sauce/Peri-Peri sauce/BBQ sauce/Mushroom sauce),Xero Courtyard
+Unknown Category,NON-VEG APPETIZERS,Grilled Fish,549,Non-Veg,,"Fish tossed in lemon butter sauce, served with grilled vegetables & mashed potatoes",Xero Courtyard
+Unknown Category,NON-VEG APPETIZERS,Malai Chicken Tikka,449,Non-Veg,,"Creamy marinated boneless chicken, roasted in a clay oven",Xero Courtyard
+Unknown Category,NON-VEG APPETIZERS,Mutton Keema Pao,399,Non-Veg,,"Mutton keema in authentic Indian spices and herbs, served with pav",Xero Courtyard
+Unknown Category,NON-VEG APPETIZERS,Mutton Seekh,449,Non-Veg,,Mutton marinated in yogurt and Indian spices,Xero Courtyard
+Unknown Category,NON-VEG APPETIZERS,Non Veg Taco,449,Non-Veg,,"Grilled chicken & cheese in a tortilla wrap, served with Mexican salsa",Xero Courtyard
+Unknown Category,NON-VEG APPETIZERS,Tandoori Chicken,299,Non-Veg,,"Spicy marinated chicken, roasted in a clay oven",Xero Courtyard
+Unknown Category,,Classic Chicken Dimsum,329,Non-Veg,,Filling of minced chicken with spices and herbs served with Chinese mayo and hot garlic sauce,Xero Courtyard
+Unknown Category,,Classic Vegetable Dimsum,299,Veg,,Filling of minced Asian vegetables and spices served with Chinese mayo and hot garlic sauce,Xero Courtyard
+Unknown Category,,Pakchoy Black Mushroom Dimsum,299,Veg,,Filling of black mushroom and pak choy mixed with seasoning served with Chinese mayo and hot garlic sauce,Xero Courtyard
+Unknown Category,,Bbq & Cottage Cheese Burger,299,Veg,,"Cottage cheese patty tossed in BBQ sauce, topped with lettuce, cheese slice, cheese blend, and served with fries",Xero Courtyard
+Unknown Category,,Chicken & Cheese Burger,299,Non-Veg,,"Grilled chicken patty topped with lettuce, sliced onions, sliced tomatoes, cheese slice, mayo, and served with fries",Xero Courtyard
+Unknown Category,,Harissa Potato Burger,249,Veg,,"Potato patty topped with lettuce, sliced onions, cheese slice, harissa sauce, and served with fries",Xero Courtyard
+Unknown Category,,Lamb Burger,349,Non-Veg,,"Grilled lamb patty topped with sliced onions, sliced tomatoes, jalapeno, cheese slice, and served with wedger",Xero Courtyard
+Unknown Category,,Mushroom & Spinach Burger,299,Veg,,"Mushroom and spinach patty topped with lettuce, cheese slice, mayo, and served with fries",Xero Courtyard
+Unknown Category,,Non-Veg Aglio Olio Pasta,399,Non-Veg,,"Spaghetti tossed in a pan and drizzled with extra virgin olive oil, topped with Parmesan cheese",Xero Courtyard
+Unknown Category,,Non-Veg Alfredo Pasta,399,Non-Veg,,"Exotic vegetables, Creamy b?hamel sauce topped with fresh Parmesan cheese",Xero Courtyard
+Unknown Category,,Non-Veg Arrabiata Pasta,399,Non-Veg,,"Exotic vegetables, spicy tomato sauce topped with fresh Parmesan cheese",Xero Courtyard
+Unknown Category,,Non-Veg Basil Pesto Pasta,399,Non-Veg,,Grandma's Secret Recipe,Xero Courtyard
+Unknown Category,,Non-Veg Mixed Sauce Pasta,399,Non-Veg,,Best of both worlds,Xero Courtyard
+Unknown Category,,Pollo Italian Lasagne,449,Non-Veg,,"Grilled chicken, mushrooms, and cheese layered in lasagne sheets, baked in the oven",Xero Courtyard
+Unknown Category,,Veg Aglio Olio Pasta,349,Veg,,"Spaghetti tossed in a pan and drizzled with extra virgin olive oil, topped with Parmesan cheese",Xero Courtyard
+Unknown Category,,Veg Alfredo Pasta,349,Veg,,"Exotic vegetables, Creamy bechamel sauce topped with fresh Parmesan cheese",Xero Courtyard
+Unknown Category,,Veg Arrabiata Pasta,349,Veg,,"Exotic vegetables, spicy tomato sauce topped with fresh Parmesan cheese",Xero Courtyard
+Unknown Category,,Veg Basil Pesto Pasta,349,Veg,,Grandma's Secret Recipe,Xero Courtyard
+Unknown Category,,Veg Mixed Sauce Pasta,349,Veg,,Best of both worlds,Xero Courtyard
+Unknown Category,,Verdure Italian Lasagne,399,Veg,BESTSELLER,"Spinach, corn, and cheese layered in lasagne sheets, baked in the oven",Xero Courtyard
+Unknown Category,,4 Cheese Margherita Pizza,349,Veg,,"A spicy roasted tomato base with four cheeses, spices, oregano, & basil",Xero Courtyard
+Unknown Category,,Barbeque Chicken Pizza,399,Non-Veg,,Bite-sized chunks,Xero Courtyard
+Unknown Category,,Chicken Pepperoni Pizza,399,Non-Veg,,Mozzarella cheese topped with chicken pepperoni slices,Xero Courtyard
+Unknown Category,,Farmhouse Pizza,349,Veg,,"Onions, and garlic pearls",Xero Courtyard
+Unknown Category,,Non Veg Makhani Pizza,399,Non-Veg,,Traditional makhani sauce with cheese drizzle,Xero Courtyard
+Unknown Category,,Roasted Peri Peri Chicken Pizza,399,Non-Veg,,"Classic peri-peri chicken, roasted to perfection and served in",Xero Courtyard
+Unknown Category,,Roasted Peri Peri Paneer Pizza,349,Veg,,"Classic roasted paneer with cheese, peri-peri mayo, Spanish",Xero Courtyard
+Unknown Category,,The Italian Veggie Love Pizza,349,Veg,,"A mix of mushrooms, broccoli, olives, cheese, sundried tomatoes, & jalapeno",Xero Courtyard
+Unknown Category,,Veg Makhani Pizza,349,Veg,,Traditional makhani sauce with cheese drizzle,Xero Courtyard
+Unknown Category,,Non-Veg Dimsum Platter,349,Non-Veg,,10 Assorted momo pieces,Xero Courtyard
+Unknown Category,,Non-Veg Mezze Platter,749,Non-Veg,,"Shish taouk, Lebanese Turkish kebab, falafel, sambousek (meat), assorted olives, assorted bread, and Lebanese Arabic pickles served with three dips",Xero Courtyard
+Unknown Category,,Non-Veg Sharing Platter,999,Non-Veg,,"Chicken malai tikka, tandoori kukkad, gosht peshawari, lahori fish tikka, lal mirch chicken tikka, served with mint sauce and sizzling onion",Xero Courtyard
+Unknown Category,,Non-Veg Xero Courtyard Platter,2299,Non-Veg,,"Tandoori chicken, Chicken tikka, Fish tikka, Mutton seekh kebab, Dal makhni, Paneer tikka butter masala, Chicken rara, Butter chicken, Mutton rogan josh, Chicken biryani, Assorted bread basket, Raita, Salad, Mint sauce and Gulab jamun",Xero Courtyard
+Unknown Category,,Veg Dimsum Platter,299,Veg,,10 Assorted momo pieces,Xero Courtyard
+Unknown Category,,Veg Mezze Platter,649,Veg,,"Falafel, sambousek (cheese), cottage cheese, shish taouk, Lebanese Arabic pickles, assorted bread served with three dips",Xero Courtyard
+Unknown Category,,Veg Sharing Platter,899,Veg,,"Tandoori mushroom, lal mirch cottage cheese tikka, tandoori malai broccoli, dahi ke sholey, veg seekh kebab served with mint sauce and sizzling onion",Xero Courtyard
+Unknown Category,,Veg Xero Courtyard Platter,1999,Veg,,"Cottage cheese tikka, Dahi ke Sholey, Malai broccoli, Tandoori mushroom, Paneer lababdar, Kadhai paneer, Paneer makhani, Mix veg, Veg biryani, Assorted bread basket, Raita, Salad, Mint sauce and Gulab jamun",Xero Courtyard
+Unknown Category,VEG MAINS,Jd Infused Dal Makhani,449,Veg,,Flavored with JD alcohol and served with bite-sized butter naan rolls,Xero Courtyard
+Unknown Category,VEG MAINS,Kadhai Paneer,399,Non-Veg,,Tender boneless chicken cooked in Indian gravy with onion and capsicum cubes,Xero Courtyard
+Unknown Category,VEG MAINS,Mix Vegetable,399,Veg,,Combination of mixed vegetables cooked in aromatic spices,Xero Courtyard
+Unknown Category,VEG MAINS,Mushroom Do Pyaaza,399,Veg,,Mushroom and onion cooked with aromatic spices,Xero Courtyard
+Unknown Category,VEG MAINS,Paneer Lababdar,399,Veg,,Cottage cheese cooked in a tangy tomato and onion gravy,Xero Courtyard
+Unknown Category,VEG MAINS,Paneer Makhani,399,Veg,,Cottage cheese mixed with rich tomato and cashew nut gravy with Indian whole spices,Xero Courtyard
+Unknown Category,VEG MAINS,Shahi Dal Makhani,319,Veg,,"Whole black urad dal, kidney beans, and chana dal slow-cooked to perfection",Xero Courtyard
+Unknown Category,NON-VEG MAINS,Butter Chicken,469,Non-Veg,,Our chef's take on the legendary dish,Xero Courtyard
+Unknown Category,NON-VEG MAINS,Chicken Rara,469,Non-Veg,,Spicy chicken curry with minced meat,Xero Courtyard
+Unknown Category,NON-VEG MAINS,Kadhai Chicken,469,Non-Veg,,Tender boneless chicken cooked in Indian gravy with onion and capsicum cubes,Xero Courtyard
+Unknown Category,NON-VEG MAINS,Mutton Rogan Josh,499,Non-Veg,,"A KashmirI specialty, succulent pieces of mutton simmered in spicy onion and tomato gravy",Xero Courtyard
+Unknown Category,,Non-Veg Chilli Garlic Noodles,279,Non-Veg,,,Xero Courtyard
+Unknown Category,,Non-Veg Fried Rice,279,Non-Veg,,,Xero Courtyard
+Unknown Category,,Prawbs Fried Rice,299,Non-Veg,,,Xero Courtyard
+Unknown Category,,Prawns Chilli Garlic Noodles,299,Non-Veg,,,Xero Courtyard
+Unknown Category,,Veg Chilli Garlic Noodles,249,Veg,,,Xero Courtyard
+Unknown Category,,Veg Fried Rice,249,Veg,,,Xero Courtyard
+Unknown Category,,Hyderabadi Chicken Dum Biryani,449,Non-Veg,,"Hyderabadi dum biryani, cooked in whole spices along with chicken chunks served with plain raita and kachumber salad",Xero Courtyard
+Unknown Category,,Lucknowi Gosht Dum Biryani,529,Non-Veg,,"Smoked dum biryani, cooked in whole spices along with mutton chunks, served with plain raita and kachumber salad",Xero Courtyard
+Unknown Category,,Vegetable Dum Biryani,399,Veg,,"Smoked dum biryani, cooked in whole spices along with vegetables served with burani raita and kachumber saladt",Xero Courtyard
+Unknown Category,,Butter Naan,99,Veg,,,Xero Courtyard
+Unknown Category,,Butter Roti,49,Veg,,,Xero Courtyard
+Unknown Category,,Cheese Stuffed Keema Naan With Gravy,189,Veg,,,Xero Courtyard
+Unknown Category,,Chicken Stuffed Keema Naan With Gravy,189,Non-Veg,,,Xero Courtyard
+Unknown Category,,Garlic Naan,99,Veg,,,Xero Courtyard
+Unknown Category,,Laccha Paratha,99,Veg,,,Xero Courtyard
+Unknown Category,,Mutton Stuffed Keema Naan With Gravy,219,Non-Veg,,,Xero Courtyard
+Unknown Category,,Plain Naan,79,Veg,,,Xero Courtyard
+Unknown Category,,Tandoori Roti,39,Veg,,,Xero Courtyard
+Unknown Category,,Boondi Raita,149,Veg,,,Xero Courtyard
+Unknown Category,,Classic Green Salad,199,Veg,,,Xero Courtyard
+Unknown Category,,Jeera Rice,199,Veg,,,Xero Courtyard
+Unknown Category,,Mixed Veg Raita,149,Veg,,,Xero Courtyard
+Unknown Category,,Steamed Rice,199,Veg,,,Xero Courtyard
+Unknown Category,,Chocolate Brownie With Ice Cream,159,Veg,,,Xero Courtyard
+Unknown Category,,Gulab Jamun With Ice Cream [1 Pc],149,Veg,,,Xero Courtyard
+Unknown Category,,New York Cheesecake,449,Veg,,,Xero Courtyard
+Unknown Category,,Waffle Tray,399,Veg,,,Xero Courtyard

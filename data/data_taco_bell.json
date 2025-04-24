@@ -1,0 +1,1403 @@
+{
+    "restaurant_info": {
+        "name": "Taco Bell",
+        "location": "N 11, Ground Floor & Mezzanine Floor, Block N, Outer Circle, Connaught Place, New Delhi",
+        "rating": "4.3",
+        "rating_count": "8,699",
+        "cuisines": "Fast Food, Mexican",
+        "timing": "10:00 AM to 11:00 PM",
+        "phone": "+918800594884"
+    },
+    "menu_items": [
+        {
+            "category": "Unknown Category",
+            "subcategory": "NEWLY LAUNCHED VEG",
+            "name": "Naked Veggie Taco",
+            "price": 229,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Introducing the Naked Veggie Taco – a fresh twist on a classic! With a vibrant taco shell made entirely of vegetables, it’s a burst of flavor and crunch in every bite. Filled with spicy harissa sauce, tangy hot red salsa, zesty pico de gallo, and crisp iceberg lettuce, this taco is perfect for those who want to indulge in something wholesome yet bold. Enjoy a taco experience like never before, where the shell is as good as the filling!",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NEWLY LAUNCHED VEG",
+            "name": "Green Salsa Avocado Sauce",
+            "price": 3.81,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A blend of creamy avocado, green chilli, jalapeno, tomatoes, cucumber, and garlic. Fresh, spicy, and utterly delicious.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NEWLY LAUNCHED VEG",
+            "name": "Ultimate Cheese Crunchwrap – Veg",
+            "price": 275,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Unique star shaped wram wrap loaded with juicy Mexican paneer marinated in flavourful spices & topped with fiesta salsa, spicy lava sauce and creamy nacho cheese.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NEWLY LAUNCHED NON VEG",
+            "name": "Ultimate Cheese Crunchwrap – Non-Veg",
+            "price": 295,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "Unique star shaped wram wrap loaded with juicy chicken nuggets marinated in flavourful spices & topped with fiesta salsa, spicy lava sauce and creamy nacho cheese.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NEWLY LAUNCHED COMBOS",
+            "name": "Naked Veggie Taco Meal",
+            "price": 369,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Meal includes 1 Naked Veggie Taco ,1 Seasoned Fries and 1 Beverage of choice in reusable cup.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NEWLY LAUNCHED COMBOS",
+            "name": "Ultimate Cheese Crunchwrap Meal – Non-Veg",
+            "price": 435,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Unique star shaped wram wrap loaded with juicy chicken nuggets marinated in flavourful spices & topped with fiesta salsa, spicy lava sauce and creamy nacho cheese.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NEWLY LAUNCHED COMBOS",
+            "name": "Green Salsa Avocado (10 pouch Combo)",
+            "price": 36,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "(Save 10%) Combo offers 10 sachets of Green Salsa Avocado made of real Avocados, tangy salsa and spicy Jalapenos. This droolworthy sauce will leave you craving for more.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NEWLY LAUNCHED COMBOS",
+            "name": "Ultimate Cheese Crunchwrap Meal – Veg",
+            "price": 415,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Unique star shaped wram wrap loaded with juicy Mexican paneer marinated in flavourful spices & topped with fiesta salsa, spicy lava sauce and creamy nacho cheese. Meal comes with Seasoned Fries and Pepsi",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NEWLY LAUNCHED COMBOS",
+            "name": "Cheesy Lava Taco (BurgerKiller) Veg Meal Overload",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Cheesy Lava Taco Meal Veg Overload: All-new Cheesy Lava Taco, a culinary innovation that combines the Crispy Chalupa Taco and classic Corn Shell Taco packed with spicy Lava Sauce, sour creamy dressing , tangy Smokey Pepper Sauce and an indulgent Cheesy loaded Veg patty. Meal includes 1 Cheesy Lava Taco Veg overload, 1 Fries, 1 Pepsi and Free Nachos.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NEWLY LAUNCHED COMBOS",
+            "name": "Cheesy Lava Taco (BurgerKiller) Non-Veg Meal Overload",
+            "price": 409,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "All-new Cheesy Lava Taco, a culinary innovation that combines the Crispy Chalupa Taco and classic Corn Shell Taco packed with spicy Lava Sauce, sour creamy dressing , tangy Smokey Pepper Sauce and an indulgent Cheesy loaded chicken patty. Meal includes 1 Cheesy Lava Taco Non Veg overload, one fries, 1 Pepsi and Free Nachos.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NEWLY LAUNCHED COMBOS",
+            "name": "Cheesy Lava Taco Veg + Nachos",
+            "price": 390,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "All-new Cheesy Lava Taco, a culinary innovation that combines the Crispy Chalupa Taco and classic Corn Shell Taco packed with spicy Lava Sauce, sour creamy dressing , tangy Smokey Pepper Sauce and an indulgent Cheesy loaded veg patty. Comes with free Nachos",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEAL MANIA",
+            "name": "2 Crispy Potato Taco+2 Cinnamon Twists+2 Pepsi Zero",
+            "price": 228,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "At 109 per person [SAVE Rs. 228] Meal includes 2 Crispy Potato Taco 2, Cinnamon Twists & 2 Pepsi Zero Sugar",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEAL MANIA",
+            "name": "2 Crispy Potato Taco+1 Small Fries+1 Cinnamon Twists+2 Pepsi Zero",
+            "price": 268,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "At 129 per person [SAVE Rs. 204] Meal includes 2 Crispy Potato Taco,1 Small Fries, 1 Cinnamon Twists & 2 Pepsi Zero Sugar",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEAL MANIA",
+            "name": "2 Crispy Chicken Taco+1 Small Fries+1 Cinnamon Twists+2 Pepsi Zero",
+            "price": 328,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "At 159 per person [SAVE Rs. 204] Meal includes 2 Crispy Chicken Taco,1 Small Fries, 1 Cinnamon Twists & 2 Pepsi Zero Sugar",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEAL MANIA",
+            "name": "2 Habanero Burrito Veg+2 Cinnamon Twists+2 Pepsi Zero",
+            "price": 268,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "At 129 per person [SAVE Rs. 288]2 Habanero Burrito Veg ,2 Cinnamon Twists & 2 Pepsi Zero Sugar",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEAL MANIA",
+            "name": "2 Value Rice Bowl Veg+2 Cinnamon Twists+2 Pepsi Zero",
+            "price": 308,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "At 149 per person[SAVE Rs. 228] 2 Value Rice Bowl Veg ,2 Cinnamon Twists & 2 Pepsi Zero Sugar",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEAL MANIA",
+            "name": "2 Habanero Burrito Veg+1 Small Fries+1 Cinnamon Twists+2 Pepsi Zero",
+            "price": 308,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "At 149 per person [SAVE Rs. 264] 2 Habanero Burrito Veg, 1 Small Fries,1 Cinnamon Twists & 2 Pepsi Zero Sugar",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEAL MANIA",
+            "name": "2 Habanero Burrito Non Veg+2 Cinnamon Twists+2 Pepsi Zero",
+            "price": 328,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "At 159 per person [SAVE Rs. 288] 2 Habanero Burrito Non Veg ,2 Cinnamon Twists & 2 Pepsi Zero Sugar",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEAL MANIA",
+            "name": "2 Value Rice Bowl Veg+1 Small Fries+1 Cinnamon Twists+2 Pepsi Zero",
+            "price": 348,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "At 169 per person [SAVE Rs. 204] 2 Value Rice Bowl Veg, 1 Small Fries,1 Cinnamon Twists &2 Pepsi Zero Sugar",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEAL MANIA",
+            "name": "2 Crispy Chicken Taco+2 Cinnamon Twists+2 Pepsi Zero",
+            "price": 288,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "At 139 per person [SAVE Rs. 228] Meal includes 2 Crispy Chicken Taco, 2 Cinnamon Twists & 2 Pepsi Zero Sugar",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEAL MANIA",
+            "name": "2 Habanero Burrito Non Veg+1Small Fries+1 Cinnamon Twists+2 Pepsi Zero",
+            "price": 368,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "At 179 per person [SAVE Rs. 264] 2 Habanero Burrito Non Veg, 1 Small Fries,1 Cinnamon Twists &2 Pepsi Zero Sugar",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEAL MANIA",
+            "name": "2 Value Rice Bowl Non Veg+2 Cinnamon Twists+2 Pepsi Zero",
+            "price": 368,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "At 179 per person [SAVE Rs. 228]2 Value Rice Bowl Non Veg ,2 Cinnamon Twists & 2 Pepsi Zero Sugar",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEAL MANIA",
+            "name": "2 Value Rice Bowl Non Veg+1 Small Fries+1 Cinnamon Twists+2 Pepsi Zero",
+            "price": 408,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "At 199 per person [SAVE Rs. 204]2 Value Rice Bowl Non Veg, 1 Small Fries,1 Cinnamon Twists &2 Pepsi Zero Sugar",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Big Bell Box Classic Veg",
+            "price": 349,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Meal for 1 (save up to Rs. 143) this real blockbuster meal comes with 1 veg Habanero burrito, 1 crunchy pinto bean taco topped with zesty ranch sauce, 1 Seasoned Fries, 1 cinnamon twist and 1 Beverage of choice in reusable cup.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Big Bell Box Ultimate Cheese Veg",
+            "price": 479,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Save Upto 37%: Bix includes new Ultimate Cheese Crunchwrap- Veg, cheesy Quesadilla-Veg, Seasoned Nachos, Cinnamon Twist and Pepsi",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Big Bell Box Classic Non-Veg",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Meal for 1 (save up to Rs. 143) the real blockbuster meal comes with 1 non-veg Habanero burrito, 1 crunchy Mexican chicken taco topped with zesty ranch sauce , 1 Seasoned Fries, 1 cinnamon twist and 1 beverage of choice",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Big Bell Box Ultimate Cheese Non-Veg",
+            "price": 529,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Upto 37%: Bix includes new Ultimate Cheese Crunchwrap- Non-Veg, cheesy Quesadilla-Non-Veg, Seasoned Nachos, Cinnamon Twist and Pepsi",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Big Bell Box Kids Veg",
+            "price": 259,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Meal for 1 (save up to Rs. 98) the real blockbuster meal comes with 1 Crispy Potato Taco, 1 Seasoned Fries, 1 cinnamon twist and 1 Mirinda in reusable cup.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Big Bell Box Kids Non Veg",
+            "price": 289,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Meal for 1 (save up to Rs. 98) the real blockbuster meal comes with 1 Crispy Chicken Taco, 1 Seasoned Fries, 1 cinnamon twist and 1 Mirinda in reusable cup.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Big Bell Box PLUS Veg",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Meal for 1 (save up to Rs. 158) the real blockbuster meal comes with 1 Crispy Chalupa Taco Veg, 1 Crispy Potato Wrap, 1 Cinnamon Twist, 1 Seasoned Nachos and 1 Pepsi Regular in reusable cup",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Big Bell Box PLUS Non Veg",
+            "price": 459,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Meal for 1 (save up to Rs. 168) the real blockbuster meal comes with 1 Crispy Chalupa Taco Non-Veg, 1 Crispy Chicken Wrap, 1 Cinnamon Twist, 1 Seasoned Nachos and 1 Pepsi Regular in reusable cup.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Big Bell Box All Chicken",
+            "price": 529,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "• BBB All Chicken: Meal for 1 (save up to Rs. 147) the real blockbuster meal comes with 1 Naked Chicken Taco, 1 Non-Veg Habanero Burrito, 1 Cinnamon Twist, Chicken Nuggets 4 Pcs. and 1 Pepsi Regular in reusable cup.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Big Bell Box Cheese Overload Non-Veg",
+            "price": 529,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Meal for 1 (save up to Rs. 105) the real blockbuster meal comes with 1 Cheesy Lava Taco Non-Veg, 1 Cheesy Chicken Quesadilla , 1 Cinnamon Twist, 1 Seasoned Nachos and 1 Pepsi Regular in reusable cup.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Big Bell Box Cheese Overload Veg",
+            "price": 479,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Meal for 1 (save up to Rs. 147) the real blockbuster meal comes with 1 Cheesy Lava Taco Veg, 1 Cheesy Quesadilla Veg, 1 Cinnamon Twist, 1 Seasoned Nachos and 1 Pepsi Regular in reusable cup.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "EVERYDAY VALUE MENU (STARTS AT @ 66 EACH)",
+            "name": "4 Habanero Burrito Veg @ 77 each",
+            "price": 308,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "(SAVE UPTO Rs. 184 )Combo of 4 Veg Habanero Burritos made of flavourful warm tortilla filled with delicious fajita veg toppings and spicy sriracha sauce",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "EVERYDAY VALUE MENU (STARTS AT @ 66 EACH)",
+            "name": "2 Crispy Potato Wrap + 2 Habanero Burrito Veg @ 75 each",
+            "price": 300,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "(SAVE UPTO Rs. 102 )Combo of 2 Veg Habanero Burrito and 2 Crispy Potato Wrap,",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "EVERYDAY VALUE MENU (STARTS AT @ 66 EACH)",
+            "name": "4 Crunchy Tacos Bean @ 66 each",
+            "price": 264,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "(SAVE UPTO Rs.200 )Combo of 4 delicious Crunchy Tacos filled with goodness of beans, Vegies & flavourful creamy sauces. .",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "EVERYDAY VALUE MENU (STARTS AT @ 66 EACH)",
+            "name": "4 Crispy Potato Tacos @ 66 each",
+            "price": 264,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "\"(SAVE UPTO Rs.40 )Combo of 4 delicious Crispy Potato Tacos filled with goodness of flavourful creamy sauces. \"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "EVERYDAY VALUE MENU (STARTS AT @ 66 EACH)",
+            "name": "2 Crunchy Taco Veg + 2 Crispy Potato Taco @ 66 each",
+            "price": 264,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "\"(SAVE UPTO Rs.120 )Combo of 2 Crunchy Taco Bean and 2 Crispy Potato Taco, filled with goodness of flavourful creamy sauces. \"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "EVERYDAY VALUE MENU (STARTS AT @ 66 EACH)",
+            "name": "4 Crispy Potato Wraps @ 72 each",
+            "price": 288,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "(SAVE UPTO Rs.20 )Combo of 4 Crispy Potato Wraps made of flavourful warm tortilla loaded with crispy potato bites and bold flavourful sauces",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "EVERYDAY VALUE MENU (STARTS AT @ 66 EACH)",
+            "name": "4 Crispy Chicken Wraps @ 103 each",
+            "price": 412,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "(SAVE UPTO Rs.16 )Combo of 4 Crispy Chicken Wraps made of flavourful warm tortilla loaded with crispy chicken strip and bold flavourful sauces",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "EVERYDAY VALUE MENU (STARTS AT @ 66 EACH)",
+            "name": "4 Habanero Burrito Chk @ 113 each",
+            "price": 452,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "(SAVE UPTO Rs. 140 )Combo of 4 Chicken Habanero Burritos made of flavourful warm tortilla filled with delicious fajita veg toppings and spicy sriracha sauce",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "EVERYDAY VALUE MENU (STARTS AT @ 66 EACH)",
+            "name": "4 Crunchy Wheat Tacos Chicken @ 98 each",
+            "price": 392,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"(SAVE UPTO Rs.136 )Combo of 4 delicious Crunchy Tacos filled with goodness of Mexican Chicken, Veggies & flavourful creamy sauces. Upgrade options available.\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "EVERYDAY VALUE MENU (STARTS AT @ 66 EACH)",
+            "name": "2 Crispy Chicken Wrap + 2 Habanero Burrito Chicken @ 105 each",
+            "price": 420,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "(SAVE UPTO Rs.150) Combo of 2 Chicken Habanero Burrito and 2 Crispy Chicken Wrap",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "EVERYDAY VALUE MENU (STARTS AT @ 66 EACH)",
+            "name": "4 Crispy Chicken Tacos @ 98 each",
+            "price": 392,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"(SAVE UPTO Rs.56 )Combo of 4 delicious Crispy Chicken Tacos filled with goodness of flavourful creamy sauces. \"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "EVERYDAY VALUE MENU (STARTS AT @ 66 EACH)",
+            "name": "2 Crunchy Taco Chicken + 2 Crispy Chicken Taco @ 93 each",
+            "price": 372,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"(SAVE UPTO Rs.96 )Combo of 2 Crunchy Taco Mexican Chicken and 2 Crispy Chicken Taco, filled with goodness of flavourful creamy sauces. \"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS VEG",
+            "name": "Classic Crunchwrap’ Meal - Veg",
+            "price": 383,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Meal includes 1 Hot & Cheesy Veg Crunchwrap , 1 Seasoned Fries and 1 single serve aerated Beverage of choice in reusable cup",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS VEG",
+            "name": "7 Layer Burrito Roll Meal-Veg",
+            "price": 440,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Meal includes 1 veg 7 layer burrito, 1 Seasoned Fries and 1 Beverage of choice in reusable cup",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS VEG",
+            "name": "Crispy Chalupa Taco Veg Meal",
+            "price": 355,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Meal includes 1 Mexican paneer Crispy Chalupa Taco, 1 Seasoned Fries and 1 Beverage of choice in reusable cup.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS VEG",
+            "name": "Melted Cheese Quesadilla Meal - Veg",
+            "price": 364,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Meal includes 1 Veg Melted Cheese Quesadilla , 1 Seasoned Fries and 1 Beverage of choice in reusable cup",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS VEG",
+            "name": "Burrito Rice Bowl Meal Regular Veg (aka Mexican Biryani)",
+            "price": 359,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Meal includes 1 veg Regular Rice Bowl, 1 Seasoned Fries and 1 Beverage of choice in reusable cup",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS VEG",
+            "name": "Burrito Supreme Rice Bowl Meal Veg (aka Mexican Biryani)",
+            "price": 435,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Meal includes 1 Supreme Rice Bowl Veg, 1 Seasoned Fries and 1 Beverage of choice",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS VEG",
+            "name": "Fiery Volcano Burrito Meal - Veg",
+            "price": 334,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "\"This mouthwatering delight features a harmonious blend of Mexican seasoned rice, Savory Mexican paneer, seasoned fries, and a symphony of delicious habanero & Caribbean sauce all wrapped in a warm grilled tortilla that ignites the taste buds. Brace yourself for an explosion of flavour with every bite of the Fiery Volcano Burrito! Served with Pepsi and Seasoned Fries.\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS VEG",
+            "name": "Two Taco Meal - Veg",
+            "price": 387,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Meal includes 2 Crunchy Taco Mexican Paneer, 1 Seasoned Fries and 1 Beverage of choice in reusable cup",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS VEG",
+            "name": "DIY Crunchy Taco Supreme Meal Veg",
+            "price": 398,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Introducing Taco Bell's DIY Taco Kit! Enjoy 2 Do It Yourself Crunchy Taco Supreme corn shells packed in a separate box and all ingredients packed separately in a container, ensuring you get the freshest, crispiest taco experience at home! Just Load Taco with fillings and you are set for a delicious treat. Meal comes with 2 Crunchy Taco Supreme, Seasoned Fries and Regular Pepsi in resusable bottle.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS VEG",
+            "name": "Crunchy Wheat Taco Pinto Bean + Pepsi Masala Twist",
+            "price": 258,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Crunchy Taco Wheat Shell filled with Pinto Beans & Creamy Sauces + Pepsi Masala Twist – the perfect fusion of classic Pepsi fizz and a spicy desi kick!",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS VEG",
+            "name": "Seasoned Fries + Pepsi Masala Twist",
+            "price": 258,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Signature Fries Topped up with Mexican Seasoning +Pepsi Masala Twist – the perfect fusion of classic Pepsi fizz and a spicy desi kick!",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS VEG",
+            "name": "Habanero Burrito Veg + Pepsi Masala Twist",
+            "price": 198,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Flavorful beans, Mexican Seasoned Rice, and a fiery kick of Chili Habanero Sauce. Spice up your meal with this bold and satisfying Habanero Burrito Roll +Pepsi Masala Twist – the perfect fusion of classic Pepsi fizz and a spicy desi kick!",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS VEG",
+            "name": "7 Layer Burrito Roll - Veg + Pepsi Masala Twist",
+            "price": 398,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Grilled Soft Tortilla Filled 7 Different Incl. Fajita Veggies, Pinot Beans, Crispy Potato Bites, Mexican Seasoned Rice, Spicy Salsa, Hot Cheesy and Lava Sauce+Pepsi Masala Twist – the perfect fusion of classic Pepsi fizz and a spicy desi kick!",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS VEG",
+            "name": "7 Layer Burrito Roll Veg +Pepsi+Molten Choco Pies",
+            "price": 516,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Grilled Soft Tortilla Filled 7 Different Incl. Fajita Veggies, Pinot Beans, Crispy Potato Bites, Mexican Seasoned Rice, Spicy Salsa, Hot Cheesy and Lava Sauce+Pepsi + Molten Choco Pies",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS VEG",
+            "name": "Crunchy Wheat Taco Pinto Bean + Pepsi",
+            "price": 224,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Crunchy Taco Wheat Shell filled with Pinto Beans & Creamy Sauces + Pepsi",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS VEG",
+            "name": "Ultimate CheeseCrunchwrap Veg+Pepsi+ChocoPie+Fries",
+            "price": 629,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Unique star shaped wram wrap loaded with juicy Mexican paneer marinated in flavourful spices & topped with fiesta salsa, spicy lava sauce and creamy nacho cheese +Pepsi + Seasoned Fries + Molten choco pies",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS VEG",
+            "name": "Crispy Potato Taco + Pepsi + Seasoned Fries",
+            "price": 304,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Save ₹152 on a combo of Crispy Potato Taco Filled with Crispy potato bites, drizzled with lava sauce, topped off with crisp shredded lettuce and mexican pico de galo + Pepsi + Seasoned Fries",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS VEG",
+            "name": "Super Saver BOX",
+            "price": 698,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Massive saving of ₹349 on a combo of 1 Veg Habanero Burrito, 1 crunchy pinto bean taco topped with zesty ranch sauce, 1 seasoned fries, 1 cinnamon twist and 1 Pepsi Masala Twist",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS VEG",
+            "name": "Crunchy Wheat Taco Pinto Bean + Pepsi + Seasoned Fries",
+            "price": 358,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Save ₹179 on a combo of Crunchy Taco Wheat Shell filled with Pinto Beans & Creamy Sauces + Pepsi and Seasoned Fries.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS NON VEG",
+            "name": "Naked Chicken Taco Meal",
+            "price": 310,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Meal Includes 1 Naked Chicken Taco, 1 Seasoned Fries and 1 beverage of choice",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS NON VEG",
+            "name": "7 Layer Burrito Roll Meal - Non Veg",
+            "price": 449,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Meal includes 1 chicken 7 layer burrito, 1 Seasoned Fries and 1 beverage of choice",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS NON VEG",
+            "name": "Classic Crunchwrap Meal - Non Veg",
+            "price": 413,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Meal includes 1 Hot & Cheesy Chicken Crunchwrap, 1 Seasoned Fries and 1 single serve aerated beverage of choice",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS NON VEG",
+            "name": "Crispy Chalupa Taco Meal - Non Veg",
+            "price": 375,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Meal includes 1 Chicken Crispy Chalupa Taco, 1 Seasoned Fries and 1 beverage of choice",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS NON VEG",
+            "name": "Burrito Rice Bowl Meal Regular Non-Veg (aka Mexican Biryani)",
+            "price": 379,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Meal includes 1 chicken Regular Rice Bowl, 1 Seasoned Fries and 1 beverage of choice.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS NON VEG",
+            "name": "Melted Cheese Quesadilla Meal - Non Veg",
+            "price": 384,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Meal includes 1 Chicken Melted Cheese Quesadilla, 1 Seasoned Fries and 1 beverage of choice .",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS NON VEG",
+            "name": "Fiery Volcano Burrito Meal - Chicken",
+            "price": 354,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"This mouthwatering delight features a harmonious blend of Mexican seasoned rice, Savory Mexican Chicken, seasoned fries, and a symphony of delicious habanero & Caribbean sauce that ignites the taste buds. Brace yourself for an explosion of flavour with every bite of the Fiery Volcano Burrito! Served with Pepsi and Seasoned fries.\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS NON VEG",
+            "name": "Burrito Supreme Rice Bowl Meal Non-Veg (aka Mexican Biryani)",
+            "price": 455,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Meal includes 1 Supreme Rice Bowl Non Veg, 1 Seasoned Fries and 1 Beverage of choice",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS NON VEG",
+            "name": "Two Taco Meal - Non Veg",
+            "price": 407,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Meal Includes 2 Crunchy Taco Mexican Chicken, 1 Seasoned Fries and 1 beverage of choice",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS NON VEG",
+            "name": "DIY Crunchy Taco Supreme Meal Non Veg",
+            "price": 418,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Introducing Taco Bell's DIY Taco Kit! Enjoy 2 Do It Yourself Crunchy Taco Supreme corn shells packed in a separate box and all ingredients packed separately in a container, ensuring you get the freshest, crispiest taco experience at home! Just Load Taco with fillings and you are set for a delicious treat.Meal comes with 2 Crunchy Taco Supreme, Seasoned Fries and Regular Pepsi in resusable bottle.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEALS NON VEG",
+            "name": "Crispy Chicken Wrap + Pepsi + Seasoned Fries",
+            "price": 338,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save ₹152 on a combo of Crispy Chicken Wrap Filled with fried chicken nuggets, drizzled with nacho cheese sauce, creamy jalapeno sauce and topped off with mexican pico de galo + Pepsi + Seasoned Fries",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "DESSERT",
+            "name": "Cinnamon Twist",
+            "price": 59,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Our crispy puffed corn twists are sprinkled with cinnamon and sugar and are seriously addictive. Can't stop at just one.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "DESSERT",
+            "name": "Churros & Chocolate Regular",
+            "price": 125,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Churros nâ€™ Chocolate is an indulgent dessert! These delightfully soft and crispy churros dipped in chocolate Sauce will just melt in your mouth.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "DESSERT",
+            "name": "Taco Bell Molten Choco Pie 6 Pieces",
+            "price": 165,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Molten Choco Pies are the perfect blend of rich, gooey chocolaty flavours encased in a crispy delightful crust. With every bite, you’ll experience a heavenly explosion of molten choco flavours that is sure to leave you craving more. Whether you’re a chocolate lover or simply looking for the perfect dessert to end your meal, Molten Choco Pies are a must-try!",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "DESSERT",
+            "name": "Taco Bell Molten Choco Pie 4 Pieces",
+            "price": 119,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Molten Choco Pies are the perfect blend of rich, gooey chocolaty flavours encased in a crispy delightful crust. With every bite, you’ll experience a heavenly explosion of molten choco flavours that is sure to leave you craving more. Whether you’re a chocolate lover or simply looking for the perfect dessert to end your meal, Molten Choco Pies are a must-try!",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "TACO & CHALUPA VEG",
+            "name": "Crispy Chalupa Taco - Mexican paneer",
+            "price": 215,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "\"Crunchy? Chewy? Both. A crunchy and chewy flatbread filled with Mexican paneer, creamy habanero sauce, crisp shredded lettuce, fajita veggies & pico de galo. KCAL - 476.8\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "TACO & CHALUPA VEG",
+            "name": "Cheesy Lava Taco (BurgerKiller) Veg Overload",
+            "price": 275,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "All-new Chalupa Taco, a culinary innovation that combines the Crispy Chalupa Taco and classic Corn Shell Taco packed with spicy Lava Sauce, sour creamy dressing , tangy Pepper Bar-be-que Sauce and explosion of flavours loaded with Molten Cheese filled Veg Patty. KCAL - 891.6",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "TACO & CHALUPA VEG",
+            "name": "DIY Crunchy Taco Supreme Veg",
+            "price": 258,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Introducing Taco Bell's DIY Taco Kit! Enjoy 2 Do It Yourself Crunchy Taco Supreme corn shells packed in a separate box and all ingredients packed separately in a container, ensuring you get the freshest, crispiest taco experience at home! Just Load Taco with fillings and you are set for a delicious treat.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "TACO & CHALUPA NON VEG",
+            "name": "Naked Chicken Taco",
+            "price": 270,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "\"A taco made entirely out of chicken! It is a juicy and crispy chicken taco filled with zesty Harrisa sauce, crisp shredded lettuce and tangy salsa. 478.1\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "TACO & CHALUPA NON VEG",
+            "name": "Crispy Chalupa Taco (Non Veg)",
+            "price": 235,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"Crispy? Chewy? Why not both? Chalupa is a crispy and chewy flatbread filled with chipotle chicken, creamy jalapeno sauce, crisp shredded lettuce and pico de galo. 444.9\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "TACO & CHALUPA NON VEG",
+            "name": "Cheesy Lava Taco (BurgerKiller) Non-Veg Overload",
+            "price": 285,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "All-new Chalupa Taco, a culinary innovation that combines the Crispy Chalupa Taco and classic Corn Shell Taco packed with spicy Lava Sauce, sour creamy dressing , tangy Pepper Bar-be-que Sauce and explosion of flavours loaded with Molten Cheese filled Non Veg Patty. KCAL - 912.2",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "TACO & CHALUPA NON VEG",
+            "name": "DIY Crunchy Taco Supreme Non Veg",
+            "price": 278,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Introducing Taco Bell's DIY Taco Kit! Enjoy 2 Do It Yourself Crunchy Taco Supreme corn shells packed in a separate box and all ingredients packed separately in a container, ensuring you get the freshest, crispiest taco experience at home! Just Load Taco with fillings and you are set for a delicious treat.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CRUNCHY TACOS VEG",
+            "name": "Crunchy Wheat Taco Pinto Bean",
+            "price": 139,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "\"Delicious Crunchy Taco Wheat Shell filled with goodness of pinto beans & flavourful creamy sauces. KCAL - 255.5\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CRUNCHY TACOS NON VEG",
+            "name": "Crunchy Wheat Taco Mexican Chicken",
+            "price": 139,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"Delicious Crunchy Taco shell filled with goodness of Mexican Chicken & flavourful creamy sauces. KCAL - 277.4\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SOFT TACOS VEG",
+            "name": "Soft Taco Grilled Shell Mexican Paneer",
+            "price": 129,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "\"Grilled Soft tortilla filled with goodness of Mexican Paneer & flavourful creamy sauces. KCAL - 257.0\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CRAVINGS VALUE MENU VEG",
+            "name": "Cheese Quesadilla Veg",
+            "price": 109,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "\"Cheese quesadilla is a cheese lovers delight! It has hot cheesy sauce, creamy jalapeno sauce and is filled with Mozrella cheese. KCAL - 253.0\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CRAVINGS VALUE MENU VEG",
+            "name": "Crispy Potato Wrap",
+            "price": 85,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "\"Crispy Potato Wrap is an absolute must have! This wrap is filled with crispy potato bites, drizzled with hot cheesy sauce, creamy jalapeno sauce and topped with Mexican pico de galo. KCAL - 283.5\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CRAVINGS VALUE MENU VEG",
+            "name": "Crispy Potato Taco",
+            "price": 85,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "\"Crispy Potato Taco is a taco filled with crispy potato bites, drizzled with lava sauce,topped with crisp shredded lettuce and Mexican pico de galo. KCAL - 237.5\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CRAVINGS VALUE MENU NON VEG",
+            "name": "Soft Crispy Chicken Taco",
+            "price": 119,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "\"Soft Crispy Chicken Taco is a taco filled with fried chicken nuggets, drizzled with lava sauce, topped with crisp shredded lettuce and Mexican pico de galo. KCAL - 287.54\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CRAVINGS VALUE MENU NON VEG",
+            "name": "Cheesy Chicken Quesadilla",
+            "price": 129,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"Cheesy Chicken Quesadilla is a cheese & chicken lovers delight! Layered with chipotle chicken, it has the hot cheesy sauce, a creamy harrisa sauce and is filled with Mozrella cheese. KCAL - 254.3\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CRAVINGS VALUE MENU NON VEG",
+            "name": "Crispy Chicken Wrap",
+            "price": 119,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"Crispy Chicken Wrap is an absolute must have! This wrap is filled with fried chicken nuggets, drizzled with nacho cheese sauce, creamy jalapeno sauce and topped off with Mexican pico de galo. KCAL - 292.1\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "QUESADILLAS VEG",
+            "name": "Melted Cheese Quesadilla - Veg",
+            "price": 225,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "\"Quesadilla is a soft grilled tortilla folded with loads of cheese, fajita veggies & creamy jalapeno sauce. KCAL - 489.3\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "QUESADILLAS NON VEG",
+            "name": "Melted Cheese Quesadilla- Non Veg",
+            "price": 245,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"The chicken quesadilla is a purist's meal; and we say purist in the most complimenting way possible. Its a simple flour soft tortilla served with chipotle chicken, a hefty portion of melted cheese with creamy jalapeno sauce. KCAL - 484.6\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "BURRITO VEG ROLLS & VEG WRAPS",
+            "name": "7 Layer Burrito Roll - Veg",
+            "price": 300,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "\"7 layer burrito is a complete meal in itself. It is a grilled soft tortilla filled 7 different including fajita veggies, pinto beans, crispy potato bites, Mexican seasoned rice, spicy salsa, hot cheesy sauce & lava sauce, it's mind blowing. KCAL - 610.7\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "BURRITO VEG ROLLS & VEG WRAPS",
+            "name": "Classic Crunchwrap Veg",
+            "price": 234,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "\"A unique star shaped warm wrap. It has diced Paneer marinated in bold mexican spices, lettuce, pico de galo, seasoned nachos and two sauces - spicy lava sauce and hot cheesy sauce. KCAL - 541.5\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "BURRITO VEG ROLLS & VEG WRAPS",
+            "name": "Habanero Burrito Roll - Veg",
+            "price": 165,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Habanero burrito is a soft tortilla roll with delicious fajita veggie filling topped with tangy sriracha sauce.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "BURRITO VEG ROLLS & VEG WRAPS",
+            "name": "Fiery Volcano Burrito - Veg",
+            "price": 195,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "\"This mouthwatering delight features a harmonious blend of Mexican seasoned rice, Savory Mexican paneer, seasoned fries, and a symphony of delicious habanero & Caribbean sauce all wrapped in a warm grilled tortilla that ignites the taste buds. Brace yourself for an explosion of flavour with every bite of the Fiery Volcano Burrito. KCAL - 582.7\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "BURRITO NON VEG ROLLS & NON VEG WRAPS",
+            "name": "7 Layer Burrito Roll - Non veg",
+            "price": 309,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "\"7 layer burrito is a complete meal in itself. It is a grilled soft tortilla filled with 7 different fillings including Chipotle Chicken, Mexican seasoned rice, spicy salsa, hot cheesy sauce, lava sauce, pinto beans & pico de galo, it's mind blowing. KCAL - 659.8\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "BURRITO NON VEG ROLLS & NON VEG WRAPS",
+            "name": "Classic Crunchwrap Chicken",
+            "price": 264,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"A unique star shaped warm wrap. It has fried chicken nuggets marinated in bold mexican spices, lettuce, pico de galo, seasoned nachos and two sauces - spicy lava sauce and hot cheesy sauce. KCAL - 679.0\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "BURRITO NON VEG ROLLS & NON VEG WRAPS",
+            "name": "Fiery Volcano Burrito - Chicken",
+            "price": 215,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "This mouthwatering delight features a harmonious blend of Mexican seasoned rice, Savory Mexican Chicken, seasoned fries, and a symphony of delicious habanero & Caribbean sauce that ignites the taste buds. Brace yourself for an explosion of flavour with every bite of the Fiery Volcano Burrito. KCAL - 562.0",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "WATER",
+            "name": "Aquavess 1L",
+            "price": 47.62,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "TUMBLER BEVERAGE",
+            "name": "Pepsi Masala Twist.",
+            "price": 119,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "Pepsi Masala Twist – the perfect fusion of classic Pepsi fizz and a spicy desi kick! This refreshing, tangy, and slightly fiery drink brings together the sweet caramel notes of Pepsi with a zesty masala blend",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "TUMBLER BEVERAGE",
+            "name": "Red Apple Spiced Mojito.",
+            "price": 119,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "TUMBLER BEVERAGE",
+            "name": "Peach Ginger Zing",
+            "price": 119,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "TUMBLER BEVERAGE",
+            "name": "Mango Chilli Twist",
+            "price": 119,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "TUMBLER BEVERAGE",
+            "name": "Green Lemon-Ade.",
+            "price": 119,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "TUMBLER BEVERAGE",
+            "name": "Mango Thickshake.",
+            "price": 179,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "TUMBLER BEVERAGE",
+            "name": "Chocolate Thickshake.",
+            "price": 179,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "TUMBLER BEVERAGE",
+            "name": "Cookie Crumble Thickshake",
+            "price": 179,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "TUMBLER BEVERAGE",
+            "name": "Hazalnut Cold Coffee Thickshake.",
+            "price": 179,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "TUMBLER BEVERAGE",
+            "name": "Ice Tea.",
+            "price": 85,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SIDES & DIPS VEG",
+            "name": "Seasoned Nachos & Salsa",
+            "price": 139,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Prepared fresh every day in restaurant and topped with bold Mexican seasoning. Served with tangy Salsa. KCAL - 228.2",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SIDES & DIPS VEG",
+            "name": "Cheesy Fries",
+            "price": 155,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Our signature fries topped with mexican seasoning and served with signature nacho cheese. It's the king of fries - trust us. KCAL - 316.9",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SIDES & DIPS VEG",
+            "name": "Cheesy Seasoned Nachos",
+            "price": 165,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Super crispy nachos topped with Mexican seasoning, nacho cheese sauce with diced tomatoes & onions. KCAL - 311.6",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SIDES & DIPS VEG",
+            "name": "Cheesy Dip",
+            "price": 45,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Kcal - 106.3",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SIDES & DIPS VEG",
+            "name": "Spicy salsa dip",
+            "price": 45,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Kcal - 21.9",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SIDES & DIPS VEG",
+            "name": "Chocolate Sauce",
+            "price": 45,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SIDES & DIPS VEG",
+            "name": "Sour Creamy Dip",
+            "price": 45,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Kcal - 106.3",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SIDES & DIPS VEG",
+            "name": "Lava Sauce",
+            "price": 45,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Kcal - 119.2",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SIDES & DIPS VEG",
+            "name": "Seasoned Fries",
+            "price": 139,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "Our signature fries topped with Mexican seasoning. It's the king of fries - trust us. KCAL - 218.0",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SIDES & DIPS NON VEG",
+            "name": "4 Nuggets",
+            "price": 119,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Kcal - 257.0",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SIDES & DIPS NON VEG",
+            "name": "5 Nuggets & Lava Dip",
+            "price": 165,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Kcal - 440.4",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SUPER SAVER COMBOS VEG",
+            "name": "Value Rice Bowl & Pepsi Veg",
+            "price": 166,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Combo includes one Veg Value Rice Bowl & One Pepsi.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SUPER SAVER COMBOS VEG",
+            "name": "Habanero Burrito & Seasoned Fries Veg",
+            "price": 199,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Combo includes one Veg Habanero Burrito & One Seasoned Fries",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SUPER SAVER COMBOS VEG",
+            "name": "Wheat Taco & Fries Veg",
+            "price": 198,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Combo includes one Veg Crunchy Wheat Taco & One Seasoned Fries",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SUPER SAVER COMBOS NON VEG",
+            "name": "Value Rice Bowl & Pepsi Non-Veg",
+            "price": 186,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Combo includes one Chicken Value Rice Bowl & One Pepsi.",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SUPER SAVER COMBOS NON VEG",
+            "name": "Habanero Burrito & Seasoned Fries Non-Veg",
+            "price": 244,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Combo includes one Chicken Habanero Burrito & One Seasoned Fries",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SUPER SAVER COMBOS NON VEG",
+            "name": "Wheat Taco & Fries Non-Veg",
+            "price": 208,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Combo includes one Chicken Crunchy Wheat Taco & One Seasoned Fries",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEXICAN RICE BOWL (AKA MEXICAN BIRYANI)VEG",
+            "name": "Burrito Rice Bowl Regular Veg (aka Mexican Biryani)",
+            "price": 209,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "\"It's all you want just in a bowl filled with Mexican seasoned rice, fajita veggies, pinto beans,seasoned nachos, Mexican pico de galo, creamy jalapeno sauce & sour cream. KCAL - 820.5\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEXICAN RICE BOWL (AKA MEXICAN BIRYANI)VEG",
+            "name": "Burrito Value Rice Bowl Veg (aka Mexican Biryani)",
+            "price": 129,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Goodness of Mexican seasoned rice, beans and veggies in a wholesome bowl. KCAL - 371.5",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEXICAN RICE BOWL (AKA MEXICAN BIRYANI)VEG",
+            "name": "Mexican Burrito Rice Bowl Supreme Veg (aka Mexican Biryani)",
+            "price": 295,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Goodness of Seasoned Rice, Mexican Paneer, Pinto Beans, Veggies, indulgent Sour Cream, Crunchy Seasoned Nachos in a wholesome jumbo bowl. KCAL - 807.6",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEXICAN RICE BOWL (AKA MEXICAN BIRYANI)NONVEG",
+            "name": "Burrito Rice Bowl Regular NonVeg (aka Mexican Biryani)",
+            "price": 229,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "\"It's all you want just in a bowl filled with Mexican seasoned rice, chipotle chicken, pinto beans,seasoned nachos, Mexican pico de galo, creamy jalapeno sauce & sour cream. KCAL - 641.1\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEXICAN RICE BOWL (AKA MEXICAN BIRYANI)NONVEG",
+            "name": "Burrito Value Rice Bowl Non-Veg (aka Mexican Biryani)",
+            "price": 155,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"Goodness of Mexican seasoned rice, chicken and veggies in a wholesome bowl. KCAL - 393.4\"",
+            "restaurant_name": "Taco Bell"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEXICAN RICE BOWL (AKA MEXICAN BIRYANI)NONVEG",
+            "name": "Mexican Burrito Rice Bowl Supreme Non-Veg (aka Mexican Biryani)",
+            "price": 315,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"Goodness of Seasoned Rice,Fajita Veggies, Pinto Beans, Chipotle Chicken, indulgent Sour Creamy dressing, Crunchy Seasoned Nachos in a wholesome jumbo bowl. KCAL - 728.8\"",
+            "restaurant_name": "Taco Bell"
+        }
+    ]
+}

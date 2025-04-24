@@ -1,0 +1,1813 @@
+{
+    "restaurant_info": {
+        "name": "Burger King",
+        "location": "E-8, Inner Circle, Connaught Place, New Delhi",
+        "rating": "4.1",
+        "rating_count": "25.4K",
+        "cuisines": "Burger, Fast Food, Desserts, Shake",
+        "timing": "10:00 AM to 11:00 PM",
+        "phone": "+911143509889"
+    },
+    "menu_items": [
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Korean Spicy Paneer Burger.",
+            "price": 299,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "\"Crunchy Soft Paneer patty dunked in hot and sweet Korean glaze with Korean sesame mayo in premium Brioche buns for authentic Korean flavours. Qty: 228 Gms| Kcal: 695.26 | Carbs 67.94 Gms| Sugar: 16.99 Gms| Fat: 38.07 Gms| Saturated fat: 15.82 Gms| Protein: 20.20 Gms| Sodium: 1744.70 Mg Contains: Gluten, Soybean , Milk \"",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Korean Spicy Chicken Burger.",
+            "price": 299,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"Crunchy Juicy whole muscle chicken patty dunked in hot and sweet Korean glaze with Korean sesame mayo in premium Brioche buns for authentic Korean flavours Qty: 227 Gms| Kcal: 607.27 | Carbs 55.14 Gms| Sugar: 31.59 Gms| Fat: 31.59 Gms| Saturated fat: 11.58 Gms| Protein: 25.58 Gms| Sodium: 1793.87 Mg Contains: Gluten, Soybean , Milk \"",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Korean Spicy Fries.",
+            "price": 159,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "\"Cheesy Fries with hot and sweet Korean glaze. Qty: 174 Gms| Kcal: 496.70 | Carbs 53.57 Gms| Sugar: 10.88 Gms| Fat: 28.29 Gms| Saturated fat: 10.14 Gms| Protein: 6.94 Gms| Sodium: 1469.93 Mg Contains: Gluten, Soybean , Milk , Sesame seeds\"",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "2Crispy Veg Double Patty Burger+Korean Spicy Fries.",
+            "price": 357,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Korean Spicy Chicken (4 Pc)",
+            "price": 199,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"Boneless Chicken dunked in hot and sweet Korean glaze. Qty: 155 Gms| Kcal: 350.176 | Carbs 27.51 Gms| Sugar: 0 Gms| Fat: 15.5 Gms| Saturated fat: 5.75 Gms| Protein: 25.16 Gms| Sodium: 1592.60 Mg Contains: Gluten, Soybean , Milk , Sesame seeds\"",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Korean Spicy Chicken (4pc) + Crispy Chicken Burger.",
+            "price": 298,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Korean Spicy Chicken (7 Pc)",
+            "price": 299,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"Boneless Chicken dunked in hot and sweet Korean glaze. Qty: 221 Gms| Kcal: 595.04 | Carbs 24.77 Gms| Sugar: 0 Gms| Fat: 39.89 Gms| Saturated fat: 15.25 Gms| Protein: 34.23 Gms| Sodium: 2188.96 Mg Contains: Gluten, Soybean , Milk , Sesame seeds\"",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Korean Spicy Chicken Wings (4pc)",
+            "price": 229,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"Chicken Wings dunked in hot and sweet Korean glaze. Qty: 172 Gms| Kcal: 496.80 | Carbs 28.19 Gms| Sugar: 0 Gms| Fat: 30.34 Gms| Saturated fat: 11.04 Gms| Protein: 27.74 Gms| Sodium: 2714.33 Mg Contains: Gluten, Soybean , Milk , Sesame seeds\"",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "2Crispy Veg Burger+Korean Spicy Fries+2Coke.",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "2Crispy Chicken Burger+Korean Spicy Chicken(4pc)+2Coke.",
+            "price": 449,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "2Whopper Jr Chicken+Korean Spicy Chicken(7pc).",
+            "price": 509,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "2Whopper Jr Veg+2Korean Spicy Fries.",
+            "price": 509,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Korean Spicy Paneer Burger Meal.",
+            "price": 449,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Korean Spicy Chicken Burger Meal.",
+            "price": 449,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Korean Spicy Paneer+Korean Spicy Fries(M).",
+            "price": 359,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Korean Spicy Chicken+Korean Spicy Fries(M).",
+            "price": 359,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Korean Spicy Chicken Wings(4pc) + Korean Spicy Chicken (4pc).",
+            "price": 379,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VALUE BURGERS & TACOS",
+            "name": "Crispy Veg Burger.",
+            "price": 70,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "Our best-selling burger with crispy veg patty, fresh onion and our signature sauce",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VALUE BURGERS & TACOS",
+            "name": "Crispy Chicken Burger",
+            "price": 99,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Crispy Chicken Patty, Onion & Our Signature Tomato Herby Sauce. Qty: 125 Gms| Kcal: 359.1 | Carbs 44.3 Gms| Sugar: 7.5 Gms| Fat: 15.1 Gms| Saturated fat: 4.8 Gms| Protein: 11.5 Gms| Sodium: 592.4 Mg Contains: Gluten, Soybean, Milk, Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VALUE BURGERS & TACOS",
+            "name": "Veg Makhani Burst Burger.",
+            "price": 80,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "Enjoy Makhani Flavour With Mix Veg Patty Topped Up With Onion",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VALUE BURGERS & TACOS",
+            "name": "Chicken Makhani Burst Burger",
+            "price": 109,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "2 Crunchy Veg taco + med fries Qty: 125 Gms| Kcal: 316 | Carbs 41.7 Gms| Sugar: 8 Gms| Fat: 11.1 Gms| Saturated fat: 4.3 Gms| Protein: 10.7 Gms| Sodium: 780.5 Mg Contains: Gluten, Soybean, Milk, Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VALUE BURGERS & TACOS",
+            "name": "Crispy Veg Double Patty Burger",
+            "price": 99,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Double Masaledar Veg Patty, Onion & Our Signature Tomato Herby Sauce. Qty: 204 Gms| Kcal: 531.4 | Carbs 70.6 Gms| Sugar: 9.1 Gms| Fat: 22.7 Gms| Saturated fat: 9.2 Gms| Protein: 11.2 Gms| Sodium: 1068 Mg Contains: Gluten, Soybean, Milk, Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VALUE BURGERS & TACOS",
+            "name": "Crispy Chicken Double Patty Burger.",
+            "price": 139,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "Our best-selling burger with crispy chicken patty, onion and classic mayo sauce.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VALUE BURGERS & TACOS",
+            "name": "Veg Crunchy Taco",
+            "price": 90,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Crunchy Taco Shell Filled With Beans & Veg Mix, Chef'S Secret Sauce, Onion & Lettuce. Qty: 105 Gms| Kcal: 336.1 | Carbs 33.7 Gms| Sugar: 7.1 Gms| Fat: 20.8 Gms| Saturated fat: 13.9 Gms| Protein: 3.6 Gms| Sodium: 589.6 Mg Contains: Soybean, Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VALUE BURGERS & TACOS",
+            "name": "Crunchy Chicken Taco.",
+            "price": 119,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Crunchy Taco Shell With Chicken Patty, Veggies And Spicy Sauce. Qty: 135 Gms| Kcal: 262 | Carbs 24.8 Gms| Sugar: 2.9 Gms| Fat: 16 Gms| Saturated fat: 5.5 Gms| Protein: 5.1 Gms| Sodium: 525.9 Mg Contains: Soybean, Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VALUE BURGERS & TACOS",
+            "name": "Crispy Veg Double Patty Burger with Double Cheese Slice.",
+            "price": 149,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VALUE BURGERS & TACOS",
+            "name": "Chicken Makhani Burst Burger with Cheese.",
+            "price": 134,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VALUE BURGERS & TACOS",
+            "name": "Veg Makhani Burst Double Cheese Burger.",
+            "price": 130,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VALUE BURGERS & TACOS",
+            "name": "Crispy Chicken Triple Cheese Burger.",
+            "price": 174,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VALUE BURGERS & TACOS",
+            "name": "BK Veggie Burger.",
+            "price": 139,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "BK Veg Patty, Lettuce, Tomato(Seasonal) & Our Signature Mayo Sauce. Qty: 152 Gms| Kcal: 352.5 | Carbs 45.4 Gms| Sugar: 7.8 Gms| Fat: 13.6 Gms| Saturated fat: 4.7 Gms| Protein: 12 Gms| Sodium: 593.8 Mg Contains: Gluten, Soybean, Milk, Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VALUE BURGERS & TACOS",
+            "name": "BK Chicken Burger.",
+            "price": 149,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "BK Chicken Patty, Lettuce, Tomato(Seasonal) & Our Signature Mayo Sauce. Qty: 164 Gms| Kcal: 415 | Carbs 39 Gms| Sugar: 7.2 Gms| Fat: 21.2 Gms| Saturated fat: 7.2 Gms| Protein: 17 Gms| Sodium: 283.9 Mg Contains: Gluten, Soybean, Milk, Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VALUE BURGERS & TACOS",
+            "name": "BK Veggie Triple Cheese Burger.",
+            "price": 214,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "WHOPPER",
+            "name": "Original Whopper Veg.",
+            "price": 189,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Our Original Whopper with Crunchy Veg Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces With Xxl Buns. Qty: 285 Gms| Kcal: 681.2 | Carbs 97.1 Gms| Sugar: 23.1 Gms| Fat: 25.4 Gms| Saturated fat: 9.8 Gms| Protein: 15.8 Gms| Sodium: 987.8 Mg Contains: Gluten, Soybean, Milk, Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "WHOPPER",
+            "name": "Original Whopper Chicken.",
+            "price": 209,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Our Original Whopper with Flame Grilled Chicken Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces With Xxl Buns. Qty: 280 Gms| Kcal: 667.2 | Carbs 59.1 Gms| Sugar: 8.7 Gms| Fat: 36.3 Gms| Saturated fat: 8.1 Gms| Protein: 26.2 Gms| Sodium: 1018.7 Mg Contains: Gluten, Soybean, Milk, Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "WHOPPER",
+            "name": "Whopper Jr Veg.",
+            "price": 149,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "Our Signature Whopper with Crunchy Veg Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces Qty: 194 Gms| Kcal: 456 | Carbs 61.6 Gms| Sugar: 9.2 Gms| Fat: 20 Gms| Saturated fat: 11.9 Gms| Protein: 7.2 Gms| Sodium: 1428.1 Mg Contains: Gluten, Soybean, Milk, Sesame seeds.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "WHOPPER",
+            "name": "Chicken Whopper Jr Double Patty.",
+            "price": 219,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "WHOPPER",
+            "name": "Whopper Jr Veg Stacker.",
+            "price": 239,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "WHOPPER",
+            "name": "Whopper Jr Chicken with Cheese Slice.",
+            "price": 204,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "WHOPPER",
+            "name": "Whopper Jr Veg with Cheese Slice.",
+            "price": 174,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "WHOPPER",
+            "name": "Whopper Jr Chicken",
+            "price": 169,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Our Signature Whopper with Flame Grilled Chicken Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces Qty: 167 Gms| Kcal: 369 | Carbs 43.4 Gms| Sugar: 8.4 Gms| Fat: 13.7 Gms| Saturated fat: 6.2 Gms| Protein: 18 Gms| Sodium: 1314.3 Mg Contains: Gluten, Soybean, Milk, Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "WHOPPER",
+            "name": "Mutton Whopper Jr",
+            "price": 219,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Our signature Whopper with Flame Grilled Mutton Patty, Onions, Lettuce, Tomatoes, Gherkins, Creamy & Smoky Sauces",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "PREMIUM BURGERS & WRAPS- (KINGS COLLECTION)",
+            "name": "Paneer Royale Wrap,",
+            "price": 229,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "Qty: 234 Gms | Kcal: 676.2 | Carbs 63.2 Gms | Sugar: 9.7 Gms | Fat: 35.6 Gms | Saturated fat: 18 Gms | Protein: 25.3 Gms | Sodium: 1077.9 Mg Contains: Gluten, Soybean , Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "PREMIUM BURGERS & WRAPS- (KINGS COLLECTION)",
+            "name": "Hot 'N' Saucy Burger,",
+            "price": 209,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Chilli Creamy Patty, Spicy Sauce, in premium Brioche buns.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "PREMIUM BURGERS & WRAPS- (KINGS COLLECTION)",
+            "name": "Crunchy Chicken Wrap,",
+            "price": 229,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Qty: 252 Gms | Kcal: 483.8 | Carbs 50.6 Gms | Sugar: 9.3 Gms | Fat: 22.5 Gms | Saturated fat: 8.2 Gms | Protein: 19.8 Gms | Sodium: 1176.5 Mg Contains: Gluten, Soybean , Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "PREMIUM BURGERS & WRAPS- (KINGS COLLECTION)",
+            "name": "Chicken Tandoori Burger,",
+            "price": 209,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Flame Grilled Tandoori Chicken, Veg Khurchan in premium Brioche buns.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "PREMIUM BURGERS & WRAPS- (KINGS COLLECTION)",
+            "name": "Korean Spicy Paneer Burger,",
+            "price": 299,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "\"Crunchy Soft Paneer patty dunked in hot and sweet Korean glaze with Korean sesame mayo in premium Brioche buns for authentic Korean flavours. Qty: 228 Gms| Kcal: 695.26 | Carbs 67.94 Gms| Sugar: 16.99 Gms| Fat: 38.07 Gms| Saturated fat: 15.82 Gms| Protein: 20.20 Gms| Sodium: 1744.70 Mg Contains: Gluten, Soybean , Milk \"",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "PREMIUM BURGERS & WRAPS- (KINGS COLLECTION)",
+            "name": "Korean Spicy Chicken Burger,",
+            "price": 299,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"Crunchy Juicy whole muscle chicken patty dunked in hot and sweet Korean glaze with Korean sesame mayo in premium Brioche buns for authentic Korean flavours Qty: 227 Gms| Kcal: 607.27 | Carbs 55.14 Gms| Sugar: 31.59 Gms| Fat: 31.59 Gms| Saturated fat: 11.58 Gms| Protein: 25.58 Gms| Sodium: 1793.87 Mg Contains: Gluten, Soybean , Milk \"",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRIES",
+            "name": "Medium Peri Peri Fries.",
+            "price": 144,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "Crispy Fries With Tangy Peri Peri Spice. Qty: 119 Gms| Kcal: 345.3 | Carbs 447.6 Gms| Sugar: 0.9 Gms| Fat: 14.7 Gms| Saturated fat: 6.8 Gms| Protein: 6.3 Gms| Sodium: 998.8 Mg Contains: Soybean, Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRIES",
+            "name": "King Fries.",
+            "price": 139,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "The Perfect Crispy Partner Qty: 156 Gms| Kcal: 455 | Carbs 609.48 Gms| Sugar: 0 Gms| Fat: 19.7 Gms| Saturated fat: 9.31 Gms| Protein: 8 Gms| Sodium: 723.7 Mg Contains: Gluten",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRIES",
+            "name": "Saucy Fries.",
+            "price": 145,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "Crispy French Fries, Loads of Cheese, Yum!",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRIES",
+            "name": "Regular Fries.",
+            "price": 90,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "The perfect crispy partner.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRIES",
+            "name": "2 Med Fries.",
+            "price": 238,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "The perfect crispy partner.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRIES",
+            "name": "2 King Fries,",
+            "price": 278,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "MRP. 260 | Save Rs. 91, The perfect crispy partner.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRIES",
+            "name": "Medium Fries",
+            "price": 119,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "The Perfect Crispy Partner. Qty: 114 Gms| Kcal: 332.5 | Carbs 445.39 Gms| Sugar: 0 Gms| Fat: 14.4 Gms| Saturated fat: 6.8 Gms| Protein: 5.9 Gms| Sodium: 528.8 Mg Contains: Gluten",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRIES",
+            "name": "King Peri Peri Fries",
+            "price": 159,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Crispy Fries With Tangy Peri Peri Spice. Qty: 161 Gms| Kcal: 467.8 | Carbs 611.7 Gms| Sugar: 0.9 Gms| Fat: 20 Gms| Saturated fat: 9.3 Gms| Protein: 8.4 Gms| Sodium: 1193.7 Mg Contains: Gluten, Soybean",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRIES",
+            "name": "Fiery Hell Dip",
+            "price": 23.81,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Qty: 20 Gms| Kcal: 81.4 | Carbs 3.3 Gms| Sugar: 1.8 Gms| Fat: 7.4 Gms| Saturated fat: 1.3 Gms| Protein: 0.3 Gms| Sodium: 194 Mg Contains: Soybean , Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRIES",
+            "name": "Peri Peri Spice Mix",
+            "price": 28.57,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Peri Peri Spice Mix. Qty: 5 Gms| Kcal: 12.8 | Carbs 2.2 Gms| Sugar: 0.9 Gms| Fat: 0.3 Gms| Saturated fat: 0 Gms| Protein: 0.4 Gms| Sodium: 470 Mg Contains: Soybean",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRIES",
+            "name": "Korean Spicy Fries,",
+            "price": 159,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "\"Cheesy Fries with hot and sweet Korean glaze. Qty: 174 Gms| Kcal: 496.70 | Carbs 53.57 Gms| Sugar: 10.88 Gms| Fat: 28.29 Gms| Saturated fat: 10.14 Gms| Protein: 6.94 Gms| Sodium: 1469.93 Mg Contains: Gluten, Soybean , Milk , Sesame seeds\"",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SNACKS",
+            "name": "BK Veg Pizza Puff.",
+            "price": 65,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "\"Crispy savoury pastry with a filling of tomato sauce with corn, carrots, bell peppers, peas and mozzarella. Caution: Served Hot.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SNACKS",
+            "name": "Veggie Strips - 5 Pcs.",
+            "price": 59,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Vegetarian's favourite finger food.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SNACKS",
+            "name": "Crunchy Chicken Nuggets (4pcs)+Fiery Hell Dip.",
+            "price": 132.81,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SNACKS",
+            "name": "(6Pc) Crunchy Chicken Nuggets + 1 Dip.",
+            "price": 169,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Tender Juicy Crunchy Chicken Nuggets fried to golden brown perfection. Served with Fiery Hell Dip",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SNACKS",
+            "name": "(9Pc) Crunchy Chicken Nuggets + 2 Dips,",
+            "price": 199,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Qty: 200 Gms | Kcal: 548.3 | Carbs 39.3 Gms | Sugar: 4 Gms | Fat: 32 Gms | Saturated fat: 11.2 Gms | Protein: 25.4 Gms | Sodium: 401.3 Mg Contains: , Soybean , Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CHICKEN WINGS",
+            "name": "Boneless Wings Regular.",
+            "price": 169,
+            "veg_status": "Non-Veg",
+            "tags": "Not eligible for coupons",
+            "description": "4Pcs Boneless Chicken Bites Qty: 95 Gms| Kcal: 213 | Carbs 16 Gms| Sugar: 0 Gms| Fat: 9.2 Gms| Saturated fat: 5.2 Gms| Protein: 16.8 Gms| Sodium: 555 Mg Contains: Gluten, Soybean, Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CHICKEN WINGS",
+            "name": "Boneless Wings Large",
+            "price": 269,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "7Pcs Boneless Chicken Bites Qty: 165 Gms| Kcal: 371 | Carbs 27.9 Gms| Sugar: 0 Gms| Fat: 16 Gms| Saturated fat: 9.1 Gms| Protein: 29.2 Gms| Sodium: 963.8 Mg Contains: Gluten, Soybean, Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CHICKEN WINGS",
+            "name": "Chicken Wings Fried - 2pcs.",
+            "price": 99,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CHICKEN WINGS",
+            "name": "Chicken Wings Grilled - Two Pieces",
+            "price": 99,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Juicy chicken wings cooked to perfection.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CHICKEN WINGS",
+            "name": "Chicken Wings Fried - Four Pieces.",
+            "price": 179,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Juicy chicken wings cooked to perfection.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CHICKEN WINGS",
+            "name": "Chicken Wings Grilled - Four Pieces",
+            "price": 179,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Juicy chicken wings cooked to perfection.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CHICKEN WINGS",
+            "name": "Chicken Wings Fried - Ten Pieces",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Chicken Wings Fried To Perfection. Qty: 350 Gms| Kcal: 750 | Carbs 40.1 Gms| Sugar: 0 Gms| Fat: 47 Gms| Saturated fat: 18.5 Gms| Protein: 79.9 Gms| Sodium: 2020 Mg Contains: Gluten, Soybean, Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CHICKEN WINGS",
+            "name": "Chicken Wings Grilled - Ten Pieces",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Juicy chicken wings cooked to perfection.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CHICKEN WINGS",
+            "name": "Chicken Wings - Five Pcs Fried + Five Pcs Grilled",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Combination of juicy fried and grilled chicken wings.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CHICKEN WINGS",
+            "name": "Chicken Wings Fried - Fifteen Pieces",
+            "price": 579,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Chicken Wings Fried To Perfection. Qty: 525 Gms| Kcal: 1125 | Carbs 60.8 Gms| Sugar: 0 Gms| Fat: 69.8 Gms| Saturated fat: 27 Gms| Protein: 119.3 Gms| Sodium: 3030 Mg Contains: Gluten, Soybean, Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CHICKEN WINGS",
+            "name": "Chicken Wings Grilled - Fifteen Pieces",
+            "price": 579,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Juicy chicken wings cooked to perfection.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CHICKEN WINGS",
+            "name": "Korean Spicy Chicken (4 Pc)!",
+            "price": 199,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"Boneless Chicken dunked in hot and sweet Korean glaze. Qty: 155 Gms| Kcal: 350.176 | Carbs 27.51 Gms| Sugar: 0 Gms| Fat: 15.5 Gms| Saturated fat: 5.75 Gms| Protein: 25.16 Gms| Sodium: 1592.60 Mg Contains: Gluten, Soybean , Milk , Sesame seeds\"",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CHICKEN WINGS",
+            "name": "Korean Spicy Chicken (7 Pc)!",
+            "price": 299,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"Boneless Chicken dunked in hot and sweet Korean glaze. Qty: 221 Gms| Kcal: 595.04 | Carbs 24.77 Gms| Sugar: 0 Gms| Fat: 39.89 Gms| Saturated fat: 15.25 Gms| Protein: 34.23 Gms| Sodium: 2188.96 Mg Contains: Gluten, Soybean , Milk , Sesame seeds\"",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CHICKEN WINGS",
+            "name": "Korean Spicy Chicken Wings (4pc)!",
+            "price": 229,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "\"Chicken Wings dunked in hot and sweet Korean glaze. Qty: 172 Gms| Kcal: 496.80 | Carbs 28.19 Gms| Sugar: 0 Gms| Fat: 30.34 Gms| Saturated fat: 11.04 Gms| Protein: 27.74 Gms| Sodium: 2714.33 Mg Contains: Gluten, Soybean , Milk , Sesame seeds\"",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "COLD BEVERAGES",
+            "name": "Ice Latte.",
+            "price": 199,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "COLD BEVERAGES",
+            "name": "Classic Cold Coffee.",
+            "price": 199,
+            "veg_status": "Veg",
+            "tags": "Not eligible for coupons",
+            "description": "Our signature BK Café Coffee ice blended with milk & cream",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "COLD BEVERAGES",
+            "name": "Chocolate Shake.",
+            "price": 189,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Our signature chocolate thick shake.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "COLD BEVERAGES",
+            "name": "Mango Shake.",
+            "price": 189,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Our signature mango thick shake.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "COLD BEVERAGES",
+            "name": "Berry Blast Thick Shake",
+            "price": 189,
+            "veg_status": "Veg",
+            "tags": "Not eligible for coupons",
+            "description": "Our Signature Black Currant Thick Shake Qty: 300 ML| Kcal: 474 | Carbs 90.9 Gms| Sugar: 68.2 Gms| Fat: 8.8 Gms| Saturated fat: 6 Gms| Protein: 7.9 Gms| Sodium: 150.9 Mg Contains: Soybean, Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "COLD BEVERAGES",
+            "name": "Mocha Frappe,",
+            "price": 269,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Qty: 350 Gms | Kcal: 328 | Carbs 48.3 Gms | Sugar: 10.4 Gms | Fat: 10.2 Gms | Saturated fat: 38.2 Gms | Protein: 8.7 Gms | Sodium: 94.5 Mg Contains: , Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HOT BEVERAGES",
+            "name": "Masala Chai",
+            "price": 109,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Masala Chai Qty: 200 Gms| Kcal: 84 | Carbs 15.8 Gms| Sugar: 1.1 Gms| Fat: 2.7 Gms| Saturated fat: 11.2 Gms| Protein: 0.7 Gms| Sodium: 36.2 Mg Contains: Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HOT BEVERAGES",
+            "name": "Cappuccino Small.",
+            "price": 189,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Small Cappuccino @ 99 Qty: 240 Gms| Kcal: 101 | Carbs 9.8 Gms| Sugar: 4.3 Gms| Fat: 5.8 Gms| Saturated fat: 0 Gms| Protein: 3 Gms| Sodium: 72 Mg Contains: Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HOT BEVERAGES",
+            "name": "Café Latte (Small)",
+            "price": 159,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Our Signature Bk Café© Coffee With Steamed Milk. Qty: 240 Gms| Kcal: 110 | Carbs 9.8 Gms| Sugar: 4.9 Gms| Fat: 6.5 Gms| Saturated fat: 0 Gms| Protein: 3.4 Gms| Sodium: 79.2 Mg Contains: Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HOT BEVERAGES",
+            "name": "Hot Chocolate.",
+            "price": 179,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Hot Chocolate",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HOT BEVERAGES",
+            "name": "Cappuccino (Regular)",
+            "price": 189,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Espresso With Steamed Milk & Milk Froth. Qty: 330 Gms| Kcal: 138.9 | Carbs 13.5 Gms| Sugar: 5.9 Gms| Fat: 7.9 Gms| Saturated fat: 0 Gms| Protein: 4.1 Gms| Sodium: 99 Mg Contains: Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HOT BEVERAGES",
+            "name": "Café Latte (Regular)",
+            "price": 189,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Our Signature Bk Café© Coffee With Steamed Milk. Qty: 330 Gms| Kcal: 151 | Carbs 13.5 Gms| Sugar: 6.8 Gms| Fat: 8.9 Gms| Saturated fat: 0 Gms| Protein: 4.8 Gms| Sodium: 108.9 Mg Contains: Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HOT BEVERAGES",
+            "name": "Mocha Cappuccino (Small).",
+            "price": 199,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Our Signature Bk Café© Coffee With Chocolate Flavour Qty: 240 Gms| Kcal: 246 | Carbs 41 Gms| Sugar: 6.6 Gms| Fat: 5.8 Gms| Saturated fat: 26.4 Gms| Protein: 4.3 Gms| Sodium: 57.6 Mg Contains: Soybean, Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HOT BEVERAGES",
+            "name": "Mocha Cappuccino (Regular)",
+            "price": 229,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Our Signature Bk Café© Coffee With Chocolate Flavour Qty: 330 Gms| Kcal: 338.5 | Carbs 56.4 Gms| Sugar: 9 Gms| Fat: 7.9 Gms| Saturated fat: 36.4 Gms| Protein: 5.9 Gms| Sodium: 79.2 Mg Contains: Soybean, Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HOT BEVERAGES",
+            "name": "Americano (Regular)",
+            "price": 189,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Our signature BK Café Coffee with Hot Water.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HOT BEVERAGES",
+            "name": "Americano (Small)",
+            "price": 159,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Our signature BK Café Coffee with Hot Water.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crispy Chicken Meal.",
+            "price": 284,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crispy Veg Meal.",
+            "price": 255,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Makhani Burst Meal.",
+            "price": 265,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crunchy Veg Taco+Veggie Strips+Coke.",
+            "price": 244,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Puff Meal.",
+            "price": 250,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crispy Chicken Burger Peri Peri Meal (R)",
+            "price": 312.57,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Crispy Chicken Burger+Peri Peri Fries( R)+Coke",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crispy Veg Burger Peri Peri Meal (R)",
+            "price": 283.57,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Crispy Veg Burger+Peri Peri Fries( R)+Coke",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Peri Peri Fries (R)",
+            "price": 118.57,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Crispy Fries with Tangy Peri Peri Spice",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "2BK Veggie Burger +2Peri Peri Fries(R)",
+            "price": 515.14,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "2BK Veggie+2Peri Peri Fries( R)",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Whopper Jr Veg Meal,",
+            "price": 363,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "BK Veggie Burger+Fries(Reg)+Coca Cola,",
+            "price": 324,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Kcal: 683.63 | Carbs 353.64 Gms | Sugar: 42.39 Gms | Fat: 22.48 Gms | Saturated fat: 8.88 Gms | Protein: 15.6 Gms | Sodium: 944.2 Mg Contains: Gluten, Soybean , Milk , Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crispy Veg Double Patty Meal,",
+            "price": 303,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Makhani Burst+Fries(Reg)+Coke,",
+            "price": 294,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crispy Veg Combo (M)",
+            "price": 229,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Masaledar Veg Patty, Onion & Our Signature Tomato Herby Sauce. Served with Crispy Fries & Coca Cola. Kcal: 888.7 | Carbs 547.9 Gms| Sugar: 54.2 Gms| Fat: 27.2 Gms| Saturated fat: 11.7 Gms| Protein: 14.3 Gms| Sodium: 1365.3 Mg Contains: Gluten, Soybean, Milk, Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Original Whopper Veg Combo (M)",
+            "price": 328,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Our Signature Whopper with Crunchy Veg Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces With Xxl Buns. Served With Crispy Fries & Coca Cola. Kcal: 1203.8 | Carbs 594.5 Gms| Sugar: 75.1 Gms| Fat: 39.8 Gms| Saturated fat: 16.6 Gms| Protein: 21.7 Gms| Sodium: 1554.6 Mg Contains: Gluten, Soybean, Milk, Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Original Whopper Chicken Combo (M)",
+            "price": 358,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Our Signature Whopper with Flame Grilled Chicken Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces With Xxl Buns. Served With Crispy Fries & Coca Cola. Kcal: 1189.8 | Carbs 556.5 Gms| Sugar: 60.7 Gms| Fat: 50.7 Gms| Saturated fat: 14.9 Gms| Protein: 32.1 Gms| Sodium: 1585.5 Mg Contains: Gluten, Soybean, Milk, Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Whopper Jr Veg Combo (M)",
+            "price": 268,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Our Signature Whopper with Crunchy Veg Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces. Served With Crispy Fries & Coca Cola. Kcal: 978.6 | Carbs 558.9 Gms| Sugar: 61.2 Gms| Fat: 34.4 Gms| Saturated fat: 18.7 Gms| Protein: 13.1 Gms| Sodium: 1994.9 Mg Contains: Gluten, Soybean, Milk, Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crispy Chicken Combo (M)",
+            "price": 267,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Crispy Chicken Patty, Onion & Our Signature Tomato Herby Sauce. Served with Crispy Fries & Cola. Kcal: 881.7 | Carbs 541.7 Gms| Sugar: 59.5 Gms| Fat: 29.5 Gms| Saturated fat: 11.6 Gms| Protein: 17.4 Gms| Sodium: 1159.2 Mg Contains: Gluten, Soybean, Milk, Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Tandoori Burger Combo (M)",
+            "price": 358,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Flame Grilled Tandoori Chicken Patty, Veg Khurchan in premium Brioche Buns. Served With Crispy Fries & Coke. Kcal: 1025.3 | Carbs 560.1 Gms| Sugar: 58.9 Gms| Fat: 29.4 Gms| Saturated fat: 15.6 Gms| Protein: 35.3 Gms| Sodium: 1673.6 Mg Contains: Gluten, Soybean, Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Hot 'N' Saucy Burger Combo (M)",
+            "price": 358,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Chilli Creamy Patty, Spicy Sauce, in premium Brioche Buns. Served With Crispy Fries & Coke. Kcal: 1204.6 | Carbs 579.4 Gms| Sugar: 69.5 Gms| Fat: 45.8 Gms| Saturated fat: 18.9 Gms| Protein: 23.8 Gms| Sodium: 1765.3 Mg Contains: Soybean, Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "BK Veggie Burger Combo (M)",
+            "price": 278,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "BK Veg Patty, Lettuce, Tomato(Seasonal) & Our Signature Mayo Sauce. Served with Crispy Fries & Coca Cola. Kcal: 875.1 | Carbs 542.8 Gms| Sugar: 59.8 Gms| Fat: 28 Gms| Saturated fat: 11.5 Gms| Protein: 17.9 Gms| Sodium: 1160.6 Mg Contains: Gluten, Soybean, Milk, Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Whopper Jr Chicken Combo (M)",
+            "price": 288,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Our Signature Whopper with Flame Grilled Chicken Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces. Served With Crispy Fries & Coca Cola. Kcal: 891.6 | Carbs 540.8 Gms| Sugar: 60.4 Gms| Fat: 28.1 Gms| Saturated fat: 13 Gms| Protein: 23.9 Gms| Sodium: 1881.1 Mg Contains: Gluten, Soybean, Milk, Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "BK Chicken Burger Combo (M)",
+            "price": 288,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "BK Chicken Patty, Lettuce, Tomato(Seasonal) & Our Signature Mayo Sauce. Served With Crispy Fries & Coca Cola. Kcal: 937.6 | Carbs 536.4 Gms| Sugar: 59.2 Gms| Fat: 35.6 Gms| Saturated fat: 14 Gms| Protein: 22.9 Gms| Sodium: 850.7 Mg Contains: Gluten, Soybean, Milk, Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crispy Veg Burger + BK Veg Pizza Puff.",
+            "price": 135,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crispy Veg+Veggie Strips.",
+            "price": 129,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "BK Veg Pizza Puff+Coke.",
+            "price": 160,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crispy Chicken + Crispy Chicken.",
+            "price": 198,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Crispy Chicken patty burger, our best seller. Enjoy Twice.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Whopper Jr Veg+ Crispy Veg.",
+            "price": 219,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Our signature veg whopper in a smaller size + Crispy veg patty burger",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Double Crispy Veg + Double Crispy Veg.",
+            "price": 198,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Crispy veg patty burger, our best seller! !",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "2 BK Veggie Burgers,",
+            "price": 278,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crispy Chicken + Crunchy Chicken Taco.",
+            "price": 218,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "BK Veggie Burger + Veg Taco.",
+            "price": 229,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Makhani Burst Burger+ Medium Peri Peri Fries.",
+            "price": 224,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Veg Makhani Burst Burger+ Medium Peri Peri Fries",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crispy Chicken + Chicken Nuggets (4Pcs).",
+            "price": 208,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "BK Veggie Burger + Crispy Veg Burger.",
+            "price": 209,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "2 Crunchy Veg Taco+Fries(M),",
+            "price": 299,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Qty: 324 Gms | Kcal: 1004.7 | Carbs 0 Gms | Sugar: 128.2 Gms | Fat: 56 Gms | Saturated fat: 34.6 Gms | Protein: 13.1 Gms | Sodium: 1708 Mg Contains: Gluten, Soybean , Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crispy Chicken + Med Fries.",
+            "price": 218,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Crispy Chicken patty burger with fries on the side.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crispy Veg Double Patty Burger+Veg Crunchy Taco.",
+            "price": 189,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Whopper Jr + BK Veg Pizza Puff.",
+            "price": 214,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Veg Whopper Jr + Pizza Puff",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Makhani Burst Burger+Fries(Reg)+Peri Peri Sachet.",
+            "price": 227.57,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "1Crispy Veg Double Patty + 1Med Fries.",
+            "price": 218,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Double up the crispy veg patty burger in our best selling burger with fries on the side",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crispy Chicken Burger+Peri Peri Fries(Reg).",
+            "price": 217.57,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "BK Veggie Burger+Veg Makhani Burst Burger.",
+            "price": 219,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "BK Veggie Burger + BK Veg Pizza Puff.",
+            "price": 204,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "BK Veggie Burger + Pizza Puff",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "2 Veg Whopper Jr,",
+            "price": 298,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Qty: 317 Gms | Kcal: 797.1 | Carbs 77.50 Gms | Sugar: 13.05 Gms | Fat: 44.31 Gms | Saturated fat: 15.86 Gms | Protein: 22.48 Gms | Sodium: 1412.94 Mg Contains: Gluten, Soybean , Milk , Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crispy Chicken Double Patty Burger+Crunchy Chicken Taco,",
+            "price": 258,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Qty: 317 Gms | Kcal: 797.1 | Carbs 77.50 Gms | Sugar: 13.05 Gms | Fat: 44.31 Gms | Saturated fat: 15.86 Gms | Protein: 22.48 Gms | Sodium: 1412.94 Mg Contains: Gluten, Soybean , Milk , Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "3 Veg Makhani Burst Burger,",
+            "price": 240,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crispy Chicken Burger + BK Chicken Burger,",
+            "price": 248,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "2 Crunchy Chicken Taco,",
+            "price": 238,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "2 Veg Crunchy Tacos+Crispy Veg Burger,",
+            "price": 250,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Whopper Jr + Crunchy Veg Taco,",
+            "price": 239,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chocolate Thick Shake + Crispy Veg Burger,",
+            "price": 259,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "MRP. 259 | Save Rs. 90, Chocolate Thick Shake + Crispy Veg Burger",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crispy Chicken+Crunchy Chicken Nuggets(6Pcs),",
+            "price": 244.49,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Qty: 251 Gms | Kcal: 695.91 | Carbs 69.35 Gms | Sugar: 9.68 Gms | Fat: 33.9 Gms | Saturated fat: 11.79 Gms | Protein: 28.25 Gms | Sodium: 875.37 Mg Contains: Gluten, Soybean , Milk , Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "BK Chicken+Crunchy Chicken Nuggets(4pcs),",
+            "price": 258,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Qty: 234 Gms | Kcal: 583.7 | Carbs 53.3 Gms | Sugar: 7.5 Gms | Fat: 28.7 Gms | Saturated fat: 11 Gms | Protein: 27.9 Gms | Sodium: 289.8 Mg Contains: Gluten, Soybean , Milk , Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Whopper Jr +Chicken Fried Wings(2pcs),",
+            "price": 268,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Qty: 237 Gms | Kcal: 519 | Carbs 51.5033 Gms | Sugar: 8.35 Gms | Fat: 23.0274 Gms | Saturated fat: 9.7623 Gms | Protein: 33.936 Gms | Sodium: 1718.29 Mg Contains: Gluten, Soybean , Milk , Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crispy Veg Burger+Classic Cold Coffee,",
+            "price": 269,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Qty: 487 Gms | Kcal: 577.2 | Carbs 77.6 Gms | Sugar: 15.4 Gms | Fat: 22.3 Gms | Saturated fat: 25.8 Gms | Protein: 15.4 Gms | Sodium: 938.2 Mg Contains: Gluten, Soybean , Milk , Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Hot 'N' Saucy Burger.",
+            "price": 209,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Chilli Creamy Patty, Spicy Sauce, in premium Brioche buns.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Tandoori Burger.",
+            "price": 209,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Flame Grilled Tandoori Chicken, Veg Khurchan in premium Brioche buns.",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Hot\"N'Saucy Burger+BK Veggie Burger.",
+            "price": 348,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Paneer Royale Wrap+BK Veggie Burger.",
+            "price": 368,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Tandoori Burger+BK Chicken Burger.",
+            "price": 358,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Crunchy Chicken Wrap+BK Chicken Burger.",
+            "price": 458,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mutton Whopper Jr+Crispy Chicken Burger.",
+            "price": 318,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Boneless Wings(7pcs)+Fiery Hell Dip.",
+            "price": 292.81,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Wings Fried(4pcs)+Chicken Wings Grilled (2pcs).",
+            "price": 278,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Original Whopper Veg+Chocolate Thick Shake.",
+            "price": 378,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Original Whopper Chicken+Fries(M).",
+            "price": 328,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Original Whopper Veg Meal(Reg).",
+            "price": 374,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Hot'N'Saucy Burger+Fries(M).",
+            "price": 328,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Original Whopper Veg+BK Veggie Burger.",
+            "price": 328,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Original Whopper Veg+Peri Peri Fries(M).",
+            "price": 333,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Tandoori Burger+Fries(Reg).",
+            "price": 299,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Hot'N'Saucy Burger+Peri Peri Fries(M).",
+            "price": 353,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Original Whopper Chicken+4pcs Crunchy Chicken Nuggets.",
+            "price": 318,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FAMILY FEAST FOR 4 ( SAVE UPTO 37%)",
+            "name": "Classic Family Feast for 4 - Veg",
+            "price": 938.62,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Save Rs. 200 | 2 Crispy Veg + BK Veggie + Veg Crunchy Taco + 2 Med Fries + 2 Dips + Coca Cola Medium + Chocolate Thick Shake. Kcal: 2926.9 | Carbs 332.3 Gms| Sugar: 145 Gms| Fat: 114.9 Gms| Saturated fat: 51.7 Gms| Protein: 55.8 Gms| Sodium: 4274 Mg Contains: Gluten, Soybean , Milk , Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FAMILY FEAST FOR 4 ( SAVE UPTO 37%)",
+            "name": "Classic Family Feast for 4 - Chicken",
+            "price": 1035.62,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs. 200 | 2 Crispy Chicken + BK Chicken + Chicken Crunchy Taco + 2 Med Fries + 2 Dips + Coca Cola Medium + Chocolate Thick Shake. Kcal: 2909 | Carbs 298.8 Gms| Sugar: 142.1 Gms| Fat: 122.3 Gms| Saturated fat: 45.6 Gms| Protein: 68.3 Gms| Sodium: 3488.8 Mg Contains: Gluten, Soybean , Milk , Sesame seeds",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CHICKEN WING DEAL (SAVE UPTO 30%)",
+            "name": "2 Crispy Chicken Burger + 4Pc Fried Wings + 2 Coca Cola",
+            "price": 359,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs 160 | 2Crispy Chicken Burger + 4Pc Fried Wings + 2 Coca Cola",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CHICKEN WING DEAL (SAVE UPTO 30%)",
+            "name": "11Pc Boneless Wings",
+            "price": 329,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs 108 | 11pcs Boneless Bites",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CHICKEN WING DEAL (SAVE UPTO 30%)",
+            "name": "2Pc Fried Wings+4Pc Boneless+4Pc Nuggets+3 Dips+1 Coca Cola",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs153 | 2Pc Fried Wings + 4Pc Boneless + 4Pc Nuggets + 3 Dips + 1 Coca Cola",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Choco Lava Cup",
+            "price": 109,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Melty Chocolate Filled In Cupcake Qty: 80 Gms| Kcal: 349 | Carbs 44.4 Gms| Sugar: 16.9 Gms| Fat: 4.9 Gms| Saturated fat: 27.4 Gms| Protein: 3.6 Gms| Sodium: 112 Mg Contains: Gluten, Soybean, Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chocolate Mousse Cup",
+            "price": 119,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Airy And Creamy Chocolate Mousse Topped With Chocolate Ganache And Choco Chips Qty: 80 Gms| Kcal: 200 | Carbs 35 Gms| Sugar: 25 Gms| Fat: 5.7 Gms| Saturated fat: 4.4 Gms| Protein: 2.2 Gms| Sodium: 67 Mg Contains: Soybean, Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Choco Chip Muffin",
+            "price": 139,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "New Softer And Fluffer Chocolate Cake Topped With Chocolate Chips. Contains Egg. Qty: 80 Gms| Kcal: 291.9 | Carbs 42 Gms| Sugar: 15.9 Gms| Fat: 11.9 Gms| Saturated fat: 4.5 Gms| Protein: 0 Gms| Sodium: 253.9 Mg Contains: Soybean, Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Vanilla Chocolate Muffin.",
+            "price": 129,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "New Softer And Fluffer Buttery Vanilla Cake Topped With Chocolate Chips. Contains Egg. Qty: 80 Gms| Kcal: 289.5 | Carbs 42 Gms| Sugar: 21.1 Gms| Fat: 12 Gms| Saturated fat: 5.1 Gms| Protein: 4.3 Gms| Sodium: 218.8 Mg Contains: Soybean, Milk",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Coca Cola Medium",
+            "price": 95,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "Cola. Kcal: 190.1 | Carbs 52 Gms| Sugar: 52 Gms| Fat: 0 Gms| Saturated fat: 0 Gms| Protein: 0 Gms| Sodium: 38",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Medium Thums Up",
+            "price": 95,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Fanta Medium",
+            "price": 95,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "",
+            "restaurant_name": "Burger King"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Sprite Medium",
+            "price": 95,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "",
+            "restaurant_name": "Burger King"
+        }
+    ]
+}

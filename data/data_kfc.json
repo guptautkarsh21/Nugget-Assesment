@@ -1,0 +1,1213 @@
+{
+    "restaurant_info": {
+        "name": "KFC",
+        "location": "6-7, Scindia House, Outer Circle, Connaught Place, New Delhi",
+        "rating": "4.2",
+        "rating_count": "16.6K",
+        "cuisines": "Burger, Rolls, Fast Food",
+        "timing": "10:00 AM to 11:00 PM",
+        "phone": "+919540309323"
+    },
+    "menu_items": [
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Double Chicken Roll",
+            "price": 168.57,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Double fun with double chicken strip filling, layerful parantha onions and two spicy sauce [1 unit of Double Chicken Roll, Serves 1]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Classic Chicken Roll",
+            "price": 119.05,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Street style roll with single chicken strip, onions and two spicy sauce [1 unit of Classic Chicken Roll]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Double Chicken Roll Meal for 1",
+            "price": 379.05,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs. 24 with a Double Chicken Roll with servings of 1 Large Fries, 2 delish dips and 1 Pepsi PET 475ml [1 unit of Double Chicken Roll, Serves 1]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Classic Chicken Roll Meal for 2",
+            "price": 479.05,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "2 units of The classic KFC Chicken Roll with servings of 1 Large Fries, 2 delish dips and 1 Pepsi PET 475ml [2 units of Classic Chicken Roll, Serves 2]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Thai Spicy Chicken Roll",
+            "price": 139,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Fresh burst of Thai flavours and sauces in a flaky paratha, chicken strips and vegetables",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Indian Tandoori Chicken Roll",
+            "price": 139,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Flavorful roll made with flaky lachha paratha, perfectly fried chicken strips in rich and creamy tandoori sauce",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Korean Tangy Chicken Roll",
+            "price": 139,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Delicious new roll featuring tangy Korean kimchi, vegetables and crunchy chicken strips",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Indian Spicy Veg Roll",
+            "price": 119,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Veg special spicy indian sauce and veggie roll",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Korean & Thai Roll Chicken Meal",
+            "price": 569,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Rs. 114 Off on Korean Tangy Roll & Thai Spicy Roll, Large Popcorn, Large Fries & Pepsi PET 475ml",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Indian Tandoori Roll Chicken Meal",
+            "price": 419,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs. 75 on Indian Tandoori Roll, Classic Zinger Burger, Medium Fries & Pepsi PET 475ml",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Korean Tangy Roll & Popcorn Chicken Meal",
+            "price": 319,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs. 56 with Korean Tangy Chicken Roll, Medium Popcorn and Pepsi PET 475ml",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Thai Spicy Roll & Zinger Chicken Meal",
+            "price": 419,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs. 75 with Thai Spicy Roll with Classic Zinger Burger, Medium Fries and Pepsi PET 475ml",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "American Roll & Popcorn Chicken Meal",
+            "price": 299,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs. 56 with American Nashville Chicken Roll, Medium Popcorn and Pepsi PET 475ml",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Thai Spicy Roll & Popcorn Chicken Meal",
+            "price": 319,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs. 56 with Thai Spicy Chicken Roll, Medium Popcorn and Pepsi PET 475ml",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Korean Tangy Roll & Zinger Chicken Meal",
+            "price": 419,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs. 75 with Korean Tangy Roll with Classic Zinger Burger, Medium Fries and Pepsi PET 475ml",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Double Down Burger & Popcorn Meal",
+            "price": 429,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Best of all worlds with 1 Double Down- all chicken no bun Burger, Regular Popcorn & Pepsi 475ml [Serves 1]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Double Down Burger & Pepsi",
+            "price": 316,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "All chicken no bun burger with 2 delicious sauces & veggies served with Pepsi PET 475ml [Serves 1]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "2 Double Down Burgers",
+            "price": 499,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Why pick one, when you can have 2 Double Down- all chicken no bun Burgers at a deal price [serves 2]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "2 Double Down Burgers & Fries Meal",
+            "price": 679,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save with Deal Meal of 2 units of Double Down- all chicken no bun Burgers with Large Fries & Pepsi PET 475ml [Serves 2]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Double Down Burger",
+            "price": 259,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "It's back! All chicken no bun burger, with 2 delicious sauces & veggies [Serves 1]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "All Chicken Box",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs. 107 with special Chicken Box of 2 Pc Hot & Crispy, 2 Pc Peri Peri Strips, Medium Fries & a Pepsi PET 475ml [Serves 1-2]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Rice Box Meal",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs. 106 with special Rice Box Meal of a Popcorn Rice Bowl, 2 Pc Peri Peri Strips, Medium Fries & a Pepsi PET 475ml [Serves 1-2]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Roll Meal Box",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs. 95 with special Roll Box Meal of a Classic Chicken Roll , 2 Pc Hot Wings, 2 Pc Peri Peri Strips, Medium Fries & a Pepsi PET 475ml [Serves 1-2]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Box Meal",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Enjoy special Veg Box Meal with savings of Rs. 101 on Veg Zinger Burger, 2 Pc Veg patty, Medium Fries & a Pepsi PET 475ml [Serves 1]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Paneer Zinger Burger",
+            "price": 208.57,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "It's Back! Crunchy Indian Paneer Patty Burger with tangy sauce and Veggies",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Spicy Zinger Burger and Popcorn Meal",
+            "price": 439.05,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Caribbean Spicy Zinger Burger with Medium Popcorn and Pepsi PET 475ml at a deal price",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Spicy Zinger Burger",
+            "price": 219.05,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "New Caribbean Spicy Zinger Burger with Spicy Bun & Spicy chilli sauce with Zinger Fillet, Lettuce, Onion and Tomatoes",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Spicy Zinger Burger and Chicken Meal",
+            "price": 379.05,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "New Caribbean Spicy Zinger Burger with 1 Pc Hot & Crispy and Pepsi PET 475ml at a deal price",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Zinger Pro Burger & Popcorn Meal",
+            "price": 469,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "New Zinger Pro premium Burger with Medium Popcorn and Pepsi PET 475ml at a deal price",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Zinger Pro Burger",
+            "price": 249,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "New premium zinger with crunchy zinger fillet,cheese,lettuce,tomatoes,sauce in sesame bun!",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mexican Zinger Pro Pepsi Bottle Combo",
+            "price": 329,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Get Pepsi 330ml Reusable Bottle with Mexican Zinger Pro Burger",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Zinger Pro Burger & Chicken Meal",
+            "price": 409,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "New Zinger Pro premium Burger with 1 Pc Hot & Crispy and Pepsi PET 475ml at a deal price",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Burger Buddy Meal",
+            "price": 528.57,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs. 28 & Share 2 American Classic Chicken Zinger Burgers & a Medium Chicken Popcorn in this delightful combo for 2",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mixed Chicken Zinger Burger Doubles",
+            "price": 368.57,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "Save Rs.41 on Best-seller combo of classic chicken Zinger & Tandoori zinger burgers",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Zinger Burger - Classic with Cheese",
+            "price": 224.05,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "Signature burger with a crunchy chicken fillet, cheese slice, veggies & a delicious mayo sauce",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Zinger Burger - Tandoori with Cheese",
+            "price": 233.57,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Chicken zinger with delicious tandoori sauce & cheese slice",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "American Classic Zinger Mojito Combo",
+            "price": 297.23,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Get All New Mojito Reusable Bottle with American Classic Chicken Zinger Burger",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Zinger Burger with Cheese",
+            "price": 213.57,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Signature veg burger with crispy patties, cheese slice, veggies & a tangy sauce",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Zinger Burger - Classic",
+            "price": 199.05,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "Signature burger made with a crunchy chicken fillet, veggies & a delicious mayo sauce",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Zinger Burger",
+            "price": 188.57,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Signature veg burger with crispy patties, veggies & a tangy sauce",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Zinger Burger - Tandoori",
+            "price": 208.57,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Chicken zinger with a delicious tandoori sauce",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "2 X Veg Krisper Burgers",
+            "price": 188.57,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "2 Delicious veg value burgers - at a deal price",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "2 Classic Chicken Krisper Burgers",
+            "price": 289.57,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "2 Units of delicious chicken value burgers featuring delicious sauce & 2 chicken strips",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Cricket Crunch Meal",
+            "price": 449,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Crunchy Savings of Rs. 75 & Enjoy 2pc Hot & Crispy Chicken, 4 chicken wings , 2 dips & a chilled Pepsi Black Can 300ml [serves 1-2]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Dream Team Meal",
+            "price": 599,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Enjoy Special 11 meal by saving Rs. 164 on 3 Pc Chicken Leg Piece, 4 Pc Peri peri Strips & 4 Pc Hot Wings [Serves 2-4]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Clean Bowled Combo",
+            "price": 666,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Hitter huge savings of Rs. 132 on 5 Pc Chicken Leg Piece & 5 Pc Hot Wings [Serves 3-4]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Super Over Meal",
+            "price": 329,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Favorite combo of Classic Chicken Zinger Burger, Medium French Fries & a chilled Pepsi Black Can 300ml with savings of Rs. 26 [Serves 1]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Super 6s Chicken Bucket",
+            "price": 799,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Sixer Savings of Rs. 249 off on Special Bucket of 6 Pc Chicken Leg Piece & 6 Pc Peri Peri Chicken Strips [Serves 2]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Rolls Super Kings",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Super Savings of Rs. 75 on 2 Classic chicken Roll, 4 Pc Hot Wings and a Pepsi PET 475ml [Serves 1-2]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Green Pitch Meal",
+            "price": 499,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Veg Lovers now save Rs. 252 on Veg meal of 2 Veg Zinger Burgers, 2 Veg Longers, Large Fries and a Pepsi PET 475ml [Serves 2-3]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "LBW Chicken Bucket",
+            "price": 899,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Leg Piece before any wicket! Deal savings of Rs. 308 on 10 Pc Chicken Leg Piece & a Pepsi PET 475 ml [Serves 3-5]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Peri Peri Chicken 5 Leg Piece Meal",
+            "price": 659.05,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Leg before any wicket! Save Rs. 131 on 5 Spicy Peri Peri Leg Pieces, 2 Dips (20gm each), 1 Med Fries & a Pepsi PET 475ml [serves 2]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Peri Peri 10 Pc Chicken Strips & 2 Dips",
+            "price": 519.05,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Howzatt Deal!! Save Rs. 122 with the indulging 10 Piece Peri Peri Boneless Strips and 2 Dips [Serves 2-3]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Peri Peri Chicken 5 Leg Piece Bucket",
+            "price": 528.57,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs 104 on 5 Spicy Peri Peri Leg Pieces",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "5 Leg Pc & 2 Dips Pepsi Bottle Combo",
+            "price": 599,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Get Pepsi 330ml Reusable Bottle with 5 Pc Peri Per Chicken Leg Piece and 2 Dips (20gms each) [serves 1-2]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Peri Peri Chicken 10 Leg Pc & 4 Dips",
+            "price": 968.57,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs. 334 on 10 Spicy Peri Peri Leg Pieces & 4 Dips (20gm each) [serves 3-4]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Peri Peri chicken strips - 6 Pc",
+            "price": 308.57,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "Save 13% with on savouring 6 Spicy Peri Peri chicken boneless strips [serves 2]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "6 Pc Strips & Pepsi Bottle Combo",
+            "price": 379,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Get Pepsi 330ml Reusable Bottle with 6 Pc Spicy Peri Peri Strips [serves 1-2]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Bucket for Two",
+            "price": 599.05,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Flat Rs. 115 off with this variety combo of 2pc Hot & Crispy Chicken, 2 pc Smoky Red Chicken & a Large Popcorn [serves 2-3]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Classic Chicken Krisper Burger Combo",
+            "price": 580,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Deal combo of 2 chicken krispers burgers, 2 pc Hot & Crispy, 2 dips (20gm each) & a chilled Pepsi PET 475 ml [Serves 1-2]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Mingles Bucket Meal",
+            "price": 519.05,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs. 43 on this crowd favorite combo of 4 Hot Wings, 2 Chicken Peri Peri Boneless Strips, a Reg Popcorn, medium fries & a chilled Pepsi PET 475ml [serves 2 ]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "4 Pc Hot & Crispy Pepsi Bottle Combo",
+            "price": 519,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Get Pepsi 330ml Reusable Bottle with 4 Pc Chicken Hot & Crispy",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Solo Feast",
+            "price": 399.05,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Treat yourself with 1 Hot & Crispy chicken, 2 chicken Strips, 2 chicken Wings, 1 Buttered Bun, 1 Dip & Pepsi PET [serves 1]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Mingles Bucket",
+            "price": 399.05,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Mingle with 4 Chicken Hot Wings, 2 Chicken peri peri boneless strips & a Regular Popcorn at a deal price [serves 1-2]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken & French Fries Bucket",
+            "price": 299.05,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Crowd-favorite combo of 2pc Hot & Crispy Chicken with Medium French Fries",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Classic Roll Mojito Meal",
+            "price": 342.87,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Get All New Mojito Reusable 330ml Bottle with Large Fries and Classic Chicken Roll",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Popcorn & French Fries Bucket",
+            "price": 328.57,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Large Chicken Popcorn with Med French Fries - at a deal price",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "2 X Veg Krispers Burger Meal",
+            "price": 299.05,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Save Rs. 39 with 2 veg value burgers, crispy Medium French Fries & 2 delicious Dips at a deal price! [Serves 1-2]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Classic Zinger Pepsi Bottle Combo",
+            "price": 279,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Get Pepsi 330ml reusable bottle with Classic chicken Zinger Burger",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "All in One Chicken Bucket",
+            "price": 568.57,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save 21% with variety bucket of 1 Leg Pc, 1 Hot & Crispy, 2 Wings, 2 Strips, 1 Zinger Fillet, 3 Dips [20gm each] & 1 Pepsi 475 ml [Serves 2-3]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Ultimate Savings Chicken Bucket",
+            "price": 728.57,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "Savings of 32% on signature bucket of 4pc Hot & crispy chicken, 6 Pc Wings, 4 Chicken Peri Peri Boneless strips, 2 Dips (20 gms each) & a Pepsi PET 475ml [serves 2-3 ]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Stay Home Chicken Bucket",
+            "price": 819.05,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs. 232 & enjoy 4pc Hot & Crispy Chicken, 4 Hot Wings, 6 chicken peri peri boneless strips & 2 delicious dips (20gm each) [serves 3]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Big 12 - Chicken Bucket",
+            "price": 768.57,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save 24% on 6pc Hot & Crispy Chicken, 6 Hot Wings & 2 dips (20gm each) [serves 2- 3]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Big 8 - Chicken Bucket",
+            "price": 728.57,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "2pc Hot & Crispy, 2 Strips & 4pc Smoky Red chicken",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "HC Rice Bowlz",
+            "price": 229.52,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Aromatic Hot & Crispy Chicken rice bowl mixed with spicy gravy [serves 1]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Smoky Red Chicken Rice Bowl",
+            "price": 229.52,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Aromatic Smoky Red Chicken rice bowl mixed with spicy gravy [serves 1]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "PC Rice Bowlz",
+            "price": 229.52,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "Aromatic Poprcorn Chicken rice bowl mixed with spicy gravy [serves 1]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Rice Bowlz",
+            "price": 199.05,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Aromatic Veg rice bowl mixed with spicy gravy [serves 1]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Plain Rice Bowl",
+            "price": 139.05,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "New Plain Rice Bowlz",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Hot & Crispy Chicken - 8 pcs",
+            "price": 799.05,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs. 123 & get 8pc signature Hot & crispy chicken [serves 3-4]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Hot & Crispy Chicken -6pc",
+            "price": 628.57,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Flat 10% off on 6pc signature Hot & crispy chicken [serves 2-3]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Hot & Crispy Chicken-4pc",
+            "price": 439.05,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Save Rs. 24 on 4 pc of signature Hot & Crispy Chicken at a deal price",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Hot & Crispy Chicken -2pc",
+            "price": 229.52,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Signature Hot & crispy chicken",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Hot Chicken Wings - 4pc",
+            "price": 179.05,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "Seasoned, signature KFC chicken wings",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Hot & Crispy Chicken-1pc",
+            "price": 115.24,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Signature Hot & crispy chicken",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Popcorn - Large",
+            "price": 248.57,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "Signature bite-sized boneless chicken, with special spices in Large Size",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Saucy Popcorn x CarryMinati",
+            "price": 229,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Special limited time Signature bite sized Boneless Chicken Popcorn in a Sweet and Spicy flavour for ultimate Taste Explosion",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Popcorn - Medium",
+            "price": 179.05,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "Signature bite-sized boneless chicken, with special spices in Medium Size",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Popcorn - Regular",
+            "price": 115.24,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Signature bite-sized boneless chicken, with special spices",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Smoky Red Grilled Chicken - 5 pc",
+            "price": 539.05,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "Save Rs. 85 on 5pc Smoky red grilled chicken [serves 2]",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "5 Pc Smoky Chicken Mojito Combo",
+            "price": 627.66,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Get All New Mojito Reusable Bottle with 5 Pc Smoky Red Grilled Chicken",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Smoky Red Grilled Chicken - 2 pc",
+            "price": 248.57,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Spicy, red, grilled chicken",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Smoky Red Grilled Chicken - 1 pc",
+            "price": 124.76,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Spicy, red, grilled chicken",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Peri Peri chicken strips - 3 pc",
+            "price": 179.05,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "3 Pieces Spicy Peri Peri chicken boneless strips",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "2 pc Veg Patty",
+            "price": 155.24,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Delicious, crispy, veg add-on",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Spicy Mix French Fries - Large",
+            "price": 139.05,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Crispy french fries with a spicy chilli lime sprinkle",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "French Fries - Large",
+            "price": 119.05,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Jazz up your meal with crispy large fries!",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Spicy Mix French Fries - Medium",
+            "price": 114.29,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Crispy french fries with a spicy chilli lime sprinkle",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "French Fries - Medium",
+            "price": 99.05,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Jazz up your meal with crispy french fries",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Pack of 4 Dips -20gm each",
+            "price": 109.52,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Adding dips is always a good idea! (Save Rs. 5)",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Pack of 2 Dips-20gm each",
+            "price": 57.14,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Adding dips is always a good idea!",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Tandoori Flavour Dip - 20 gm",
+            "price": 28.57,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Special tandoori flavored dip, to add a twist to your meal!",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chocolate Lava Cake",
+            "price": 108.57,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "New Soft Chocolate cake with a gooey center- perfect chocolaty end to every meal",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Cold Coffee Resuable Bottle",
+            "price": 199,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Classic coffee just the way you like it",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Virgin Mojito Reusable Bottle",
+            "price": 105,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A refreshing drink with lime and soda to beat the heat",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Masala Pepsi Reusable Bottle",
+            "price": 105,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A spicy kick to everyone's favourite drink",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Dew Mojito Reusable Bottle",
+            "price": 105,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A refreshing drink with Mountain Dew, lime and soda to beat the heat",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Pepsi Reusable Bottle",
+            "price": 99,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "Pepsi in a KFC reusable bottle",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "7Up Resuable Bottle",
+            "price": 99,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "7Up in a KFC reusable bottle",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mirinda Reusable Bottle",
+            "price": 99,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "Mirinda in a KFC reusable bottle",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mountain Dew Resuable Bottle",
+            "price": 99,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "Mountain Dew in a KFC reusable bottle",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Choco Lava Cake",
+            "price": 108.57,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Chocolate lovers unite! Say hello to our chocolate & cake dessert- a must try!",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Choco Mud Pie",
+            "price": 128.57,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Chocolate lovers unite! Say hello to our delicious, new, creamy chocolate & cake dessert- a must try!",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mousse Cake (Coffee flavoured",
+            "price": 128.57,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Coffee, chocolate, cake?what's not to love? Enjoy our delicious, new dessert for those coffee-licious temptations!",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Pepsi PET 475ml",
+            "price": 57.14,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "Cheers to fizz that makes you Rise Up Baby! Order Pepsi to make your food rise up to your level of awesome!",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Pepsi Can 300 ml",
+            "price": 57.14,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "Cheers to fizz that makes you Rise Up Baby! Order Pepsi to make your food rise up to your level of awesome!",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "7UP Can 300 ml",
+            "price": 57.14,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "7UP is the ultimate Super-Duper Refresher. Every sip of this crisp lemon flavour refreshes you to the core.",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Pepsi Black Can 300 ml",
+            "price": 57.14,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "Enjoy Pepsi Black to make your food rise up to max levels of awesome with Zero sugar and Zero guilt!",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mirinda Can 300 ml",
+            "price": 57.14,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "Great orange taste and sparking bubbles encourage you to be carefree, spontaneous and playful!",
+            "restaurant_name": "KFC"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Pepsi 475ml Pet",
+            "price": 57.14,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "0",
+            "restaurant_name": "KFC"
+        }
+    ]
+}

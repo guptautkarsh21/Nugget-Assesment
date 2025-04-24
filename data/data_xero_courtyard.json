@@ -1,0 +1,1243 @@
+{
+    "restaurant_info": {
+        "name": "Xero Courtyard",
+        "location": "50, 1st Floor, Atul Grove Road, Janpath, New Delhi",
+        "rating": "4.0",
+        "rating_count": "48",
+        "cuisines": "Bar Food, American, Continental, North Indian, Lebanese, Chinese, Sushi, Japanese",
+        "timing": "10:00 AM to 11:00 PM",
+        "phone": "+917982372524"
+    },
+    "menu_items": [
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Cheese Garlic Bread",
+            "price": 199,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Garlic-infused bread topped with mozzarella cheese",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Classic Fries",
+            "price": 199,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Classic salted and seasoned fries with trio dip",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Do It Your Way Fries",
+            "price": 249,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Choose your seasoning: peri-peri, tandoori, smokey garlic, pizza style, liquid cheese, mushroom, Xero hot sauce, jalapeno",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Kadak Rumali Roti",
+            "price": 149,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Kaddak roti topped with chopped onion, tomato, and peri-peri seasoning",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Masala Papad",
+            "price": 179,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Roasted papad with chopped onion, tomato, and seasoning",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mini Sandwiches",
+            "price": 199,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Creamy and crunchy sandwich stuffed with mixture of vegetables, seasoning, and eggless mayo",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Peanut Masala",
+            "price": 199,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Peanuts mixed with chopped onion, tomato, coriander, and seasoning",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG SOUPS",
+            "name": "Basil Tomato Soup",
+            "price": 199,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG SOUPS",
+            "name": "Cream Of Mushroom",
+            "price": 199,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG SOUPS",
+            "name": "Veg Hot & Sour Soup",
+            "price": 199,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG SOUPS",
+            "name": "Veg Lemon Coriander Soup",
+            "price": 199,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG SOUPS",
+            "name": "Veg Manchow Soup",
+            "price": 199,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG SOUPS",
+            "name": "Veg Sweet Corn Soup",
+            "price": 199,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG SOUPS",
+            "name": "Veg Tom Yum Soup",
+            "price": 199,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG SOUPS",
+            "name": "Cream Of Chicken",
+            "price": 229,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG SOUPS",
+            "name": "Non-Veg Hot & Sour Soup",
+            "price": 229,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG SOUPS",
+            "name": "Non-Veg Lemon Coriander Soup",
+            "price": 229,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG SOUPS",
+            "name": "Non-Veg Manchow Soup",
+            "price": 229,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG SOUPS",
+            "name": "Non-Veg Sweet Corn Soup",
+            "price": 229,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG SOUPS",
+            "name": "Non-Veg Tom Yum Soup",
+            "price": 229,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG SOUPS",
+            "name": "Smoke Chicken Soup",
+            "price": 229,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG APPETIZERS",
+            "name": "Chilli Paneer",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Marinated cottage cheese cubes, fried and tossed with onion, bell pepper, fresh red chili, and fresh tomato chili sauce",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG APPETIZERS",
+            "name": "Chilly Mushroom",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "With fresh cream and aromatic spices, roasted in a clay oven",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG APPETIZERS",
+            "name": "Cigar Rolls",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Succulent mixture of sweet corn with cheese and herbs wrapped into cigar-shaped rolls",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG APPETIZERS",
+            "name": "Crispy Corn Salt & Pepper",
+            "price": 349,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Crispy fried corn tossed with onion, bell pepper, fresh red chili, burnt garlic, and Chinese wine",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG APPETIZERS",
+            "name": "Dahi K Sholey",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Spicy yogurt mixture wrapped in bread and deep-fried to a crisp",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG APPETIZERS",
+            "name": "Malai Paneer Tikka",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Cottage cheese cubes marinated in yogurt and cashew nut paste with fresh cream and aromatic spices, roasted in a clay oven",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG APPETIZERS",
+            "name": "Stuffed Mushrooms",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A mixture of cheese and nuts stuffed into mushroom caps, marinated in yogurt and chili, roasted in a clay oven",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG APPETIZERS",
+            "name": "Thai Style Spring Roll",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Garlic cloves, ginger, spring onion, and sliced glass noodles wrapped and deep-fried, served with hot garlic sauce",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG APPETIZERS",
+            "name": "Veg Manchurian Dry",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Indo chinese fried balls in tangy sauce",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG APPETIZERS",
+            "name": "Veg Manchurian Gravy",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Indo chinese fried balls in tangy sauce",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG APPETIZERS",
+            "name": "Veg Taco",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Exotic vegetables and cheese tossed in a pan, served with Mexican salsa and sour cream",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG APPETIZERS",
+            "name": "Chicken 65",
+            "price": 449,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Spicy chinese-style retro chicken",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG APPETIZERS",
+            "name": "Chicken Lollipop",
+            "price": 449,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Chicken lollipop marinated and deep-fried to a crisp",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG APPETIZERS",
+            "name": "Chicken Seekh",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Minced chicken marinated with Indian herbs served on a skewer",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG APPETIZERS",
+            "name": "Chicken Strips",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Fried chicken strips with BBQ sauce, peri-peri sauce, & cheese blend",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG APPETIZERS",
+            "name": "Chicken Tikka",
+            "price": 449,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Spicy marinated boneless chicken, roasted in a clay oven",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG APPETIZERS",
+            "name": "Chilli Chicken",
+            "price": 449,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Tangra-inspired chili chicken with scallion and chili garlic crumble",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG APPETIZERS",
+            "name": "Chilli Wings",
+            "price": 449,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Wok-tossed wings flavored with bell pepper and Cajun garlic dust",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG APPETIZERS",
+            "name": "Fish N Chips",
+            "price": 499,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Sole fish marinated, deep-fried, and served with tartar sauce",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG APPETIZERS",
+            "name": "Fish Tikka",
+            "price": 549,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Sole fish marinated with yogurt & Indian spices",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG APPETIZERS",
+            "name": "Grilled Chicken",
+            "price": 499,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "Grilled chicken served with grilled vegetables & pesto mashed potatoes (Brown sauce/Peri-Peri sauce/BBQ sauce/Mushroom sauce)",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG APPETIZERS",
+            "name": "Grilled Fish",
+            "price": 549,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Fish tossed in lemon butter sauce, served with grilled vegetables & mashed potatoes",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG APPETIZERS",
+            "name": "Malai Chicken Tikka",
+            "price": 449,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Creamy marinated boneless chicken, roasted in a clay oven",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG APPETIZERS",
+            "name": "Mutton Keema Pao",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Mutton keema in authentic Indian spices and herbs, served with pav",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG APPETIZERS",
+            "name": "Mutton Seekh",
+            "price": 449,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Mutton marinated in yogurt and Indian spices",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG APPETIZERS",
+            "name": "Non Veg Taco",
+            "price": 449,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Grilled chicken & cheese in a tortilla wrap, served with Mexican salsa",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG APPETIZERS",
+            "name": "Tandoori Chicken",
+            "price": 299,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Spicy marinated chicken, roasted in a clay oven",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Classic Chicken Dimsum",
+            "price": 329,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Filling of minced chicken with spices and herbs served with Chinese mayo and hot garlic sauce",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Classic Vegetable Dimsum",
+            "price": 299,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Filling of minced Asian vegetables and spices served with Chinese mayo and hot garlic sauce",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Pakchoy Black Mushroom Dimsum",
+            "price": 299,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Filling of black mushroom and pak choy mixed with seasoning served with Chinese mayo and hot garlic sauce",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Bbq & Cottage Cheese Burger",
+            "price": 299,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Cottage cheese patty tossed in BBQ sauce, topped with lettuce, cheese slice, cheese blend, and served with fries",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken & Cheese Burger",
+            "price": 299,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Grilled chicken patty topped with lettuce, sliced onions, sliced tomatoes, cheese slice, mayo, and served with fries",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Harissa Potato Burger",
+            "price": 249,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Potato patty topped with lettuce, sliced onions, cheese slice, harissa sauce, and served with fries",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Lamb Burger",
+            "price": 349,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Grilled lamb patty topped with sliced onions, sliced tomatoes, jalapeno, cheese slice, and served with wedger",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mushroom & Spinach Burger",
+            "price": 299,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Mushroom and spinach patty topped with lettuce, cheese slice, mayo, and served with fries",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Non-Veg Aglio Olio Pasta",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Spaghetti tossed in a pan and drizzled with extra virgin olive oil, topped with Parmesan cheese",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Non-Veg Alfredo Pasta",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Exotic vegetables, Creamy b?hamel sauce topped with fresh Parmesan cheese",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Non-Veg Arrabiata Pasta",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Exotic vegetables, spicy tomato sauce topped with fresh Parmesan cheese",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Non-Veg Basil Pesto Pasta",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Grandma's Secret Recipe",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Non-Veg Mixed Sauce Pasta",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Best of both worlds",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Pollo Italian Lasagne",
+            "price": 449,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Grilled chicken, mushrooms, and cheese layered in lasagne sheets, baked in the oven",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Aglio Olio Pasta",
+            "price": 349,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Spaghetti tossed in a pan and drizzled with extra virgin olive oil, topped with Parmesan cheese",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Alfredo Pasta",
+            "price": 349,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Exotic vegetables, Creamy bechamel sauce topped with fresh Parmesan cheese",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Arrabiata Pasta",
+            "price": 349,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Exotic vegetables, spicy tomato sauce topped with fresh Parmesan cheese",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Basil Pesto Pasta",
+            "price": 349,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Grandma's Secret Recipe",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Mixed Sauce Pasta",
+            "price": 349,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Best of both worlds",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Verdure Italian Lasagne",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "Spinach, corn, and cheese layered in lasagne sheets, baked in the oven",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "4 Cheese Margherita Pizza",
+            "price": 349,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A spicy roasted tomato base with four cheeses, spices, oregano, & basil",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Barbeque Chicken Pizza",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Bite-sized chunks",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Pepperoni Pizza",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Mozzarella cheese topped with chicken pepperoni slices",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Farmhouse Pizza",
+            "price": 349,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Onions, and garlic pearls",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Non Veg Makhani Pizza",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Traditional makhani sauce with cheese drizzle",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Roasted Peri Peri Chicken Pizza",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Classic peri-peri chicken, roasted to perfection and served in",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Roasted Peri Peri Paneer Pizza",
+            "price": 349,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Classic roasted paneer with cheese, peri-peri mayo, Spanish",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "The Italian Veggie Love Pizza",
+            "price": 349,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A mix of mushrooms, broccoli, olives, cheese, sundried tomatoes, & jalapeno",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Makhani Pizza",
+            "price": 349,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Traditional makhani sauce with cheese drizzle",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Non-Veg Dimsum Platter",
+            "price": 349,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "10 Assorted momo pieces",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Non-Veg Mezze Platter",
+            "price": 749,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Shish taouk, Lebanese Turkish kebab, falafel, sambousek (meat), assorted olives, assorted bread, and Lebanese Arabic pickles served with three dips",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Non-Veg Sharing Platter",
+            "price": 999,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Chicken malai tikka, tandoori kukkad, gosht peshawari, lahori fish tikka, lal mirch chicken tikka, served with mint sauce and sizzling onion",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Non-Veg Xero Courtyard Platter",
+            "price": 2299,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Tandoori chicken, Chicken tikka, Fish tikka, Mutton seekh kebab, Dal makhni, Paneer tikka butter masala, Chicken rara, Butter chicken, Mutton rogan josh, Chicken biryani, Assorted bread basket, Raita, Salad, Mint sauce and Gulab jamun",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Dimsum Platter",
+            "price": 299,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "10 Assorted momo pieces",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Mezze Platter",
+            "price": 649,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Falafel, sambousek (cheese), cottage cheese, shish taouk, Lebanese Arabic pickles, assorted bread served with three dips",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Sharing Platter",
+            "price": 899,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Tandoori mushroom, lal mirch cottage cheese tikka, tandoori malai broccoli, dahi ke sholey, veg seekh kebab served with mint sauce and sizzling onion",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Xero Courtyard Platter",
+            "price": 1999,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Cottage cheese tikka, Dahi ke Sholey, Malai broccoli, Tandoori mushroom, Paneer lababdar, Kadhai paneer, Paneer makhani, Mix veg, Veg biryani, Assorted bread basket, Raita, Salad, Mint sauce and Gulab jamun",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG MAINS",
+            "name": "Jd Infused Dal Makhani",
+            "price": 449,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Flavored with JD alcohol and served with bite-sized butter naan rolls",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG MAINS",
+            "name": "Kadhai Paneer",
+            "price": 399,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Tender boneless chicken cooked in Indian gravy with onion and capsicum cubes",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG MAINS",
+            "name": "Mix Vegetable",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Combination of mixed vegetables cooked in aromatic spices",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG MAINS",
+            "name": "Mushroom Do Pyaaza",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Mushroom and onion cooked with aromatic spices",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG MAINS",
+            "name": "Paneer Lababdar",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Cottage cheese cooked in a tangy tomato and onion gravy",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG MAINS",
+            "name": "Paneer Makhani",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Cottage cheese mixed with rich tomato and cashew nut gravy with Indian whole spices",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "VEG MAINS",
+            "name": "Shahi Dal Makhani",
+            "price": 319,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Whole black urad dal, kidney beans, and chana dal slow-cooked to perfection",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG MAINS",
+            "name": "Butter Chicken",
+            "price": 469,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Our chef's take on the legendary dish",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG MAINS",
+            "name": "Chicken Rara",
+            "price": 469,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Spicy chicken curry with minced meat",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG MAINS",
+            "name": "Kadhai Chicken",
+            "price": 469,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Tender boneless chicken cooked in Indian gravy with onion and capsicum cubes",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NON-VEG MAINS",
+            "name": "Mutton Rogan Josh",
+            "price": 499,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "A KashmirI specialty, succulent pieces of mutton simmered in spicy onion and tomato gravy",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Non-Veg Chilli Garlic Noodles",
+            "price": 279,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Non-Veg Fried Rice",
+            "price": 279,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Prawbs Fried Rice",
+            "price": 299,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Prawns Chilli Garlic Noodles",
+            "price": 299,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Chilli Garlic Noodles",
+            "price": 249,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Fried Rice",
+            "price": 249,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Hyderabadi Chicken Dum Biryani",
+            "price": 449,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Hyderabadi dum biryani, cooked in whole spices along with chicken chunks served with plain raita and kachumber salad",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Lucknowi Gosht Dum Biryani",
+            "price": 529,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Smoked dum biryani, cooked in whole spices along with mutton chunks, served with plain raita and kachumber salad",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Vegetable Dum Biryani",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Smoked dum biryani, cooked in whole spices along with vegetables served with burani raita and kachumber saladt",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Butter Naan",
+            "price": 99,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Butter Roti",
+            "price": 49,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Cheese Stuffed Keema Naan With Gravy",
+            "price": 189,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Stuffed Keema Naan With Gravy",
+            "price": 189,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Garlic Naan",
+            "price": 99,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Laccha Paratha",
+            "price": 99,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mutton Stuffed Keema Naan With Gravy",
+            "price": 219,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Plain Naan",
+            "price": 79,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Tandoori Roti",
+            "price": 39,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Boondi Raita",
+            "price": 149,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Classic Green Salad",
+            "price": 199,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Jeera Rice",
+            "price": 199,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mixed Veg Raita",
+            "price": 149,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Steamed Rice",
+            "price": 199,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chocolate Brownie With Ice Cream",
+            "price": 159,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Gulab Jamun With Ice Cream [1 Pc]",
+            "price": 149,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "New York Cheesecake",
+            "price": 449,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Waffle Tray",
+            "price": 399,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Xero Courtyard"
+        }
+    ]
+}

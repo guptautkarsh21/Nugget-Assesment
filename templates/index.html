@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Info Chatbot</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #f1f1f1;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #888;
+            border-radius: 6px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #555;
+        }
+
+        .user-bubble {
+            background-color: #e2f0fd;
+            border-radius: 18px 18px 0 18px;
+        }
+        
+        .bot-bubble {
+            background-color: #f0f0f0;
+            border-radius: 18px 18px 18px 0;
+        }
+
+        .typing-indicator span {
+            display: inline-block;
+            animation: bounce 1.5s infinite;
+        }
+        
+        .typing-indicator span:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+        
+        .typing-indicator span:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+        
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-5px); }
+        }
+    </style>
+</head>
+<body class="bg-gray-100 h-screen flex flex-col">
+    <header class="bg-blue-600 text-white p-4 shadow-md">
+        <div class="container mx-auto flex justify-between items-center">
+            <h1 class="text-2xl font-bold">Restaurant Info Chatbot</h1>
+            <div>
+                <button id="clearBtn" class="bg-blue-500 hover:bg-blue-700 text-white py-2 px-4 rounded mr-2">
+                    <i class="fas fa-trash-alt mr-1"></i> Clear Chat
+                </button>
+                
+            </div>
+        </div>
+    </header>
+
+    <main class="container mx-auto flex-grow flex flex-col p-4 max-w-4xl">
+        <div id="chatContainer" class="flex-grow bg-white rounded-lg shadow-lg p-4 mb-4 overflow-y-auto flex flex-col">
+            <div class="flex items-start mb-4">
+                <div class="w-10 h-10 rounded-full bg-blue-500 flex items-center justify-center text-white mr-3 flex-shrink-0">
+                    <i class="fas fa-robot"></i>
+                </div>
+                <div class="bot-bubble p-3 max-w-3xl">
+                    <p>👋 Hello! I'm your restaurant information assistant. You can ask me about restaurants, menus, locations, dishes, prices, and more. How can I help you today?</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-lg p-4">
+            <form id="chatForm" class="flex items-center">
+                <input 
+                    type="text" 
+                    id="userInput" 
+                    class="flex-grow border rounded-l-lg p-3 focus:outline-none focus:ring-2 focus:ring-blue-500" 
+                    placeholder="Ask something about restaurants..."
+                    autocomplete="off"
+                >
+                <button 
+                    type="submit" 
+                    class="bg-blue-600 hover:bg-blue-700 text-white rounded-r-lg p-3 px-5"
+                >
+                    <i class="fas fa-paper-plane"></i>
+                </button>
+            </form>
+        </div>
+    </main>
+
+    
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const chatForm = document.getElementById('chatForm');
+            const userInput = document.getElementById('userInput');
+            const chatContainer = document.getElementById('chatContainer');
+            const clearBtn = document.getElementById('clearBtn');
+            function scrollToBottom() {
+                chatContainer.scrollTop = chatContainer.scrollHeight;
+            }
+
+            function escapeHtml(text) {
+                const div = document.createElement('div');
+                div.textContent = text;
+                return div.innerHTML;
+            }
+
+            function formatMessage(text) {
+                text = text.replace(/\n/g, '<br>');
+               
+                text = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+                
+                text = text.replace(/(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)/g, '<em>$1</em>');
+                
+                return text;
+            }
+            
+            function addUserMessage(message) {
+                const messageElement = document.createElement('div');
+                messageElement.className = 'flex items-start mb-4 justify-end';
+                messageElement.innerHTML = `
+                    <div class="user-bubble p-3 max-w-3xl">
+                        <p>${escapeHtml(message)}</p>
+                    </div>
+                    <div class="w-10 h-10 rounded-full bg-blue-700 flex items-center justify-center text-white ml-3 flex-shrink-0">
+                        <i class="fas fa-user"></i>
+                    </div>
+                `;
+                chatContainer.appendChild(messageElement);
+                scrollToBottom();
+            }
+            
+            function addBotMessage(message) {
+                const typingIndicator = document.querySelector('.typing-indicator');
+                if (typingIndicator) {
+                    typingIndicator.remove();
+                }
+                
+                const messageElement = document.createElement('div');
+                messageElement.className = 'flex items-start mb-4';
+                messageElement.innerHTML = `
+                    <div class="w-10 h-10 rounded-full bg-blue-500 flex items-center justify-center text-white mr-3 flex-shrink-0">
+                        <i class="fas fa-robot"></i>
+                    </div>
+                    <div class="bot-bubble p-3 max-w-3xl">
+                        <p>${formatMessage(message)}</p>
+                    </div>
+                `;
+                chatContainer.appendChild(messageElement);
+                scrollToBottom();
+            }
+            
+            function showTypingIndicator() {
+                const indicatorElement = document.createElement('div');
+                indicatorElement.className = 'flex items-start mb-4 typing-indicator';
+                indicatorElement.innerHTML = `
+                    <div class="w-10 h-10 rounded-full bg-blue-500 flex items-center justify-center text-white mr-3 flex-shrink-0">
+                        <i class="fas fa-robot"></i>
+                    </div>
+                    <div class="bot-bubble p-3">
+                        <p class="text-lg">
+                            <span>.</span>
+                            <span>.</span>
+                            <span>.</span>
+                        </p>
+                    </div>
+                `;
+                chatContainer.appendChild(indicatorElement);
+                scrollToBottom();
+            }
+
+            chatForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                const message = userInput.value.trim();
+                if (!message) return;
+
+                addUserMessage(message);
+
+                userInput.value = '';
+                
+
+                showTypingIndicator();
+                
+
+                fetch('/api/chat', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ message })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.status === 'success') {
+                        addBotMessage(data.message);
+                    } else {
+                        addBotMessage(`Sorry, I encountered an error: ${data.message}`);
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    const typingIndicator = document.querySelector('.typing-indicator');
+                    if (typingIndicator) {
+                        typingIndicator.remove();
+                    }
+                    addBotMessage('Sorry, I encountered a network error. Please try again later.');
+                });
+            });
+            clearBtn.addEventListener('click', function() {
+                if (confirm('Are you sure you want to clear the chat history?')) {
+                    chatContainer.innerHTML = '';
+                    const welcomeElement = document.createElement('div');
+                    welcomeElement.className = 'flex items-start mb-4';
+                    welcomeElement.innerHTML = `
+                        <div class="w-10 h-10 rounded-full bg-blue-500 flex items-center justify-center text-white mr-3 flex-shrink-0">
+                            <i class="fas fa-robot"></i>
+                        </div>
+                        <div class="bot-bubble p-3 max-w-3xl">
+                            <p>👋 Hello! I'm your restaurant information assistant. You can ask me about restaurants, menus, locations, dishes, prices, and more. How can I help you today?</p>
+                        </div>
+                    `;
+                    chatContainer.appendChild(welcomeElement);
+                    fetch('/api/clear_history', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        }
+                    })
+                    .then(response => response.json())
+                    .then(data => {
+                        console.log('History cleared:', data);
+                    })
+                    .catch(error => {
+                        console.error('Error clearing history:', error);
+                    });
+                }
+            });
+
+          
+            
+            
+            userInput.focus();
+        });
+    </script>
+</body>
+</html>

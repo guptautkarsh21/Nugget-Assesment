@@ -1,0 +1,93 @@
+category,subcategory,name,price,veg_status,tags,description,restaurant_name
+Unknown Category,DIMSUM PLATTER,Veg Dimsum Platter,1209.0,Veg,GLUTEN FREE,"Crystal Veg, Old School Veg Gyoza, Wild Mushroom Edamame Cream Cheese And Truffle Oil, Street Style Veg, Four Seasons -2 Pcs Each 520 Kcal. 520 kcal.",Mamagoto
+Unknown Category,DIMSUM PLATTER,Non Veg Dimsum Platter,1319.0,Non-Veg,GLUTEN FREE,"Prawn And Celery, Old School Chicken Gyoza, Pok Choi Wrapped Chicken, Crystal Chicken And Chives, Roasted Duck And Shitake Pot-Stickers - 2 Pcs Each 520 Kcal. 524 kcal.",Mamagoto
+Unknown Category,DIMSUM,"Pan-Fried Shanghai Chicken, Spicy Mustard & Tobiko",549.1,Non-Veg,,"Pan Fried Dumplings Served with Spicy Mustard 307.68 kcal,461.52 Kcal.",Mamagoto
+Unknown Category,DIMSUM,Rosted Duck & Shitake Pot-Stickers,549.1,Non-Veg,,"Roasted Duck Infused with Five Spice Hoisin and Encased in Gyoza Skin 196.68 Kcsl,295.02 Kcal.",Mamagoto
+Unknown Category,DIMSUM,Steamed Chicken Wontons,539.1,Non-Veg,,"Steamed Chicken Parcels 313.36 kcal,470.04 Kcal.",Mamagoto
+Unknown Category,DIMSUM,Steamed Vegetable Wontons,509.1,Veg,,"Steamed Vegetables Parcels 226.52 kcal,339.78 Kcal.",Mamagoto
+Unknown Category,DIMSUM,Crystal Dimsum,509.1,Veg,,"Translucent Parcels Filled with Water Chestnut, Shiitake, Lotus Root And Carrot 194.64 kcal,291.96 Kcal.",Mamagoto
+Unknown Category,DIMSUM,Street Style Spicy Dimsum,509.1,Veg,,"Minced Vegetables Steamed and Served with a Hot Street Style Red Chili and Chinese Vinegar Sauce 214.56 kcal,321.84 Kcal.",Mamagoto
+Unknown Category,DIMSUM,Old School Chicken Gyoza,539.1,Non-Veg,,"Lightly Pan-Fried Dim Sums with Gyoza Sauce 260.68 Kcal,391.02 Kcal.",Mamagoto
+Unknown Category,DIMSUM,Street Style Spicy Chicken Dimsum,539.1,Non-Veg,,"Minced Chicken steamed and Served with a Hot Street style Red Chili and Chinese Vinegar Sauce 242.32 kcal,363.48 Kcal.",Mamagoto
+Unknown Category,DIMSUM,Prawn and Celery Dimsum,549.1,Non-Veg,,"Celery Flavoured Prawn Mince Encased in Wheat And Potato Starch Thin Wrapper 218.24 Kcal,327.26 Kcal.",Mamagoto
+Unknown Category,DIMSUM,Spicy Prawn Siu Mai,549.1,Non-Veg,,"Kha Ginger Coconut Reduction 309.12 Kcal,463.68 Kcal.",Mamagoto
+Unknown Category,DIMSUM,Crystal Chicken and Chives,539.1,Non-Veg,,"Minced Chicken And Fresh Chives Flavoured Dim Sum Served On Butter Garlic 286.59 Kcal,429.88 Kcal.",Mamagoto
+Unknown Category,DIMSUM,Four Season,509.1,Veg,,"Kaffir Lime Leaves Infused Dim Sum Skin Filled with Baby Corn, Carrot, Beans, Water Chestnuts And Served with Thai Herb 170 Kcal,255 Kcal.",Mamagoto
+Unknown Category,DIMSUM,Street style Dimsum,469.0,Veg,,,Mamagoto
+Unknown Category,SUSHI PLATTER,Veg Maki Platter,1369.0,Veg,,"Asparagus tempura, California rolls, kapa maki (4 pieces each)",Mamagoto
+Unknown Category,SUSHI PLATTER,Non Veg Maki Platter,1539.0,Non-Veg,,"Ebi tempura, California roll And sake maki (4 pieces each)",Mamagoto
+Unknown Category,SUSHI,Avocado Nigiri 5 Pcs,799.0,Veg,,Oval Shaped Vinegared Rice Topped with Slices of Avocado 28.6 Kcal. 141.3 kcal.,Mamagoto
+Unknown Category,SUSHI,California Rolls with Crab Stick and Avocado,1099.0,Non-Veg,,8 Pieces 278 kcal.,Mamagoto
+Unknown Category,SUSHI,Kani Nigiri 5 Pcs,799.0,Veg,,Oval Shaped Vinegared Rice Topped with Choice of Slices of Kani 40.6 Kcal. 203 kcal.,Mamagoto
+Unknown Category,SUSHI,Salmon Nigiri 5 Pcs,799.0,Non-Veg,,Oval Shaped Vinegared Rice Topped with Choice of Slices of Sake 15.6 Kcal. 78.35 kcal.,Mamagoto
+Unknown Category,SUSHI,Tuna Nigiri 5 Pcs,799.0,Non-Veg,,Oval Shaped Vinegared Rice Topped with Choice of Slices of Tuna 15.6 Kcal. 77.35 kcal.,Mamagoto
+Unknown Category,SUSHI,Sake Maki Salmon Rolls,659.1,Non-Veg,,Traditional Salmon Maki 21.8 kcal. 174.96 kcal.,Mamagoto
+Unknown Category,SUSHI,Spicy Salmon Rolls,659.1,Non-Veg,,"Sushi Filled with Salmon, Imported Cucumber And Topped with Japanese Mayo 20.5 Kcal. 164.46 kcal.",Mamagoto
+Unknown Category,SUSHI,Ebi Tempura Crispy Prawn Rolls,659.1,Non-Veg,,"Sushi Filled with Crispy Prawns, Imported Cucumber And Topped with Bonito Mayo 39.8 Kcal. 318.56 kcal.",Mamagoto
+Unknown Category,SUSHI,Spicy Tuna Rolls,659.1,Non-Veg,,"Sushi Filled with Tuna, Imported Cucumber And Topped with Bonito Mayo 20.5 Kcal. 164.56 kcal.",Mamagoto
+Unknown Category,SUSHI,Asparagus Tempura And Cream Cheese Roll,589.1,Veg,,Sushi Filled with Tempura Style Crispy Green Asparagus And Cream Cheese 43.95 Kcal.,Mamagoto
+Unknown Category,SUSHI,Mamagoto Kapa Maki,589.1,Veg,,"Cucumber, Pickled Ginger, Avocado And Cream Cheese 26.3 Kcal.",Mamagoto
+Unknown Category,SUSHI,Avocado Maki,589.1,Veg,,Traditional Avocado Maki 22.67 Kcal.,Mamagoto
+Unknown Category,SUSHI,Caterpillar Avocado Asparagus Cucumber Rolls,589.1,Veg,,A Form of Uramaki Sushi Topped with Thinly Sliced Avocado and Cream Cheese 38.77 Kcal.,Mamagoto
+Unknown Category,SUSHI,Chicken Katsu Roll,609.1,Non-Veg,,"Sushi Filled with Crispy Chicken, Imported Cucumber And Topped with Sriracha Mayo 43.5 Kcal. 348 kcal.",Mamagoto
+Unknown Category,SUSHI,Hokkaido Maguro Roll,659.1,Non-Veg,,"Sushi filled with Tuna &, topped with thinly sliced tuna, Japanese mayo 21.6 Kcal.",Mamagoto
+Unknown Category,SUSHI,Rainbow Sushi,659.1,Veg,,"Sushi Filled With Smoked Salmon & Tuna, Topped With Thinly Sliced Salmon, Tuna, Avocado, Kampachi, Wasabi Mayo And Tobiko",Mamagoto
+Unknown Category,SUSHI,Salmon Katsu Uramaki,659.1,Non-Veg,,"Salmon Filled with Crispy Salmon, Imported Cucumber And Topped with Wasabi Mayo 43.5 Kcal. 348 kcal.",Mamagoto
+Unknown Category,SUSHI,Veg California Uramaki,589.1,Veg,,"Sushi Filled with Asparagus, Japanese Radish, Cucumber & Avocado 29.19 Kcal.",Mamagoto
+Unknown Category,,Pan Fried Chicken Bao (4pcs),689.0,Non-Veg,,332.38 Kcal 332.38 kcal.,Mamagoto
+Unknown Category,,Pan Fried Vegetable Bao (4pcs),579.0,Veg,,332.38 Kcal 332.38 kcal.,Mamagoto
+Unknown Category,,Wild Mushroom Bao (4pcs),579.0,Veg,,Steamed Bao filled with truffle oil flavored assorted wild mushroom 292.15 kcal 292.15 kcal.,Mamagoto
+Unknown Category,APPETIZER,Crispy Chili Potatoes,549.0,Veg,,"Tossed in scallions, bell peppers, Chinese spices 680.41 kcal.",Mamagoto
+Unknown Category,APPETIZER,Vegetarian Kung Pao,549.0,Veg,,"Dry Preparation of Crispy Mushrooms, Broccoli And Baby Corn Tossed with Lantern Chilies and Roasted Peanuts 760.08 Kcal. 760.08 kcal.",Mamagoto
+Unknown Category,APPETIZER,Bite Size Corn Fritter Balls,549.0,Veg,,Served with a firecracker Oriental salsa 220.8 kcal.,Mamagoto
+Unknown Category,APPETIZER,Crispy Lotus Stem,579.0,Veg,,Tossed in burnt garlic & dried chili or tossed in hot n sweet sauce 166.71 kcal.,Mamagoto
+Unknown Category,APPETIZER,Honey Chicken,709.0,Non-Veg,,Tossed With Bell Peppers and Mild Sichuan Pepper.582.75Kcal. 582.75 kcal.,Mamagoto
+Unknown Category,APPETIZER,Classic Chicken Wings,709.0,Non-Veg,,"Wok Tossed with A Chinese ""Pepper Salt"" Seasoning.605.68 Kcal. 605.68 kcal.",Mamagoto
+Unknown Category,APPETIZER,Lantern Chili and Peanut,589.1,Non-Veg,,Wok Tossed with Chef Special Button Chilies And Finished with Chinese Wine 785.4 Kcal.,Mamagoto
+Unknown Category,APPETIZER,1990's Chili Chicken,709.0,Non-Veg,BESTSELLER,"Wok tossed chicken with garlic, chili, soy, and bell peppers 439.14 kcal.",Mamagoto
+Unknown Category,APPETIZER,Traditional Crispy Lamb,929.0,Non-Veg,,"With Bell Peppers, Spring Onions and Chinese Spices.510 Kcal. 510.99 kcal.",Mamagoto
+Unknown Category,APPETIZER,Mussorie Mall Road Chinese Rolls,549.1,Veg,,"Crispy Spring Rolls Filled with Shredded Vegetables , Served with Sweet Chili Dip 419.39 Kcal.",Mamagoto
+Unknown Category,GRILL,Garlic Butter Mushrooms,529.0,Veg,,With garlic butter sauce 512.54 kcal.,Mamagoto
+Unknown Category,GRILL,Chicken Satay,579.0,Non-Veg,,Skewered Chicken Served with Traditional Peanut Sauce 441.11 Kcal. 441.11 kcal.,Mamagoto
+Unknown Category,GRILL,Prawns Wrapped in Bacon,1209.0,Non-Veg,,"Grilled Prawns Marinated with Sesame And Japanese Spices, Wrapped In Bacon To Provide A Smokey Aroma.504.44 Kcal. 504.44 kcal.",Mamagoto
+Unknown Category,GRILL,Teriyaki Skewer,529.1,Non-Veg,,"Japanese Sweet Soy Marinated Skewered Tofu or Chicken or Pork Belly, Grilled to Perfection, Served with Wasabi Mayo 301.76 Kcal.",Mamagoto
+Unknown Category,,Stir-Fried Vegetables with Burnt Garlic,689.0,Veg,,357 Kcal 357 kcal.,Mamagoto
+Unknown Category,,Stir-Fried Vegetables with Crunchy Almonds,689.0,Veg,,,Mamagoto
+Unknown Category,,Hong Kong Style Exotic Mushrooms,689.0,Non-Veg,,Stir-fried wild mushrooms and button mushrooms flavoured with oyster sauce 524.4 kcal.,Mamagoto
+Unknown Category,,Black Pepper Sauce,689.1,Veg,BESTSELLER,Tossed in black pepper sauce,Mamagoto
+Unknown Category,,Schezwan Sauce,689.1,Non-Veg,,"Schezwan, pepper, ginger, dried red chillies and spring onions in a light gravy",Mamagoto
+Unknown Category,,Black Bean Sauce,938.1,Non-Veg,,Tossed in black bean sauce,Mamagoto
+Unknown Category,,Three Pepper Bomb,689.1,Non-Veg,,"Wok tossed with green, white and Szechwan peppercorns. All mixed and finished with Chinese wine and sesame oil",Mamagoto
+Unknown Category,,Thai Green Curry,819.1,Non-Veg,BESTSELLER,Spicy coconut based curry flavoured with fresh green chili and Thai herbs served with steam rice,Mamagoto
+Unknown Category,,Thai Red Curry,819.1,Non-Veg,BESTSELLER,Spicy coconut based curry flavoured with fresh green chili and Thai herbs served with steam rice,Mamagoto
+Unknown Category,,Wan Chai Midnight Chicken,769.0,Non-Veg,BESTSELLER,Our version of Kung Pao Chicken 302.9 kcal.,Mamagoto
+Unknown Category,,Ginger Soy Sauce,689.1,Veg,,Mild Fresh Ginger And Wine Sauce,Mamagoto
+Unknown Category,RICE BOWLS,Fiery Thai Shrimp Fried Rice with Asian Green Chili Chicken Ribbons,989.0,Non-Veg,,"An Exotic Signature Thai Spicy Seafood Flavoured Fried Rice, Served with Fried Chicken Ribbons, Isaan Sauce And Fried Egg, Served Dry.1549.6 Kcal. 1549.6 kcal.",Mamagoto
+Unknown Category,RICE BOWLS,Mamagoto Goreng,989.0,Non-Veg,,"Nasi Goreng Inspiration with Sambal and Peanut Sauce, Chicken Satay Skewers and Fried Egg.1453.8 Kcal. 1453.8 kcal.",Mamagoto
+Unknown Category,RICE BOWLS,Smoky BBQ Pork Belly Bowl,1209.0,Non-Veg,,"Grilled Skewers of Pork Belly with Leeks and BBQ Sauce. Served with Sticky Fried Rice, Pok Choy, Baby Corn and Fried Egg.1548.6 Kcal. 1548.6 kcal.",Mamagoto
+Unknown Category,RICE BOWLS,Street Vendors Penang Curry Bowl,929.1,Non-Veg,,Curry With Peanuts Served with Sticky Rice.1817.3 Kcal.,Mamagoto
+Unknown Category,RICE BOWLS,Crispy Rice,929.1,Veg,,Crispy And Crusty Pan-Fried Sticky Rice Served With Pok Choi,Mamagoto
+Unknown Category,RICE BOWLS,Spicy Bangkok Bowl,929.1,Non-Veg,,"Similar To Bai Ka Pao, With Spices And Herbs Over Garlic And Chillies, Fried Sticky Rice Or Jasmine Rice. Served With Potato Wedges/Chopped Red Chillies And A Lemon Wedge",Mamagoto
+Unknown Category,NOODLE BOWLS,Stir Fried Udon Noodles,929.1,Non-Veg,,Wok Tossed Udon Noodles Stir Fried with Veg or Chicken in Chili Hoisin Sauce or Prawns in Pepper Salt Seasoning 1723.2 Kcal.,Mamagoto
+Unknown Category,NOODLE BOWLS,Mama's Chicken Broth for the Hungry Soul,989.0,Non-Veg,,"Light, Simple and Wholesome with Chicken, Pok choi, Vermicelli noodles and Veggies Along with 3 fried Chicken Wontons. Served with an Oriental Salsa on the Side. 472.6 kcal. 472.6 kcal.",Mamagoto
+Unknown Category,NOODLE BOWLS,Chiang Mai Train Station Noodles,929.1,Non-Veg,BESTSELLER,"Coconut Milk, Burnt Onion and Garlic, ""Khao Suey"" Style 747.4 Kcal.",Mamagoto
+Unknown Category,NOODLE BOWLS,Kolkata Spicy Noodles,929.1,Veg,,"Wok Tossed Thick Japanese Noodles And Mixed Vegetables, Flavoured With Spicy Fresh Red Chili",Mamagoto
+Unknown Category,NOODLE BOWLS,Mamas Spicy Ramen Bowl,929.1,Non-Veg,,,Mamagoto
+Unknown Category,NOODLE BOWLS,Miso Broth Ramen Bowl,929.1,Non-Veg,,,Mamagoto
+Unknown Category,RICE,Yangchow Champions Fried Rice,549.0,Non-Veg,,Wok Tossed Soft Wheat Noodles Tossed with Shredded Vegetables 1094 kcal 756 kcal.,Mamagoto
+Unknown Category,RICE,Fried Rice,389.1,Veg,BESTSELLER,,Mamagoto
+Unknown Category,RICE,Mamas Hot Spicy Fried Rice,429.1,Veg,,Wok Tossed Long Grain Rice And Vegetables Flavoured With Chili And Garlic,Mamagoto
+Unknown Category,RICE,Sticky Fried Rice,429.1,Veg,,,Mamagoto
+Unknown Category,NOODLES,Hakka Noodles,389.1,Veg,BESTSELLER,,Mamagoto
+Unknown Category,NOODLES,Hawker Noodles (Pad Thai),529.1,Veg,,,Mamagoto
+Unknown Category,NOODLES,Pan Fried Noodle,529.1,Veg,BESTSELLER,,Mamagoto
+Unknown Category,,Snow Peas & Green Beans,579.0,Veg,,"Thai coconut milk reduction, burnt garlic and onion, peanuts 479.92 kcal.",Mamagoto
+Unknown Category,,Thai Chicken and Water Chestnut,659.0,Non-Veg,,"With red chili strips, kaffir lime, lemongrass, coconut & cashewnut 1230 kcal.",Mamagoto
+Unknown Category,,Floating Market Seafood,549.0,Non-Veg,,Garlic infused thick textured soup with fish and prawn 138.74 kcal.,Mamagoto
+Unknown Category,,Tom Yum,439.1,Non-Veg,,Traditional Thai Soup,Mamagoto
+Unknown Category,,Chinese Sour and Pepper,439.1,Veg,,With 22 ingredients 199.71 kcal.,Mamagoto
+Unknown Category,,Oriental Clear Soup,439.1,Veg,,,Mamagoto
+Unknown Category,,Sweet Corn Soup,439.1,Veg,,,Mamagoto
+Unknown Category,,Chunky Caramel Sponge Cake,399.0,Veg,,With toffee sauce,Mamagoto
+Unknown Category,,Black Bean Jam,249.0,Veg,,A Multipurpose Dip made from fermented bean & spices 180g,Mamagoto
+Unknown Category,,Rice and Noodle Master,279.0,Veg,,Multipurpose flavour enhancer180g,Mamagoto

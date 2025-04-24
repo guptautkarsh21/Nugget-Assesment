@@ -1,0 +1,2113 @@
+{
+    "restaurant_info": {
+        "name": "Cafe Delhi Heights",
+        "location": "119 & 123, 1St Floor, Cross Point Mall, DLF Phase 4, Gurgaon",
+        "rating": "4.1",
+        "rating_count": "1,907",
+        "cuisines": "Italian, Chinese, North Indian, Continental",
+        "timing": "10:00 AM to 11:00 PM",
+        "phone": "+919555754033"
+    },
+    "menu_items": [
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Pad Thai Veg",
+            "price": 425,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Stir-fried pad thai noodles with beans sprouts & peanuts.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Pad Thai Chicken",
+            "price": 495,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Stir fried pad thai noodle with beans sprout",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Pad Thai Prawn",
+            "price": 550,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Stir-fried pad thai noodles with beans sprouts & peanuts.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Gyros Veg",
+            "price": 275,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Grilled vegetable served in a wrap",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Gyros Chicken",
+            "price": 325,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Grilled vegetables or chicken served in a wrap with tzatziki sauce.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Jerk Chicken",
+            "price": 400,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Spicy grilled jerk chicken with bold Caribbean spices. Served with seasoned sides.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Ramen Veg",
+            "price": 325,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Ramen Chicken",
+            "price": 395,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Poutine",
+            "price": 315,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Golden fries topped with cheese curds and hot savory gravy a Canadian classic.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Empanadas Veg",
+            "price": 325,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Latin American. Pastry turnovers filled with a variety of ingredients such as cheese and vegetable.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Empanadas Chicken",
+            "price": 415,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Shawarma Veg",
+            "price": 345,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Shawarma Chicken",
+            "price": 395,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Pelmeni",
+            "price": 315,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Traditional Russian dumplings filled with meat. Served with sour cream.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Churros",
+            "price": 285,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Golden fried churros dusted with cinnamon sugar. Served with chocolate sauce.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "(PASTA & RISOTTO)",
+            "name": "Corn Spinach Lasagna",
+            "price": 560,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Layered lasagna with sweet corn, spinach, and a cheesy blend.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "(PASTA & RISOTTO)",
+            "name": "Corn Spinach Cannelloni",
+            "price": 560,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Cannelloni filled with a creamy mixture of corn and spinach.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "(PASTA & RISOTTO)",
+            "name": "Pasta Alla Rosa",
+            "price": 575,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "A creamy pink sauce pasta with a rich blend of tomato and cheese.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "(PASTA & RISOTTO)",
+            "name": "Multi Mushroom Stroganof",
+            "price": 575,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A rich and creamy mushroom delight, cooked to perfection.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "(PASTA & RISOTTO)",
+            "name": "Veg Whole Wheat Pasta",
+            "price": 605,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Healthy whole wheat pasta; with your choice of the sauce.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "(PASTA & RISOTTO)",
+            "name": "Aglio e Olio Peperoncino",
+            "price": 615,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A light yet flavorful pasta tossed in extra virgin olive oil, garlic, cherry tomatoes, and dried red chilies.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "(PASTA & RISOTTO)",
+            "name": "Pasta Primavera Al Pesto",
+            "price": 615,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A vibrant blend of spring vegetables, roasted garlic, and creamy pesto jus.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "(PASTA & RISOTTO)",
+            "name": "Arrabbiata Pasta",
+            "price": 615,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Spicy tomato sauce pasta with cheese and olives, bringing bold Italian flavors.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "(PASTA & RISOTTO)",
+            "name": "Spinach And Ricotta Cheese Ravioli",
+            "price": 620,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Soft ravioli filled with creamy spinach and ricotta cheese, topped with a delicate sauce.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "(PASTA & RISOTTO)",
+            "name": "Spinach Risotto With Sauteed Mushroom",
+            "price": 625,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A creamy risotto with a delicate blend of spinach and saut",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "(PASTA & RISOTTO)",
+            "name": "Baked Cheese Risotto With Vegetables & Cherry Tomato",
+            "price": 625,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Creamy cheese risotto baked with fresh vegetables and cherry tomatoes.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "(PASTA & RISOTTO)",
+            "name": "Alfredo Pasta",
+            "price": 650,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "A smooth and rich white sauce pasta with mushrooms, cheese, cream, and butter.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "(PASTA & RISOTTO)",
+            "name": "Chicken & Herby Carrot Risotto",
+            "price": 650,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "A comforting risotto with tender chicken and herby carrot flavors.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "(PASTA & RISOTTO)",
+            "name": "Herby Chicken Lasagna",
+            "price": 680,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Hearty lasagna filled with seasoned chicken and herbs.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "(PASTA & RISOTTO)",
+            "name": "Chicken Whole Wheat Pasta",
+            "price": 680,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Healthy whole wheat pasta; with your choice of the sauce.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "(PASTA & RISOTTO)",
+            "name": "Herby Chicken Cannelloni",
+            "price": 680,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Tender cannelloni stuffed with smoked chicken and fresh herbs.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "(PASTA & RISOTTO)",
+            "name": "Bolognese Pasta",
+            "price": 690,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Minced mutton tossed in a rich Bolognese sauce with bacon.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "(PASTA & RISOTTO)",
+            "name": "Pasta Carbonara",
+            "price": 710,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "A hearty pasta with sticky bacon, eggs, and cheese, cooked to perfection.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "PIZZA",
+            "name": "Margherita Pizza",
+            "price": 570,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "[11 inch] Classic pizza topped with fresh tomatoes sauce , mozzarella, and basil.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "PIZZA",
+            "name": "Grilled Mushroom, Spinach & Onions Pizza",
+            "price": 620,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "[11 inch] A vegetarian delight with grilled mushrooms, spinach, and onions on a cheese base.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "PIZZA",
+            "name": "Pizza Al Greco",
+            "price": 660,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "[11 inch] Mediterranean-inspired pizza with sun-dried tomatoes, olives, bell peppers, onions, and feta cheese.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "PIZZA",
+            "name": "Pizza Alla Casalinga",
+            "price": 660,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "[11 inch] Buffalo mozzarella with oregano, basil, green peppers, and grilled chicken strips.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "PIZZA",
+            "name": "Chicken Tikka Masala Pizza",
+            "price": 670,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "[11 inch] Fusion pizza with a classic chicken tikka masala twist and tomatoes.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "PIZZA",
+            "name": "Scamorza Pizza",
+            "price": 680,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "[11 inch] Smoky chicken and cheese topped pizza, delivering bold flavors in every bite.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "PIZZA",
+            "name": "Pizza Al Bella",
+            "price": 710,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "[11 inch] Bocconcini, fresh basil, sun-dried tomatoes, black olives, and green onions, all baked to perfection.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "PIZZA",
+            "name": "Pepperoni Pizza",
+            "price": 735,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "[11 inch] Tangy tomato sauce, melted mozzarella, and pork pepperoni.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "WRAPS & ROLLS",
+            "name": "Paneer Tikka Kathi Roll",
+            "price": 405,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "Soft kathi roll filled with smoky paneer tikka, served with mint chutney and onion jam.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "WRAPS & ROLLS",
+            "name": "Chicken Tikka Kathi Roll",
+            "price": 440,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Juicy chicken tikka wrapped in a kathi roll, accompanied by mint chutney and onion jam.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "WRAPS & ROLLS",
+            "name": "Pesto Chicken & Rocket Wrap",
+            "price": 575,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Britsh chicken mixed with basil, nut pesto, peppery rockets & tomatoes, finished with mayo & lemon juice, wrapped in tortilla bread.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "GOURMET SNACKS",
+            "name": "Plain Garlic Bread",
+            "price": 240,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Freshly baked bread slices topped with a generous spread of garlic butter, baked until golden.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "GOURMET SNACKS",
+            "name": "Basket Of Fries",
+            "price": 320,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A generous basket of golden, crispy fries, perfect for sharing or enjoying alone.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "GOURMET SNACKS",
+            "name": "Potato Wedges",
+            "price": 350,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Crispy on the outside and soft on the inside, these seasoned potato wedges are a perfect snack.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "GOURMET SNACKS",
+            "name": "Cheese Garlic Bread",
+            "price": 410,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "Classic garlic bread topped with a melted layer of cheese for an extra indulgent bite.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "GOURMET SNACKS",
+            "name": "Veg Delicious Quesadillas",
+            "price": 660,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Toasted flour tortillas filled with a melted cheese blend, bringing you the taste of Mexico.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "GOURMET SNACKS",
+            "name": "Chicken Delicious Quesadillas",
+            "price": 780,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Succulent chicken slices enveloped in melted cheese inside a toasted flour tortilla.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "GOURMET SNACKS",
+            "name": "Fish N Chips",
+            "price": 790,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Crispy fish served with tartare sauce and home fries.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "DELHI 6 (STREET BITES)",
+            "name": "Pani Puri Shots",
+            "price": 270,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Crispy puris filled with spicy and tangy jaljeera water, a burst of flavor in every shot.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "DELHI 6 (STREET BITES)",
+            "name": "Tiptop Market Style Palak Patta Chaat",
+            "price": 320,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Crispy spinach leaves topped with tangy yogurt, chutney, and crunchy sev.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "DELHI 6 (STREET BITES)",
+            "name": "Mumbai Vada Pav",
+            "price": 325,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A classic Mumbai street food twist on a spiced potato patty sandwiched in soft pao bread.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "DELHI 6 (STREET BITES)",
+            "name": "Aloo Tikki Chaat",
+            "price": 330,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Crispy potato patties drenched in chilled yogurt and tangy tamarind chutney.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "DELHI 6 (STREET BITES)",
+            "name": "Chidwa Poha",
+            "price": 330,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Light and healthy flattened rice with a blend of Indian spices and peanuts.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "DELHI 6 (STREET BITES)",
+            "name": "Bombay Masala Sandwich",
+            "price": 330,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Traditional Mumbai-style sandwich served with crispy home fries.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "DELHI 6 (STREET BITES)",
+            "name": "Chilli Cheese Toast",
+            "price": 360,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Crispy toast topped with a generous layer of spicy cheese blend, toasted to golden perfection.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "DELHI 6 (STREET BITES)",
+            "name": "Isbt Makhani Maggi",
+            "price": 390,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "Maggi noodles with a rich, creamy butter masala twist, inspired by the flavors of Delhi.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN RICE BOWLS, THALI'S & MEALS",
+            "name": "Punjabi Kadhi Chawal",
+            "price": 450,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Tangy yogurt-based curry with soft pakoras, paired with rice. ",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN RICE BOWLS, THALI'S & MEALS",
+            "name": "Jammu Special Rajma Rice",
+            "price": 450,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "Comforting rajma (kidney beans) cooked with aromatic spices, served with rice.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN RICE BOWLS, THALI'S & MEALS",
+            "name": "Yellow Dal Tadka Meal",
+            "price": 450,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A flavorful yellow lentil curry, served with jalape",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN RICE BOWLS, THALI'S & MEALS",
+            "name": "Dal Makhan Wala Meal",
+            "price": 615,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A rich, creamy black lentil curry, served with jalape",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN RICE BOWLS, THALI'S & MEALS",
+            "name": "Punjabi Palak Chole Meal",
+            "price": 650,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A spinach and chickpea curry, served with jalape",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN RICE BOWLS, THALI'S & MEALS",
+            "name": "Buttery Tomato Paneer Masala Meal",
+            "price": 740,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Paneer cooked in a creamy, buttery tomato sauce, served with jalape",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN RICE BOWLS, THALI'S & MEALS",
+            "name": "Mom'S Buttered Chicken Tikka Masala Meal",
+            "price": 760,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Classic butter chicken tikka masala, served with jalape",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN RICE BOWLS, THALI'S & MEALS",
+            "name": "Captain Chicken Curry Meal",
+            "price": 760,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Hearty chicken curry, served with jalape",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN RICE BOWLS, THALI'S & MEALS",
+            "name": "Rajasthani Lal Maas Meal",
+            "price": 850,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "A fiery Rajasthani lamb curry, served with bajra roti and masala chaas.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN RICE BOWLS, THALI'S & MEALS",
+            "name": "Signature Rogan Josh Meal",
+            "price": 850,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Rich mutton curry served with jalape",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEXICAN SPECIALS",
+            "name": "Burritos Vegetables",
+            "price": 465,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Savor the deliciousness of burritos, filled with savory vegetables wrapped in soft tortillas, creating a perfect marriage of hearty ingredients & vibrant flavors.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEXICAN SPECIALS",
+            "name": "Enchiladas Vegetables",
+            "price": 465,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Indulge in the savory allure of enchiladas, featuring wholesome vegetables. These rolled tortillas are generously filled, then smothered in a flavorful sauce & baked to perfection.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEXICAN SPECIALS",
+            "name": "Burritos Chicken",
+            "price": 565,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Savor the deliciousness of burritos, filled with seasoned chicken wrapped in soft tortillas, creating a perfect marriage of hearty ingredients & vibrant flavors.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEXICAN SPECIALS",
+            "name": "Enchiladas Chicken",
+            "price": 565,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Indulge in the savory allure of enchiladas, featuring succulent chicken. These rolled tortillas are generously filled, then smothered in a flavorful sauce & baked to perfection.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "ASIAN SPECIALS",
+            "name": "Singaporean Chilli Cottage Tofu",
+            "price": 450,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Elevate your taste experience with tofu, flavourful chilli and your choice of rice.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "ASIAN SPECIALS",
+            "name": "Spinach, Baby Corn & Mushroom With Hot Basil Sauce",
+            "price": 450,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Delight in the earthy symphony of spinach, mushroom & baby corn, with your choice of rice",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "ASIAN SPECIALS",
+            "name": "Stir Fried Exotic Vegetable",
+            "price": 450,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A tantalizing blend of colorful, diverse vegetables expertly stir-fried to perfection with your choice of rice",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "ASIAN SPECIALS",
+            "name": "Cafe Delhi Heights Special Khao Suey",
+            "price": 535,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Delicately spiced coconut curry, served with spaghetti noodle pasta.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "ASIAN SPECIALS",
+            "name": "Spicy Thai Basil Sliced Chicken",
+            "price": 575,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Delight in the savory simplicity of Thai seasoned sliced chicken with fragrant herbs, & spices with your choice of rice",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "ASIAN SPECIALS",
+            "name": "Green Curry Famous Thai Curry",
+            "price": 590,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A fragrant green Thai curry served with steamed rice & cucumber kimchi vegetables.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "ASIAN SPECIALS",
+            "name": "Stir Fried Lamb With Chilli Bean",
+            "price": 605,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Indulge in the bold & savory delight of stir-fried tender lamb with fresh chillies symphony of tender lamb stir-fried to perfection with vibrant, & fresh chillies",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "ASIAN SPECIALS",
+            "name": "Chicken Red Curry Famous Thai Curry",
+            "price": 635,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Served with steamed rice & cucumber kimchi vegetables.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "ASIAN SPECIALS",
+            "name": "Spicy Thai Basil Sliced Fish",
+            "price": 670,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Delight in the savory simplicity of Thai seasoned sliced fish with fragrant herbs, & spices with your choice of rice.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "ASIAN SPECIALS",
+            "name": "Diced Chicken Meal Bowl",
+            "price": 730,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Stir-fried diced chicken with your choice of Fried Rice, Red Rice, or Quinoa, and sauces like Two Pepper, White Garlic, Hot Garlic, Schezwan Garlic, or Chilli Bean",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NOODLE",
+            "name": "Plain Veg Hakka Noodles",
+            "price": 385,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Classic Veg Hakka noodles.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NOODLE",
+            "name": "Veg Chilli Garlic Hakka Noodles",
+            "price": 385,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Veg Hakka noodles infused with spicy chili and garlic, perfect for a fiery taste.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NOODLE",
+            "name": "Plain Chicken Hakka Noodles",
+            "price": 430,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Classic Veg Hakka noodles with egg and juicy boneless chicken pieces.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NOODLE",
+            "name": "Chilli Garlic Chicken Hakka Noodles",
+            "price": 430,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Chicken Hakka noodles with a zesty twist of chili and garlic for extra spice.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NOODLE",
+            "name": "Veg Pan Fried Noodles With Chilli Bean",
+            "price": 565,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "Crispy pan-fried noodles with teppanyaki vegetables, tossed in a tangy chili bean sauce.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "NOODLE",
+            "name": "Chicken Pan Fried Noodles With Chilli Bean",
+            "price": 615,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Crispy noodles topped with grilled chicken and a tangy chili bean sauce.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN",
+            "name": "Tandoori Mushrooms",
+            "price": 530,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Marinated mushrooms grilled to smoky perfection in a tandoor.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN",
+            "name": "Pan Grilled Mixed Veggie Kebab With Mint Garlic Chutney",
+            "price": 545,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Succulent veggie kebabs [5 pieces] served with zesty mint garlic chutney, baby lachha, coriander green, and lachha onion.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN",
+            "name": "Tawa Fry Assortment Of Vegetables",
+            "price": 555,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Grilled vegetables infused with Indian spices and a blend of fresh herbs.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN",
+            "name": "Tawa Masala Paneer Tikka",
+            "price": 565,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Paneer cubes [6 pieces] marinated in tangy spices, grilled on a tawa for that authentic flavor.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN",
+            "name": "Tandoor Roasted Chicken [Half]",
+            "price": 565,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Half chicken marinated in yogurt and spices, roasted to perfection in a clay oven.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN",
+            "name": "Achari Paneer Tikka",
+            "price": 565,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Paneer chunks [6 pieces] marinated in a spicy achari masala and cooked to a juicy finish.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN",
+            "name": "Chicken Tikka With Kashmiri Lal Mirch",
+            "price": 615,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Juicy boneless chicken pieces marinated in yogurt and Kashmiri red chili spices, cooked to perfection in a clay oven. [6 pieces]",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN",
+            "name": "Galouti Kebab",
+            "price": 620,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "A melt-in-the-mouth Lakhnawi delicacy, spiced to perfection and crafted with our utmost effort to match the original as closely as possible.[5 pieces]",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN",
+            "name": "Tawa Masala Mutton Seekh Kebab",
+            "price": 620,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Flavorful mutton seekh kebabs cooked on a tawa, spiced with aromatic Indian flavors. [6 pieces]",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "INDIAN",
+            "name": "Fish Tikka With Kashmiri Lal Mirch",
+            "price": 825,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Spicy and smoky fish tikka marinated in Kashmiri red chili and cooked to perfection. [6 pieces]",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CONTINENTIAL",
+            "name": "Mushroom Bruschetta",
+            "price": 430,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "French bread topped with saut",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CONTINENTIAL",
+            "name": "Hot Garlic Chicken Wings",
+            "price": 485,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Lightly fried chicken wings coated in a spicy hot garlic glaze. [6 pieces]",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CONTINENTIAL",
+            "name": "Baked Mushroom Caps",
+            "price": 495,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Baked Parmesan-loaded mushroom caps served with a creamy garlic aioli.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CONTINENTIAL",
+            "name": "2 Cheese And Potato Croquettes",
+            "price": 495,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Crispy crumbed rolls [6 pieces] filled with cheese, potato mash, and jalape",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CONTINENTIAL",
+            "name": "Country Style Cottage Cheese Chilli",
+            "price": 500,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Spicy, stir-fried cottage cheese chunks with peppers and onions in a tangy sauce.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CONTINENTIAL",
+            "name": "Grilled Sausages",
+            "price": 515,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Perfectly grilled sausages with a hint of herbs and spices. [5 pieces]",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CONTINENTIAL",
+            "name": "Grilled Chicken Shish Taouk",
+            "price": 565,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Tender chicken marinated in Mediterranean spices and herbs, grilled to juicy perfection. [5 pieces]",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CONTINENTIAL",
+            "name": "Barbeque Chicken Finger With Romesco",
+            "price": 565,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Smoky BBQ chicken fingers paired with a tangy Romesco dipping sauce.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CONTINENTIAL",
+            "name": "Bang Bang Chicken 65",
+            "price": 570,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "A Tamil Nadu classic with marinated chicken tossed in a fiery blend of red chilies, curry leaves, and mustard seeds.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CONTINENTIAL",
+            "name": "Fried Crispy Chicken With Chillies",
+            "price": 615,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Crispy sliced chicken breast marinated in a blend of chilies, ginger, garlic, and red chili paste.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CONTINENTIAL",
+            "name": "Monster Chicken Lollipop",
+            "price": 620,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Chicken Lollipops [4 pieces] flavored with different spices that blend together & give A lip smacking conventional dish.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CONTINENTIAL",
+            "name": "Crumbed Fish Fingers",
+            "price": 795,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Golden crumbed fish fingers served with tartar sauce and home fries.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "CONTINENTIAL",
+            "name": "Chilli Garlic Prawns",
+            "price": 795,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Juicy prawns stir-fried in a sweet, spicy, and garlicky sauce with Soy Chilli marination.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "PLATTERS",
+            "name": "Ultimate Chips & Dips",
+            "price": 610,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A medley of crispy potato wedges, masala fries, chips, and french fries served with sour cream, guacamole, and salsa.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "PLATTERS",
+            "name": "Le Mezze Labanese Platter",
+            "price": 735,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A vibrant spread of falafel, marinated olives, tabbouleh, crispy pita, classic hummus, tzatziki, and pickled salad.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "PLATTERS",
+            "name": "Exotic Vegetables Treasure",
+            "price": 810,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A delightful mix of famous falafel, cheese & potato croquettes, baked mushroom caps, and a refreshing house salad.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "PLATTERS",
+            "name": "Tandoor Grilled Veg Platter",
+            "price": 830,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A tandoor-grilled assortment of mushrooms, pineapple, potatoes, broccoli, and paneer tikka [4 pieces each]",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEXICAN",
+            "name": "Tomato Bruschetta",
+            "price": 410,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Crunchy bruschetta [5 pieces] topped with a fresh tomato and basil mix.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEXICAN",
+            "name": "Chicken & Cheese Bruschetta",
+            "price": 470,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "French bread topped with succulent chicken, melted cheese, and fresh herbs. [5 pieces]",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEXICAN",
+            "name": "Nachos Grande",
+            "price": 565,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Crispy nachos loaded with melted cheese, served with sour cream, salsa, and guacamole.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "MEXICAN",
+            "name": "Herbed Hummus With Falafel",
+            "price": 570,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A trio of olive, beetroot, and pesto hummus paired with crispy falafel [4 pieces] and pita.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "BURGERS",
+            "name": "Delhi Burger",
+            "price": 575,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Reminiscent of streets of Delhi, the base of the burger bun is deep fried to make this yummy treat.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "BURGERS",
+            "name": "Open Chicken Burger",
+            "price": 680,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "An open-faced burger topped with tender chicken chunks, melted cheddar, capsicum and jalape",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "BURGERS",
+            "name": "Moist Grilled Chicken Burger",
+            "price": 680,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "A juicy grilled chicken patty topped with handcrafted mushroom sauce, nestled in a fresh bun.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "BURGERS",
+            "name": "Juicy Lucy Burger",
+            "price": 685,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "A succulent 250 gm lamb patty, seasoned with our in-house rubs and spices, stuffed with molten cheese and jalape",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SANDWICHES & DOGS",
+            "name": "Chicken Hot Dog",
+            "price": 495,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Juicy chicken saussages topped with choucroute, mayonnaise, and a side of salad and home fries.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SANDWICHES",
+            "name": "Mixed Veggie Multi Grain Pesto Grilled Panini",
+            "price": 410,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A wholesome mix of fresh veggies with vibrant pesto, grilled on multigrain bread, paired with home fries.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SANDWICHES",
+            "name": "Smoked Chicken & Basil Pesto Grilled Panini",
+            "price": 470,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Served with home fries.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SANDWICHES",
+            "name": "Herbed Vegetables Club Sandwich",
+            "price": 500,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Layers of herbed vegetables stacked between soft slices, served with a side of home fries.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SANDWICHES",
+            "name": "Sauteed Chicken Club Sandwich",
+            "price": 575,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Served with home fries.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SANDWICHES",
+            "name": "Chicken & Bacon Club Sandwich",
+            "price": 655,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "A hearty sandwich featuring juicy chicken, crispy bacon, and fresh veggies, served with home fries.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Palak Paneer Gilli Biryani",
+            "price": 570,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Our version of traditional biryani, slow-cooked with aromatic spices, finished with crispy brown onions, and served with caper raita.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Veg Cafe Delhi Heights Tawa Biryani",
+            "price": 585,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A unique take on biryani cooked on a tawa, infused with rich Indian spices and fresh vegetables.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Buttered Chicken Gilli Biryani",
+            "price": 730,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Our version of traditional biryani, slow-cooked with aromatic spices, finished with crispy brown onions, and served with caper raita.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Cafe Delhi Heights Tawa Biryani",
+            "price": 720,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Tender chicken pieces cooked with biryani rice on a tawa, creating a flavorful, crispy rice dish.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Lamb Cafe Delhi Heights Tawa Biryani",
+            "price": 730,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Juicy lamb chunks cooked with biryani rice on a tawa, offering a delightful mix of textures and flavors.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Lal Maas Gilli Biryani",
+            "price": 760,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Our version of lamb biryani, slow-cooked with aromatic spices, tender pieces of lamb, finished with crispy brown onions, and served with caper raita",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SOUPS",
+            "name": "Home Style Tomato Soup",
+            "price": 275,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Velvety, chef's favourite tomato l soup made from pure, fresh tomatoes & basil.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SOUPS",
+            "name": "Chinese Hot N Sour Soup",
+            "price": 325,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Our homemade delicacy the way it should be warm & loads of tasty treat",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SOUPS",
+            "name": "Minestrone Soup",
+            "price": 325,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "A hearty, wholesome vegetable soup packed with nutrients and flavor.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SOUPS",
+            "name": "Forest Mushroom Cappuccino Soup",
+            "price": 345,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A luxurious wild mushroom soup, rich in earthy flavors.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SOUPS",
+            "name": "Himalayan Thukpa",
+            "price": 470,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A warm and comforting noodle soup, filled with vibrant vegetables.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SALADS",
+            "name": "The Famous Caesar Salad",
+            "price": 495,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A refreshing Caesar Salad with cherry tomatoes, iceberg lettuce, sundried tomatoes, brocolli, and Grana Padano cheese, drizzled with Caesar dressing and pesto-infused bread croutons.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SALADS",
+            "name": "Greek Salad",
+            "price": 485,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Fresh cucumber, tomatoes, trio bell peppers, crumbled feta, red onions, green & black olives & lemon vinaigrette. ",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SALADS",
+            "name": "Roasted Beetroot Salad",
+            "price": 505,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Walnut, rocket leaves, caramelized almonds, goat cheese and burrata honey dressing.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SALADS",
+            "name": "Buckwheat And Quinoa Salad",
+            "price": 505,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Buckwheat and Quinoa, with bell peppers, cucumber, kidney beans and onion, with lemon vinaigerette dressing.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SALADS",
+            "name": "Panzanella Salad",
+            "price": 555,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Warm Salad Of Italian Foccacia Bread & Grilled Vegetables.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SALADS",
+            "name": "Chef'S Italian Chicken Salad",
+            "price": 615,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "A classic combination of caesar dressing with British chicken, roasted red peppers, cherry tomatoes, cucumber & olives, finished with a pot of french dressing.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "EGG SPECIALSS",
+            "name": "Chicken & Cheese Omelette [3 Eggs]",
+            "price": 385,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "[3 eggs] A fluffy chicken and cheese omelette, served with hearty brown bread toast, roasted tomatoes, and grilled vegetables.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "EGG SPECIALSS",
+            "name": "Spinach & Mushroom Eggs Benedict Our Way",
+            "price": 495,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Poached eggs, creamy spinach, and saut",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "EGG SPECIALSS",
+            "name": "Smoked Chicken & Cheese Eggs Benedict Our Way",
+            "price": 570,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "A delicious combination of poached eggs, smoked chicken, and cheese with hollandaise sauce over a crunchy croissant.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "EGG SPECIALSS",
+            "name": "Ham Sausdage Eggs Benedict Our Way",
+            "price": 615,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Poached eggs topped with rich hollandaise and melted cheddar on a buttery croissant.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HEALTHY EATS",
+            "name": "Quinoa Poha",
+            "price": 410,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A nutritious twist on traditional poha made with quinoa, vegetables, and aromatic spices.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HEALTHY EATS",
+            "name": "Grilled Chicken Breast Grilled Panini",
+            "price": 470,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Served with home fries.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HEALTHY EATS",
+            "name": "Grilled Chicken Breast",
+            "price": 545,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "Tender grilled chicken breast (single or double), served with garlic mashed potatoes and grilled vegetables, available with Red Wine Jus, Crushed Black Pepper, Rosemary Mushroom Sauce, Smoked BBQ, or Schezwan Garlic.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HEALTHY EATS",
+            "name": "Cottage Cheese Steak",
+            "price": 710,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Grilled cottage cheese steak served with garlic mashed potatoes and vegetables, with sauces like Red Wine Jus, Crushed Black Pepper, Rosemary Mushroom Sauce, Smoked BBQ, or Schezwan Garlic.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HEALTHY BOWLS",
+            "name": "Vegetables Khichdi",
+            "price": 490,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A comforting blend of Indian lentils, Italian arborio rice, fresh herbs, and rustic spices, perfect for a nourishing meal.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HEALTHY BOWLS",
+            "name": "Chicken Khichdi",
+            "price": 560,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Indian lentils, Italian arborio rice, fresh Indian herbs & rustic spice seasoning.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HEALTHY BOWLS",
+            "name": "Wok Seared Cottage Cheese Meal Bowl",
+            "price": 680,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Seared cottage cheese served with your choice of Fried Rice, Red Rice, or Quinoa, and sauces like Two Pepper, White Garlic, Hot Garlic, Schezwan Garlic, or Chilli Bean.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HEALTHY BOWLS",
+            "name": "Tofu With Peppers Meal Bowl",
+            "price": 680,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Stir-fried tofu with peppers, served with Fried Rice, Red Rice, or Quinoa, and sauce options like Two Pepper, White Garlic, Hot Garlic, Schezwan Garlic, or Chilli Bean.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HEALTHY BOWLS",
+            "name": "Protein Bowl",
+            "price": 715,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Served with broth, wilted spinach, edamame beans, poached eggs, asparagus, corn and grilled chicken breast served with a choice of Noodles or Rice.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HEALTHY BOWLS",
+            "name": "Poke Bowl",
+            "price": 735,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Grilled chicken breast served with rice, avocado, red cabbage, sliced cucumber & edamame beans.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Fruit Trifle",
+            "price": 120,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A refreshing dessert layered with fresh seasonal fruits, creamy custard, and soft sponge cake, topped with whipped cream. Every spoonful delivers a mix of fruity sweetness and creamy richness.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chocolate Brownie",
+            "price": 265,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Served with vanilla ice cream.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Dessert Of The Day",
+            "price": 265,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Ever changing dessert of the day.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Banoffee Pie",
+            "price": 265,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A delightful combination of buttery biscuit crust, creamy toffee, fresh bananas, and whipped cream. One of our favorite desserts",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mud Cake Pastry",
+            "price": 265,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Decadent mud cake available by the slice or in a half-kg portion.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chocolate Mountain",
+            "price": 335,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A towering dessert featuring layers of rich chocolate cake , topped with a generous drizzle of hot fudge. .",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HOT BEVERAGES",
+            "name": "Cafe Latte",
+            "price": 235,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Hot espresso with steamed milk and a layer of frothed milk on top.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HOT BEVERAGES",
+            "name": "Cafe Mocha",
+            "price": 235,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Rich dark chocolate mix with hot espresso and steamed milk.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HOT BEVERAGES",
+            "name": "Cappuccino",
+            "price": 235,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A classic coffee topped with a thick layer of milk foam.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HOT BEVERAGES",
+            "name": "Cafe Hot Chocolate",
+            "price": 365,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Experince our velvety hot chocolate, blending premium cocoa, steamed milk hint of sweetness. ",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "HOT BEVERAGES",
+            "name": "Cafe Espresso",
+            "price": 155,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Strong and creamy coffee decoction extracted at high pressure.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "COLD BEVERAGES",
+            "name": "Pepsi Soft Beverage",
+            "price": 175,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "250Ml",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "COLD BEVERAGES",
+            "name": "Diet Pepsi Soft Beverage",
+            "price": 175,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "A rich blend of cafe hot chocolate, chocolate mix and vanilla latte.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "COLD BEVERAGES",
+            "name": "7up Soft Beverage",
+            "price": 175,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "Freshly brewed espresso served cold milk.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "COLD BEVERAGES",
+            "name": "Energy Beverage",
+            "price": 335,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "COLD BEVERAGES",
+            "name": "Perrier Sparkling Mineral Water",
+            "price": 335,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "[Packaged]",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "COLD BEVERAGES",
+            "name": "Tonic Water",
+            "price": 145,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "COLD BEVERAGES",
+            "name": "Ginger Ale",
+            "price": 185,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SOFT AND INNOCENT SHAKES",
+            "name": "Homemade Lemonade Soda",
+            "price": 225,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Available with soda for a fresh, zesty drink.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SOFT AND INNOCENT SHAKES",
+            "name": "Homemade Lemonade Water",
+            "price": 225,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Available with water for a fresh, zesty drink.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SOFT AND INNOCENT SHAKES",
+            "name": "Electric Blue Lemonade",
+            "price": 325,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A vibrant mix of pineapple juice, blue cura",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SOFT AND INNOCENT SHAKES",
+            "name": "Ginger Lemonade",
+            "price": 260,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A zesty lemonade with fresh ginger and club soda.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SOFT AND INNOCENT SHAKES",
+            "name": "Blueberry & Basil Lemonade",
+            "price": 290,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A refreshing mix of blueberry and basil with a hint of lime.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRESHLY SQUEEZED RAW JUICES",
+            "name": "Watermelon Juice",
+            "price": 290,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "With watermelon, celery & pomegranate goodness.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRESHLY SQUEEZED RAW JUICES",
+            "name": "Total 8 Juice",
+            "price": 235,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "With tomato, celery, ginger, cucumber, beetroot, apple, carrot & parsley",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRESHLY SQUEEZED RAW JUICES",
+            "name": "My Aim To Be Cool Juice",
+            "price": 325,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "With kiwi, apple, cucumber, ginger & fresh mint leaves",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRESHLY SQUEEZED RAW JUICES",
+            "name": "Pink Perfection Juice",
+            "price": 325,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "With strawberry, watermelon, orange & lime",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRESHLY SQUEEZED RAW JUICES",
+            "name": "Abc Story Juice",
+            "price": 345,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "With apple, beetroot & carrot.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRESHLY SQUEEZED RAW JUICES",
+            "name": "Sunshine Citrus Juice",
+            "price": 325,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "With pineapple, sweet lime & apple.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRESHLY SQUEEZED RAW JUICES",
+            "name": "Outstanding Kick Juice",
+            "price": 325,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "With watermelon, orange & pineapple.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRESHLY SQUEEZED RAW JUICES",
+            "name": "Strawberry Forever Juice",
+            "price": 345,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "With fresh apple, carrot, orange & strawberry.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRESHLY SQUEEZED RAW JUICES",
+            "name": "A Beet Beauty Juice",
+            "price": 325,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "With beetroot, carrot, apple, raw ginger, lime & punch of turmeric.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "FRESHLY SQUEEZED RAW JUICES",
+            "name": "My Darling Go Green Juice",
+            "price": 345,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "With kiwi, fresh mint leaves, apples & cucumber.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "ICED COFFEE AND ICED TEA",
+            "name": "Classic Cold Coffee",
+            "price": 345,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A yummy, homemade-style cold coffee that's classic and delicious.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "ICED COFFEE AND ICED TEA",
+            "name": "Frozen Hot Chocolate",
+            "price": 345,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A rich blend of caf",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "ICED COFFEE AND ICED TEA",
+            "name": "Iced Cafe Latte",
+            "price": 300,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Freshly brewed espresso served cold milk.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SHAKES",
+            "name": "Antioxidant Smoothie",
+            "price": 515,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Packed with curd, strawberries, blueberries, banana, chia seeds, flax seeds, oatmeal, pomegranate, and honey",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SHAKES",
+            "name": "Peanut Butter Shake",
+            "price": 345,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "With Peanut butter, nutella, fresh banana, milk & cream.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SHAKES",
+            "name": "Chocolate Shake",
+            "price": 315,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A rich and creamy chocolate shake, blended to perfection for a decadent treat.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SHAKES",
+            "name": "Strawberry Shake",
+            "price": 315,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A refreshing strawberry shake, bursting with the natural sweetness of ripe strawberries.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SHAKES",
+            "name": "Seasonal Fruits Shake",
+            "price": 315,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A vibrant and fresh shake made with a selection of the season's finest fruits.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SHAKES",
+            "name": "Oreo Cookies Chocolate Shake",
+            "price": 325,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Imagination of milky oreo chocolate cookies, ice-cold vanilla latte extremely well together",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SHAKES",
+            "name": "Chocos Brownie Shake",
+            "price": 375,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Homemade brownie, milky chocolate vanilla latte blended together with ice",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SHAKES",
+            "name": "Mango & Banana Shake",
+            "price": 295,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Creamy blend of mango, banana, and velvety ice cream. ",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "SHAKES",
+            "name": "Coffee Toffee Cookies Shake",
+            "price": 375,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Freshly brewed coffee and caramel blended with chocolate for a sweet treat.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Grilled Vegetables",
+            "price": 95,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Fresh garden vegetables grilled to perfection with a hint of olive oil and.",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Grilled Chicken Strips",
+            "price": 230,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Add on in salad [Subject to Availability].",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Smoked Chicken",
+            "price": 280,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Add on in salad [Subject to Availability].",
+            "restaurant_name": "Cafe Delhi Heights"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Streaky Bacon",
+            "price": 260,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Cafe Delhi Heights"
+        }
+    ]
+}

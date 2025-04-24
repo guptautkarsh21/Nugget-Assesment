@@ -1,0 +1,211 @@
+category,subcategory,name,price,veg_status,tags,description,restaurant_name
+Unknown Category,,Pad Thai Veg,425,Veg,,Stir-fried pad thai noodles with beans sprouts & peanuts.,Cafe Delhi Heights
+Unknown Category,,Pad Thai Chicken,495,Non-Veg,,Stir fried pad thai noodle with beans sprout,Cafe Delhi Heights
+Unknown Category,,Pad Thai Prawn,550,Non-Veg,,Stir-fried pad thai noodles with beans sprouts & peanuts.,Cafe Delhi Heights
+Unknown Category,,Gyros Veg,275,Veg,,Grilled vegetable served in a wrap,Cafe Delhi Heights
+Unknown Category,,Gyros Chicken,325,Non-Veg,,Grilled vegetables or chicken served in a wrap with tzatziki sauce.,Cafe Delhi Heights
+Unknown Category,,Jerk Chicken,400,Non-Veg,,Spicy grilled jerk chicken with bold Caribbean spices. Served with seasoned sides.,Cafe Delhi Heights
+Unknown Category,,Ramen Veg,325,Veg,,,Cafe Delhi Heights
+Unknown Category,,Ramen Chicken,395,Non-Veg,,,Cafe Delhi Heights
+Unknown Category,,Poutine,315,Veg,,Golden fries topped with cheese curds and hot savory gravy a Canadian classic.,Cafe Delhi Heights
+Unknown Category,,Empanadas Veg,325,Veg,,Latin American. Pastry turnovers filled with a variety of ingredients such as cheese and vegetable.,Cafe Delhi Heights
+Unknown Category,,Empanadas Chicken,415,Non-Veg,,,Cafe Delhi Heights
+Unknown Category,,Shawarma Veg,345,Veg,,,Cafe Delhi Heights
+Unknown Category,,Shawarma Chicken,395,Non-Veg,,,Cafe Delhi Heights
+Unknown Category,,Pelmeni,315,Non-Veg,,Traditional Russian dumplings filled with meat. Served with sour cream.,Cafe Delhi Heights
+Unknown Category,,Churros,285,Veg,,Golden fried churros dusted with cinnamon sugar. Served with chocolate sauce.,Cafe Delhi Heights
+Unknown Category,(PASTA & RISOTTO),Corn Spinach Lasagna,560,Veg,,"Layered lasagna with sweet corn, spinach, and a cheesy blend.",Cafe Delhi Heights
+Unknown Category,(PASTA & RISOTTO),Corn Spinach Cannelloni,560,Veg,,Cannelloni filled with a creamy mixture of corn and spinach.,Cafe Delhi Heights
+Unknown Category,(PASTA & RISOTTO),Pasta Alla Rosa,575,Veg,BESTSELLER,A creamy pink sauce pasta with a rich blend of tomato and cheese.,Cafe Delhi Heights
+Unknown Category,(PASTA & RISOTTO),Multi Mushroom Stroganof,575,Veg,,"A rich and creamy mushroom delight, cooked to perfection.",Cafe Delhi Heights
+Unknown Category,(PASTA & RISOTTO),Veg Whole Wheat Pasta,605,Veg,,Healthy whole wheat pasta; with your choice of the sauce.,Cafe Delhi Heights
+Unknown Category,(PASTA & RISOTTO),Aglio e Olio Peperoncino,615,Veg,,"A light yet flavorful pasta tossed in extra virgin olive oil, garlic, cherry tomatoes, and dried red chilies.",Cafe Delhi Heights
+Unknown Category,(PASTA & RISOTTO),Pasta Primavera Al Pesto,615,Veg,,"A vibrant blend of spring vegetables, roasted garlic, and creamy pesto jus.",Cafe Delhi Heights
+Unknown Category,(PASTA & RISOTTO),Arrabbiata Pasta,615,Veg,,"Spicy tomato sauce pasta with cheese and olives, bringing bold Italian flavors.",Cafe Delhi Heights
+Unknown Category,(PASTA & RISOTTO),Spinach And Ricotta Cheese Ravioli,620,Veg,,"Soft ravioli filled with creamy spinach and ricotta cheese, topped with a delicate sauce.",Cafe Delhi Heights
+Unknown Category,(PASTA & RISOTTO),Spinach Risotto With Sauteed Mushroom,625,Veg,,A creamy risotto with a delicate blend of spinach and saut,Cafe Delhi Heights
+Unknown Category,(PASTA & RISOTTO),Baked Cheese Risotto With Vegetables & Cherry Tomato,625,Veg,,Creamy cheese risotto baked with fresh vegetables and cherry tomatoes.,Cafe Delhi Heights
+Unknown Category,(PASTA & RISOTTO),Alfredo Pasta,650,Veg,BESTSELLER,"A smooth and rich white sauce pasta with mushrooms, cheese, cream, and butter.",Cafe Delhi Heights
+Unknown Category,(PASTA & RISOTTO),Chicken & Herby Carrot Risotto,650,Non-Veg,,A comforting risotto with tender chicken and herby carrot flavors.,Cafe Delhi Heights
+Unknown Category,(PASTA & RISOTTO),Herby Chicken Lasagna,680,Non-Veg,,Hearty lasagna filled with seasoned chicken and herbs.,Cafe Delhi Heights
+Unknown Category,(PASTA & RISOTTO),Chicken Whole Wheat Pasta,680,Non-Veg,,Healthy whole wheat pasta; with your choice of the sauce.,Cafe Delhi Heights
+Unknown Category,(PASTA & RISOTTO),Herby Chicken Cannelloni,680,Non-Veg,,Tender cannelloni stuffed with smoked chicken and fresh herbs.,Cafe Delhi Heights
+Unknown Category,(PASTA & RISOTTO),Bolognese Pasta,690,Non-Veg,,Minced mutton tossed in a rich Bolognese sauce with bacon.,Cafe Delhi Heights
+Unknown Category,(PASTA & RISOTTO),Pasta Carbonara,710,Non-Veg,,"A hearty pasta with sticky bacon, eggs, and cheese, cooked to perfection.",Cafe Delhi Heights
+Unknown Category,PIZZA,Margherita Pizza,570,Veg,,"[11 inch] Classic pizza topped with fresh tomatoes sauce , mozzarella, and basil.",Cafe Delhi Heights
+Unknown Category,PIZZA,"Grilled Mushroom, Spinach & Onions Pizza",620,Veg,,"[11 inch] A vegetarian delight with grilled mushrooms, spinach, and onions on a cheese base.",Cafe Delhi Heights
+Unknown Category,PIZZA,Pizza Al Greco,660,Veg,,"[11 inch] Mediterranean-inspired pizza with sun-dried tomatoes, olives, bell peppers, onions, and feta cheese.",Cafe Delhi Heights
+Unknown Category,PIZZA,Pizza Alla Casalinga,660,Non-Veg,,"[11 inch] Buffalo mozzarella with oregano, basil, green peppers, and grilled chicken strips.",Cafe Delhi Heights
+Unknown Category,PIZZA,Chicken Tikka Masala Pizza,670,Non-Veg,,[11 inch] Fusion pizza with a classic chicken tikka masala twist and tomatoes.,Cafe Delhi Heights
+Unknown Category,PIZZA,Scamorza Pizza,680,Non-Veg,,"[11 inch] Smoky chicken and cheese topped pizza, delivering bold flavors in every bite.",Cafe Delhi Heights
+Unknown Category,PIZZA,Pizza Al Bella,710,Veg,,"[11 inch] Bocconcini, fresh basil, sun-dried tomatoes, black olives, and green onions, all baked to perfection.",Cafe Delhi Heights
+Unknown Category,PIZZA,Pepperoni Pizza,735,Non-Veg,,"[11 inch] Tangy tomato sauce, melted mozzarella, and pork pepperoni.",Cafe Delhi Heights
+Unknown Category,WRAPS & ROLLS,Paneer Tikka Kathi Roll,405,Veg,BESTSELLER,"Soft kathi roll filled with smoky paneer tikka, served with mint chutney and onion jam.",Cafe Delhi Heights
+Unknown Category,WRAPS & ROLLS,Chicken Tikka Kathi Roll,440,Non-Veg,,"Juicy chicken tikka wrapped in a kathi roll, accompanied by mint chutney and onion jam.",Cafe Delhi Heights
+Unknown Category,WRAPS & ROLLS,Pesto Chicken & Rocket Wrap,575,Non-Veg,,"Britsh chicken mixed with basil, nut pesto, peppery rockets & tomatoes, finished with mayo & lemon juice, wrapped in tortilla bread.",Cafe Delhi Heights
+Unknown Category,GOURMET SNACKS,Plain Garlic Bread,240,Veg,,"Freshly baked bread slices topped with a generous spread of garlic butter, baked until golden.",Cafe Delhi Heights
+Unknown Category,GOURMET SNACKS,Basket Of Fries,320,Veg,,"A generous basket of golden, crispy fries, perfect for sharing or enjoying alone.",Cafe Delhi Heights
+Unknown Category,GOURMET SNACKS,Potato Wedges,350,Veg,,"Crispy on the outside and soft on the inside, these seasoned potato wedges are a perfect snack.",Cafe Delhi Heights
+Unknown Category,GOURMET SNACKS,Cheese Garlic Bread,410,Veg,BESTSELLER,Classic garlic bread topped with a melted layer of cheese for an extra indulgent bite.,Cafe Delhi Heights
+Unknown Category,GOURMET SNACKS,Veg Delicious Quesadillas,660,Veg,,"Toasted flour tortillas filled with a melted cheese blend, bringing you the taste of Mexico.",Cafe Delhi Heights
+Unknown Category,GOURMET SNACKS,Chicken Delicious Quesadillas,780,Non-Veg,,Succulent chicken slices enveloped in melted cheese inside a toasted flour tortilla.,Cafe Delhi Heights
+Unknown Category,GOURMET SNACKS,Fish N Chips,790,Non-Veg,,Crispy fish served with tartare sauce and home fries.,Cafe Delhi Heights
+Unknown Category,DELHI 6 (STREET BITES),Pani Puri Shots,270,Veg,,"Crispy puris filled with spicy and tangy jaljeera water, a burst of flavor in every shot.",Cafe Delhi Heights
+Unknown Category,DELHI 6 (STREET BITES),Tiptop Market Style Palak Patta Chaat,320,Veg,,"Crispy spinach leaves topped with tangy yogurt, chutney, and crunchy sev.",Cafe Delhi Heights
+Unknown Category,DELHI 6 (STREET BITES),Mumbai Vada Pav,325,Veg,,A classic Mumbai street food twist on a spiced potato patty sandwiched in soft pao bread.,Cafe Delhi Heights
+Unknown Category,DELHI 6 (STREET BITES),Aloo Tikki Chaat,330,Veg,,Crispy potato patties drenched in chilled yogurt and tangy tamarind chutney.,Cafe Delhi Heights
+Unknown Category,DELHI 6 (STREET BITES),Chidwa Poha,330,Veg,,Light and healthy flattened rice with a blend of Indian spices and peanuts.,Cafe Delhi Heights
+Unknown Category,DELHI 6 (STREET BITES),Bombay Masala Sandwich,330,Veg,,Traditional Mumbai-style sandwich served with crispy home fries.,Cafe Delhi Heights
+Unknown Category,DELHI 6 (STREET BITES),Chilli Cheese Toast,360,Veg,,"Crispy toast topped with a generous layer of spicy cheese blend, toasted to golden perfection.",Cafe Delhi Heights
+Unknown Category,DELHI 6 (STREET BITES),Isbt Makhani Maggi,390,Veg,BESTSELLER,"Maggi noodles with a rich, creamy butter masala twist, inspired by the flavors of Delhi.",Cafe Delhi Heights
+Unknown Category,"INDIAN RICE BOWLS, THALI'S & MEALS",Punjabi Kadhi Chawal,450,Veg,,"Tangy yogurt-based curry with soft pakoras, paired with rice. ",Cafe Delhi Heights
+Unknown Category,"INDIAN RICE BOWLS, THALI'S & MEALS",Jammu Special Rajma Rice,450,Veg,BESTSELLER,"Comforting rajma (kidney beans) cooked with aromatic spices, served with rice.",Cafe Delhi Heights
+Unknown Category,"INDIAN RICE BOWLS, THALI'S & MEALS",Yellow Dal Tadka Meal,450,Veg,,"A flavorful yellow lentil curry, served with jalape",Cafe Delhi Heights
+Unknown Category,"INDIAN RICE BOWLS, THALI'S & MEALS",Dal Makhan Wala Meal,615,Veg,,"A rich, creamy black lentil curry, served with jalape",Cafe Delhi Heights
+Unknown Category,"INDIAN RICE BOWLS, THALI'S & MEALS",Punjabi Palak Chole Meal,650,Veg,,"A spinach and chickpea curry, served with jalape",Cafe Delhi Heights
+Unknown Category,"INDIAN RICE BOWLS, THALI'S & MEALS",Buttery Tomato Paneer Masala Meal,740,Veg,,"Paneer cooked in a creamy, buttery tomato sauce, served with jalape",Cafe Delhi Heights
+Unknown Category,"INDIAN RICE BOWLS, THALI'S & MEALS",Mom'S Buttered Chicken Tikka Masala Meal,760,Non-Veg,,"Classic butter chicken tikka masala, served with jalape",Cafe Delhi Heights
+Unknown Category,"INDIAN RICE BOWLS, THALI'S & MEALS",Captain Chicken Curry Meal,760,Non-Veg,,"Hearty chicken curry, served with jalape",Cafe Delhi Heights
+Unknown Category,"INDIAN RICE BOWLS, THALI'S & MEALS",Rajasthani Lal Maas Meal,850,Non-Veg,,"A fiery Rajasthani lamb curry, served with bajra roti and masala chaas.",Cafe Delhi Heights
+Unknown Category,"INDIAN RICE BOWLS, THALI'S & MEALS",Signature Rogan Josh Meal,850,Non-Veg,,Rich mutton curry served with jalape,Cafe Delhi Heights
+Unknown Category,MEXICAN SPECIALS,Burritos Vegetables,465,Veg,,"Savor the deliciousness of burritos, filled with savory vegetables wrapped in soft tortillas, creating a perfect marriage of hearty ingredients & vibrant flavors.",Cafe Delhi Heights
+Unknown Category,MEXICAN SPECIALS,Enchiladas Vegetables,465,Veg,,"Indulge in the savory allure of enchiladas, featuring wholesome vegetables. These rolled tortillas are generously filled, then smothered in a flavorful sauce & baked to perfection.",Cafe Delhi Heights
+Unknown Category,MEXICAN SPECIALS,Burritos Chicken,565,Non-Veg,,"Savor the deliciousness of burritos, filled with seasoned chicken wrapped in soft tortillas, creating a perfect marriage of hearty ingredients & vibrant flavors.",Cafe Delhi Heights
+Unknown Category,MEXICAN SPECIALS,Enchiladas Chicken,565,Non-Veg,,"Indulge in the savory allure of enchiladas, featuring succulent chicken. These rolled tortillas are generously filled, then smothered in a flavorful sauce & baked to perfection.",Cafe Delhi Heights
+Unknown Category,ASIAN SPECIALS,Singaporean Chilli Cottage Tofu,450,Veg,,"Elevate your taste experience with tofu, flavourful chilli and your choice of rice.",Cafe Delhi Heights
+Unknown Category,ASIAN SPECIALS,"Spinach, Baby Corn & Mushroom With Hot Basil Sauce",450,Veg,,"Delight in the earthy symphony of spinach, mushroom & baby corn, with your choice of rice",Cafe Delhi Heights
+Unknown Category,ASIAN SPECIALS,Stir Fried Exotic Vegetable,450,Veg,,"A tantalizing blend of colorful, diverse vegetables expertly stir-fried to perfection with your choice of rice",Cafe Delhi Heights
+Unknown Category,ASIAN SPECIALS,Cafe Delhi Heights Special Khao Suey,535,Veg,,"Delicately spiced coconut curry, served with spaghetti noodle pasta.",Cafe Delhi Heights
+Unknown Category,ASIAN SPECIALS,Spicy Thai Basil Sliced Chicken,575,Non-Veg,,"Delight in the savory simplicity of Thai seasoned sliced chicken with fragrant herbs, & spices with your choice of rice",Cafe Delhi Heights
+Unknown Category,ASIAN SPECIALS,Green Curry Famous Thai Curry,590,Veg,,A fragrant green Thai curry served with steamed rice & cucumber kimchi vegetables.,Cafe Delhi Heights
+Unknown Category,ASIAN SPECIALS,Stir Fried Lamb With Chilli Bean,605,Non-Veg,,"Indulge in the bold & savory delight of stir-fried tender lamb with fresh chillies symphony of tender lamb stir-fried to perfection with vibrant, & fresh chillies",Cafe Delhi Heights
+Unknown Category,ASIAN SPECIALS,Chicken Red Curry Famous Thai Curry,635,Non-Veg,,Served with steamed rice & cucumber kimchi vegetables.,Cafe Delhi Heights
+Unknown Category,ASIAN SPECIALS,Spicy Thai Basil Sliced Fish,670,Non-Veg,,"Delight in the savory simplicity of Thai seasoned sliced fish with fragrant herbs, & spices with your choice of rice.",Cafe Delhi Heights
+Unknown Category,ASIAN SPECIALS,Diced Chicken Meal Bowl,730,Non-Veg,,"Stir-fried diced chicken with your choice of Fried Rice, Red Rice, or Quinoa, and sauces like Two Pepper, White Garlic, Hot Garlic, Schezwan Garlic, or Chilli Bean",Cafe Delhi Heights
+Unknown Category,NOODLE,Plain Veg Hakka Noodles,385,Veg,,Classic Veg Hakka noodles.,Cafe Delhi Heights
+Unknown Category,NOODLE,Veg Chilli Garlic Hakka Noodles,385,Veg,,"Veg Hakka noodles infused with spicy chili and garlic, perfect for a fiery taste.",Cafe Delhi Heights
+Unknown Category,NOODLE,Plain Chicken Hakka Noodles,430,Non-Veg,,Classic Veg Hakka noodles with egg and juicy boneless chicken pieces.,Cafe Delhi Heights
+Unknown Category,NOODLE,Chilli Garlic Chicken Hakka Noodles,430,Non-Veg,,Chicken Hakka noodles with a zesty twist of chili and garlic for extra spice.,Cafe Delhi Heights
+Unknown Category,NOODLE,Veg Pan Fried Noodles With Chilli Bean,565,Veg,BESTSELLER,"Crispy pan-fried noodles with teppanyaki vegetables, tossed in a tangy chili bean sauce.",Cafe Delhi Heights
+Unknown Category,NOODLE,Chicken Pan Fried Noodles With Chilli Bean,615,Non-Veg,,Crispy noodles topped with grilled chicken and a tangy chili bean sauce.,Cafe Delhi Heights
+Unknown Category,INDIAN,Tandoori Mushrooms,530,Veg,,Marinated mushrooms grilled to smoky perfection in a tandoor.,Cafe Delhi Heights
+Unknown Category,INDIAN,Pan Grilled Mixed Veggie Kebab With Mint Garlic Chutney,545,Veg,,"Succulent veggie kebabs [5 pieces] served with zesty mint garlic chutney, baby lachha, coriander green, and lachha onion.",Cafe Delhi Heights
+Unknown Category,INDIAN,Tawa Fry Assortment Of Vegetables,555,Veg,,Grilled vegetables infused with Indian spices and a blend of fresh herbs.,Cafe Delhi Heights
+Unknown Category,INDIAN,Tawa Masala Paneer Tikka,565,Veg,,"Paneer cubes [6 pieces] marinated in tangy spices, grilled on a tawa for that authentic flavor.",Cafe Delhi Heights
+Unknown Category,INDIAN,Tandoor Roasted Chicken [Half],565,Non-Veg,,"Half chicken marinated in yogurt and spices, roasted to perfection in a clay oven.",Cafe Delhi Heights
+Unknown Category,INDIAN,Achari Paneer Tikka,565,Veg,,Paneer chunks [6 pieces] marinated in a spicy achari masala and cooked to a juicy finish.,Cafe Delhi Heights
+Unknown Category,INDIAN,Chicken Tikka With Kashmiri Lal Mirch,615,Non-Veg,,"Juicy boneless chicken pieces marinated in yogurt and Kashmiri red chili spices, cooked to perfection in a clay oven. [6 pieces]",Cafe Delhi Heights
+Unknown Category,INDIAN,Galouti Kebab,620,Non-Veg,,"A melt-in-the-mouth Lakhnawi delicacy, spiced to perfection and crafted with our utmost effort to match the original as closely as possible.[5 pieces]",Cafe Delhi Heights
+Unknown Category,INDIAN,Tawa Masala Mutton Seekh Kebab,620,Non-Veg,,"Flavorful mutton seekh kebabs cooked on a tawa, spiced with aromatic Indian flavors. [6 pieces]",Cafe Delhi Heights
+Unknown Category,INDIAN,Fish Tikka With Kashmiri Lal Mirch,825,Non-Veg,,Spicy and smoky fish tikka marinated in Kashmiri red chili and cooked to perfection. [6 pieces],Cafe Delhi Heights
+Unknown Category,CONTINENTIAL,Mushroom Bruschetta,430,Veg,,French bread topped with saut,Cafe Delhi Heights
+Unknown Category,CONTINENTIAL,Hot Garlic Chicken Wings,485,Non-Veg,,Lightly fried chicken wings coated in a spicy hot garlic glaze. [6 pieces],Cafe Delhi Heights
+Unknown Category,CONTINENTIAL,Baked Mushroom Caps,495,Veg,,Baked Parmesan-loaded mushroom caps served with a creamy garlic aioli.,Cafe Delhi Heights
+Unknown Category,CONTINENTIAL,2 Cheese And Potato Croquettes,495,Veg,,"Crispy crumbed rolls [6 pieces] filled with cheese, potato mash, and jalape",Cafe Delhi Heights
+Unknown Category,CONTINENTIAL,Country Style Cottage Cheese Chilli,500,Veg,,"Spicy, stir-fried cottage cheese chunks with peppers and onions in a tangy sauce.",Cafe Delhi Heights
+Unknown Category,CONTINENTIAL,Grilled Sausages,515,Non-Veg,,Perfectly grilled sausages with a hint of herbs and spices. [5 pieces],Cafe Delhi Heights
+Unknown Category,CONTINENTIAL,Grilled Chicken Shish Taouk,565,Non-Veg,,"Tender chicken marinated in Mediterranean spices and herbs, grilled to juicy perfection. [5 pieces]",Cafe Delhi Heights
+Unknown Category,CONTINENTIAL,Barbeque Chicken Finger With Romesco,565,Non-Veg,,Smoky BBQ chicken fingers paired with a tangy Romesco dipping sauce.,Cafe Delhi Heights
+Unknown Category,CONTINENTIAL,Bang Bang Chicken 65,570,Non-Veg,,"A Tamil Nadu classic with marinated chicken tossed in a fiery blend of red chilies, curry leaves, and mustard seeds.",Cafe Delhi Heights
+Unknown Category,CONTINENTIAL,Fried Crispy Chicken With Chillies,615,Non-Veg,,"Crispy sliced chicken breast marinated in a blend of chilies, ginger, garlic, and red chili paste.",Cafe Delhi Heights
+Unknown Category,CONTINENTIAL,Monster Chicken Lollipop,620,Non-Veg,,Chicken Lollipops [4 pieces] flavored with different spices that blend together & give A lip smacking conventional dish.,Cafe Delhi Heights
+Unknown Category,CONTINENTIAL,Crumbed Fish Fingers,795,Non-Veg,,Golden crumbed fish fingers served with tartar sauce and home fries.,Cafe Delhi Heights
+Unknown Category,CONTINENTIAL,Chilli Garlic Prawns,795,Non-Veg,,"Juicy prawns stir-fried in a sweet, spicy, and garlicky sauce with Soy Chilli marination.",Cafe Delhi Heights
+Unknown Category,PLATTERS,Ultimate Chips & Dips,610,Veg,,"A medley of crispy potato wedges, masala fries, chips, and french fries served with sour cream, guacamole, and salsa.",Cafe Delhi Heights
+Unknown Category,PLATTERS,Le Mezze Labanese Platter,735,Veg,,"A vibrant spread of falafel, marinated olives, tabbouleh, crispy pita, classic hummus, tzatziki, and pickled salad.",Cafe Delhi Heights
+Unknown Category,PLATTERS,Exotic Vegetables Treasure,810,Veg,,"A delightful mix of famous falafel, cheese & potato croquettes, baked mushroom caps, and a refreshing house salad.",Cafe Delhi Heights
+Unknown Category,PLATTERS,Tandoor Grilled Veg Platter,830,Veg,,"A tandoor-grilled assortment of mushrooms, pineapple, potatoes, broccoli, and paneer tikka [4 pieces each]",Cafe Delhi Heights
+Unknown Category,MEXICAN,Tomato Bruschetta,410,Veg,,Crunchy bruschetta [5 pieces] topped with a fresh tomato and basil mix.,Cafe Delhi Heights
+Unknown Category,MEXICAN,Chicken & Cheese Bruschetta,470,Non-Veg,,"French bread topped with succulent chicken, melted cheese, and fresh herbs. [5 pieces]",Cafe Delhi Heights
+Unknown Category,MEXICAN,Nachos Grande,565,Veg,,"Crispy nachos loaded with melted cheese, served with sour cream, salsa, and guacamole.",Cafe Delhi Heights
+Unknown Category,MEXICAN,Herbed Hummus With Falafel,570,Veg,,"A trio of olive, beetroot, and pesto hummus paired with crispy falafel [4 pieces] and pita.",Cafe Delhi Heights
+Unknown Category,BURGERS,Delhi Burger,575,Veg,,"Reminiscent of streets of Delhi, the base of the burger bun is deep fried to make this yummy treat.",Cafe Delhi Heights
+Unknown Category,BURGERS,Open Chicken Burger,680,Non-Veg,,"An open-faced burger topped with tender chicken chunks, melted cheddar, capsicum and jalape",Cafe Delhi Heights
+Unknown Category,BURGERS,Moist Grilled Chicken Burger,680,Non-Veg,,"A juicy grilled chicken patty topped with handcrafted mushroom sauce, nestled in a fresh bun.",Cafe Delhi Heights
+Unknown Category,BURGERS,Juicy Lucy Burger,685,Non-Veg,BESTSELLER,"A succulent 250 gm lamb patty, seasoned with our in-house rubs and spices, stuffed with molten cheese and jalape",Cafe Delhi Heights
+Unknown Category,SANDWICHES & DOGS,Chicken Hot Dog,495,Non-Veg,,"Juicy chicken saussages topped with choucroute, mayonnaise, and a side of salad and home fries.",Cafe Delhi Heights
+Unknown Category,SANDWICHES,Mixed Veggie Multi Grain Pesto Grilled Panini,410,Veg,,"A wholesome mix of fresh veggies with vibrant pesto, grilled on multigrain bread, paired with home fries.",Cafe Delhi Heights
+Unknown Category,SANDWICHES,Smoked Chicken & Basil Pesto Grilled Panini,470,Non-Veg,,Served with home fries.,Cafe Delhi Heights
+Unknown Category,SANDWICHES,Herbed Vegetables Club Sandwich,500,Veg,,"Layers of herbed vegetables stacked between soft slices, served with a side of home fries.",Cafe Delhi Heights
+Unknown Category,SANDWICHES,Sauteed Chicken Club Sandwich,575,Non-Veg,,Served with home fries.,Cafe Delhi Heights
+Unknown Category,SANDWICHES,Chicken & Bacon Club Sandwich,655,Non-Veg,,"A hearty sandwich featuring juicy chicken, crispy bacon, and fresh veggies, served with home fries.",Cafe Delhi Heights
+Unknown Category,,Palak Paneer Gilli Biryani,570,Veg,,"Our version of traditional biryani, slow-cooked with aromatic spices, finished with crispy brown onions, and served with caper raita.",Cafe Delhi Heights
+Unknown Category,,Veg Cafe Delhi Heights Tawa Biryani,585,Veg,,"A unique take on biryani cooked on a tawa, infused with rich Indian spices and fresh vegetables.",Cafe Delhi Heights
+Unknown Category,,Buttered Chicken Gilli Biryani,730,Non-Veg,,"Our version of traditional biryani, slow-cooked with aromatic spices, finished with crispy brown onions, and served with caper raita.",Cafe Delhi Heights
+Unknown Category,,Chicken Cafe Delhi Heights Tawa Biryani,720,Non-Veg,,"Tender chicken pieces cooked with biryani rice on a tawa, creating a flavorful, crispy rice dish.",Cafe Delhi Heights
+Unknown Category,,Lamb Cafe Delhi Heights Tawa Biryani,730,Non-Veg,,"Juicy lamb chunks cooked with biryani rice on a tawa, offering a delightful mix of textures and flavors.",Cafe Delhi Heights
+Unknown Category,,Lal Maas Gilli Biryani,760,Non-Veg,,"Our version of lamb biryani, slow-cooked with aromatic spices, tender pieces of lamb, finished with crispy brown onions, and served with caper raita",Cafe Delhi Heights
+Unknown Category,SOUPS,Home Style Tomato Soup,275,Veg,,"Velvety, chef's favourite tomato l soup made from pure, fresh tomatoes & basil.",Cafe Delhi Heights
+Unknown Category,SOUPS,Chinese Hot N Sour Soup,325,Veg,,Our homemade delicacy the way it should be warm & loads of tasty treat,Cafe Delhi Heights
+Unknown Category,SOUPS,Minestrone Soup,325,Veg,BESTSELLER,"A hearty, wholesome vegetable soup packed with nutrients and flavor.",Cafe Delhi Heights
+Unknown Category,SOUPS,Forest Mushroom Cappuccino Soup,345,Veg,,"A luxurious wild mushroom soup, rich in earthy flavors.",Cafe Delhi Heights
+Unknown Category,SOUPS,Himalayan Thukpa,470,Veg,,"A warm and comforting noodle soup, filled with vibrant vegetables.",Cafe Delhi Heights
+Unknown Category,SALADS,The Famous Caesar Salad,495,Veg,,"A refreshing Caesar Salad with cherry tomatoes, iceberg lettuce, sundried tomatoes, brocolli, and Grana Padano cheese, drizzled with Caesar dressing and pesto-infused bread croutons.",Cafe Delhi Heights
+Unknown Category,SALADS,Greek Salad,485,Veg,,"Fresh cucumber, tomatoes, trio bell peppers, crumbled feta, red onions, green & black olives & lemon vinaigrette. ",Cafe Delhi Heights
+Unknown Category,SALADS,Roasted Beetroot Salad,505,Veg,,"Walnut, rocket leaves, caramelized almonds, goat cheese and burrata honey dressing.",Cafe Delhi Heights
+Unknown Category,SALADS,Buckwheat And Quinoa Salad,505,Veg,,"Buckwheat and Quinoa, with bell peppers, cucumber, kidney beans and onion, with lemon vinaigerette dressing.",Cafe Delhi Heights
+Unknown Category,SALADS,Panzanella Salad,555,Veg,,Warm Salad Of Italian Foccacia Bread & Grilled Vegetables.,Cafe Delhi Heights
+Unknown Category,SALADS,Chef'S Italian Chicken Salad,615,Non-Veg,,"A classic combination of caesar dressing with British chicken, roasted red peppers, cherry tomatoes, cucumber & olives, finished with a pot of french dressing.",Cafe Delhi Heights
+Unknown Category,EGG SPECIALSS,Chicken & Cheese Omelette [3 Eggs],385,Non-Veg,,"[3 eggs] A fluffy chicken and cheese omelette, served with hearty brown bread toast, roasted tomatoes, and grilled vegetables.",Cafe Delhi Heights
+Unknown Category,EGG SPECIALSS,Spinach & Mushroom Eggs Benedict Our Way,495,Non-Veg,,"Poached eggs, creamy spinach, and saut",Cafe Delhi Heights
+Unknown Category,EGG SPECIALSS,Smoked Chicken & Cheese Eggs Benedict Our Way,570,Non-Veg,,"A delicious combination of poached eggs, smoked chicken, and cheese with hollandaise sauce over a crunchy croissant.",Cafe Delhi Heights
+Unknown Category,EGG SPECIALSS,Ham Sausdage Eggs Benedict Our Way,615,Non-Veg,,Poached eggs topped with rich hollandaise and melted cheddar on a buttery croissant.,Cafe Delhi Heights
+Unknown Category,HEALTHY EATS,Quinoa Poha,410,Veg,,"A nutritious twist on traditional poha made with quinoa, vegetables, and aromatic spices.",Cafe Delhi Heights
+Unknown Category,HEALTHY EATS,Grilled Chicken Breast Grilled Panini,470,Non-Veg,,Served with home fries.,Cafe Delhi Heights
+Unknown Category,HEALTHY EATS,Grilled Chicken Breast,545,Non-Veg,BESTSELLER,"Tender grilled chicken breast (single or double), served with garlic mashed potatoes and grilled vegetables, available with Red Wine Jus, Crushed Black Pepper, Rosemary Mushroom Sauce, Smoked BBQ, or Schezwan Garlic.",Cafe Delhi Heights
+Unknown Category,HEALTHY EATS,Cottage Cheese Steak,710,Non-Veg,,"Grilled cottage cheese steak served with garlic mashed potatoes and vegetables, with sauces like Red Wine Jus, Crushed Black Pepper, Rosemary Mushroom Sauce, Smoked BBQ, or Schezwan Garlic.",Cafe Delhi Heights
+Unknown Category,HEALTHY BOWLS,Vegetables Khichdi,490,Veg,,"A comforting blend of Indian lentils, Italian arborio rice, fresh herbs, and rustic spices, perfect for a nourishing meal.",Cafe Delhi Heights
+Unknown Category,HEALTHY BOWLS,Chicken Khichdi,560,Non-Veg,,"Indian lentils, Italian arborio rice, fresh Indian herbs & rustic spice seasoning.",Cafe Delhi Heights
+Unknown Category,HEALTHY BOWLS,Wok Seared Cottage Cheese Meal Bowl,680,Veg,,"Seared cottage cheese served with your choice of Fried Rice, Red Rice, or Quinoa, and sauces like Two Pepper, White Garlic, Hot Garlic, Schezwan Garlic, or Chilli Bean.",Cafe Delhi Heights
+Unknown Category,HEALTHY BOWLS,Tofu With Peppers Meal Bowl,680,Veg,,"Stir-fried tofu with peppers, served with Fried Rice, Red Rice, or Quinoa, and sauce options like Two Pepper, White Garlic, Hot Garlic, Schezwan Garlic, or Chilli Bean.",Cafe Delhi Heights
+Unknown Category,HEALTHY BOWLS,Protein Bowl,715,Non-Veg,,"Served with broth, wilted spinach, edamame beans, poached eggs, asparagus, corn and grilled chicken breast served with a choice of Noodles or Rice.",Cafe Delhi Heights
+Unknown Category,HEALTHY BOWLS,Poke Bowl,735,Non-Veg,,"Grilled chicken breast served with rice, avocado, red cabbage, sliced cucumber & edamame beans.",Cafe Delhi Heights
+Unknown Category,,Fruit Trifle,120,Veg,,"A refreshing dessert layered with fresh seasonal fruits, creamy custard, and soft sponge cake, topped with whipped cream. Every spoonful delivers a mix of fruity sweetness and creamy richness.",Cafe Delhi Heights
+Unknown Category,,Chocolate Brownie,265,Veg,,Served with vanilla ice cream.,Cafe Delhi Heights
+Unknown Category,,Dessert Of The Day,265,Veg,,Ever changing dessert of the day.,Cafe Delhi Heights
+Unknown Category,,Banoffee Pie,265,Veg,,"A delightful combination of buttery biscuit crust, creamy toffee, fresh bananas, and whipped cream. One of our favorite desserts",Cafe Delhi Heights
+Unknown Category,,Mud Cake Pastry,265,Veg,,Decadent mud cake available by the slice or in a half-kg portion.,Cafe Delhi Heights
+Unknown Category,,Chocolate Mountain,335,Veg,,"A towering dessert featuring layers of rich chocolate cake , topped with a generous drizzle of hot fudge. .",Cafe Delhi Heights
+Unknown Category,HOT BEVERAGES,Cafe Latte,235,Veg,,Hot espresso with steamed milk and a layer of frothed milk on top.,Cafe Delhi Heights
+Unknown Category,HOT BEVERAGES,Cafe Mocha,235,Veg,,Rich dark chocolate mix with hot espresso and steamed milk.,Cafe Delhi Heights
+Unknown Category,HOT BEVERAGES,Cappuccino,235,Veg,,A classic coffee topped with a thick layer of milk foam.,Cafe Delhi Heights
+Unknown Category,HOT BEVERAGES,Cafe Hot Chocolate,365,Veg,,"Experince our velvety hot chocolate, blending premium cocoa, steamed milk hint of sweetness. ",Cafe Delhi Heights
+Unknown Category,HOT BEVERAGES,Cafe Espresso,155,Veg,,Strong and creamy coffee decoction extracted at high pressure.,Cafe Delhi Heights
+Unknown Category,COLD BEVERAGES,Pepsi Soft Beverage,175,Veg,"Not on Pro, Not eligible for coupons",250Ml,Cafe Delhi Heights
+Unknown Category,COLD BEVERAGES,Diet Pepsi Soft Beverage,175,Veg,"Not on Pro, Not eligible for coupons","A rich blend of cafe hot chocolate, chocolate mix and vanilla latte.",Cafe Delhi Heights
+Unknown Category,COLD BEVERAGES,7up Soft Beverage,175,Veg,"Not on Pro, Not eligible for coupons",Freshly brewed espresso served cold milk.,Cafe Delhi Heights
+Unknown Category,COLD BEVERAGES,Energy Beverage,335,Veg,,,Cafe Delhi Heights
+Unknown Category,COLD BEVERAGES,Perrier Sparkling Mineral Water,335,Veg,,[Packaged],Cafe Delhi Heights
+Unknown Category,COLD BEVERAGES,Tonic Water,145,Veg,,,Cafe Delhi Heights
+Unknown Category,COLD BEVERAGES,Ginger Ale,185,Veg,,,Cafe Delhi Heights
+Unknown Category,SOFT AND INNOCENT SHAKES,Homemade Lemonade Soda,225,Veg,,"Available with soda for a fresh, zesty drink.",Cafe Delhi Heights
+Unknown Category,SOFT AND INNOCENT SHAKES,Homemade Lemonade Water,225,Veg,,"Available with water for a fresh, zesty drink.",Cafe Delhi Heights
+Unknown Category,SOFT AND INNOCENT SHAKES,Electric Blue Lemonade,325,Veg,,"A vibrant mix of pineapple juice, blue cura",Cafe Delhi Heights
+Unknown Category,SOFT AND INNOCENT SHAKES,Ginger Lemonade,260,Veg,,A zesty lemonade with fresh ginger and club soda.,Cafe Delhi Heights
+Unknown Category,SOFT AND INNOCENT SHAKES,Blueberry & Basil Lemonade,290,Veg,,A refreshing mix of blueberry and basil with a hint of lime.,Cafe Delhi Heights
+Unknown Category,FRESHLY SQUEEZED RAW JUICES,Watermelon Juice,290,Veg,,"With watermelon, celery & pomegranate goodness.",Cafe Delhi Heights
+Unknown Category,FRESHLY SQUEEZED RAW JUICES,Total 8 Juice,235,Veg,,"With tomato, celery, ginger, cucumber, beetroot, apple, carrot & parsley",Cafe Delhi Heights
+Unknown Category,FRESHLY SQUEEZED RAW JUICES,My Aim To Be Cool Juice,325,Veg,,"With kiwi, apple, cucumber, ginger & fresh mint leaves",Cafe Delhi Heights
+Unknown Category,FRESHLY SQUEEZED RAW JUICES,Pink Perfection Juice,325,Veg,,"With strawberry, watermelon, orange & lime",Cafe Delhi Heights
+Unknown Category,FRESHLY SQUEEZED RAW JUICES,Abc Story Juice,345,Veg,,"With apple, beetroot & carrot.",Cafe Delhi Heights
+Unknown Category,FRESHLY SQUEEZED RAW JUICES,Sunshine Citrus Juice,325,Veg,,"With pineapple, sweet lime & apple.",Cafe Delhi Heights
+Unknown Category,FRESHLY SQUEEZED RAW JUICES,Outstanding Kick Juice,325,Veg,,"With watermelon, orange & pineapple.",Cafe Delhi Heights
+Unknown Category,FRESHLY SQUEEZED RAW JUICES,Strawberry Forever Juice,345,Veg,,"With fresh apple, carrot, orange & strawberry.",Cafe Delhi Heights
+Unknown Category,FRESHLY SQUEEZED RAW JUICES,A Beet Beauty Juice,325,Veg,,"With beetroot, carrot, apple, raw ginger, lime & punch of turmeric.",Cafe Delhi Heights
+Unknown Category,FRESHLY SQUEEZED RAW JUICES,My Darling Go Green Juice,345,Veg,,"With kiwi, fresh mint leaves, apples & cucumber.",Cafe Delhi Heights
+Unknown Category,ICED COFFEE AND ICED TEA,Classic Cold Coffee,345,Veg,,"A yummy, homemade-style cold coffee that's classic and delicious.",Cafe Delhi Heights
+Unknown Category,ICED COFFEE AND ICED TEA,Frozen Hot Chocolate,345,Veg,,A rich blend of caf,Cafe Delhi Heights
+Unknown Category,ICED COFFEE AND ICED TEA,Iced Cafe Latte,300,Veg,,Freshly brewed espresso served cold milk.,Cafe Delhi Heights
+Unknown Category,SHAKES,Antioxidant Smoothie,515,Veg,,"Packed with curd, strawberries, blueberries, banana, chia seeds, flax seeds, oatmeal, pomegranate, and honey",Cafe Delhi Heights
+Unknown Category,SHAKES,Peanut Butter Shake,345,Veg,,"With Peanut butter, nutella, fresh banana, milk & cream.",Cafe Delhi Heights
+Unknown Category,SHAKES,Chocolate Shake,315,Veg,,"A rich and creamy chocolate shake, blended to perfection for a decadent treat.",Cafe Delhi Heights
+Unknown Category,SHAKES,Strawberry Shake,315,Veg,,"A refreshing strawberry shake, bursting with the natural sweetness of ripe strawberries.",Cafe Delhi Heights
+Unknown Category,SHAKES,Seasonal Fruits Shake,315,Veg,,A vibrant and fresh shake made with a selection of the season's finest fruits.,Cafe Delhi Heights
+Unknown Category,SHAKES,Oreo Cookies Chocolate Shake,325,Veg,,"Imagination of milky oreo chocolate cookies, ice-cold vanilla latte extremely well together",Cafe Delhi Heights
+Unknown Category,SHAKES,Chocos Brownie Shake,375,Veg,,"Homemade brownie, milky chocolate vanilla latte blended together with ice",Cafe Delhi Heights
+Unknown Category,SHAKES,Mango & Banana Shake,295,Veg,,"Creamy blend of mango, banana, and velvety ice cream. ",Cafe Delhi Heights
+Unknown Category,SHAKES,Coffee Toffee Cookies Shake,375,Veg,,Freshly brewed coffee and caramel blended with chocolate for a sweet treat.,Cafe Delhi Heights
+Unknown Category,,Grilled Vegetables,95,Veg,,Fresh garden vegetables grilled to perfection with a hint of olive oil and.,Cafe Delhi Heights
+Unknown Category,,Grilled Chicken Strips,230,Non-Veg,,Add on in salad [Subject to Availability].,Cafe Delhi Heights
+Unknown Category,,Smoked Chicken,280,Non-Veg,,Add on in salad [Subject to Availability].,Cafe Delhi Heights
+Unknown Category,,Streaky Bacon,260,Non-Veg,,,Cafe Delhi Heights

@@ -1,0 +1,823 @@
+{
+    "restaurant_info": {
+        "name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani",
+        "location": "Shop R1, Lower Ground Floor, The Walk, Worldmark 1, Aerocity, New Delhi",
+        "rating": "4.3",
+        "rating_count": "4,169",
+        "cuisines": "North Indian, Mughlai, Biryani, Desserts",
+        "timing": "10:00 AM to 11:00 PM",
+        "phone": "+911143063679"
+    },
+    "menu_items": [
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Badami Shorba",
+            "price": 223,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Light bodied chicken soup with a hint of freshly chopped mint leaves finished with diced chicken and almond flakes.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mutton Paya Shorba",
+            "price": 267,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Robust, rejuvenating, overnight simmered goat trotter and millet broth with black pepper and fresh coriander.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Tamatar Dhaniya Shorba",
+            "price": 207,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Zesty vine ripe tomatoes and fresh coriander soup, mildly spiced and served with carom crisps.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Dahi Kebab",
+            "price": 476,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Velvety, cardamom and fresh coriander infused, hung youghurt kabab, deep fried.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Hara Bhara Kebab",
+            "price": 477,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Delicate, hung curd and cashew filled spinach patty, shallow fried.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Tandoori Mushroom",
+            "price": 477,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Button mushrooms marinated in fresh herbs and in-house tandoori masala, char-grilled in Tandoor",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Tandoori Malai Broccoli",
+            "price": 543,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "\"Cream - malai\", cashew butter and cardamom marinated broccoli, char-grilled in tandoor.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Bharwan Paneer Tikka",
+            "price": 536,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Cheddar cheese and bell pepper \"stuffed - bharwan\" fresh cottage cheese \"chunks - tikka\", marinated and char-grilled in tandoor.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Malai Tikka",
+            "price": 557,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Melt in the mouth, tandoor cooked chicken tikka, marinated with \"cream - malai\", cashew butter and cardamom.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Trio",
+            "price": 597,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "An impeccable potpourri of tikkas - the classic Chicken Tikka, the delicate Malai Tikka and The Bhatti Kabab.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Tikka",
+            "price": 557,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Boneless morsels of chicken \"tikka\", marinated overnight in yoghurt and our secret spice blend, chargrilled in tandoor.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "The Original Tandoori Chicken",
+            "price": 487,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "Yoghurt and secret spice marinated, succulent, on the bone, tandoor roasted chicken. Created by Mokha Singh in the 1920's at Peshawar.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "The Original Chicken Pakora",
+            "price": 483,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "A scrumptious creation of Kundan Lal Jaggi at Daryaganj in 1947, crisp batter fried chicken scented with hand pounded carom and coriander seeds. We serve a boneless version of this classic.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Seekh Kebab",
+            "price": 557,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Lean Chicken morsels grounded with fresh herbs and char-grilled in Tandoor",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Bhatti Chicken",
+            "price": 557,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Chicken thighs, steeped in a distinctive spicy yoghurt and mustard oil marinade, char-grilled in Tandoor",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mutton Seekh Kebab",
+            "price": 667,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Zestful and rugged fresh green chilli and secret spice infused, mutton mince kebab of the finest quality, popularised by Kundan Lal Jaggi at Daryaganj in 1947.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Amritsari Mutton Chop",
+            "price": 697,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "A delicacy from Amritsar, premium grade mutton mince patty spiked with hand pounded coriander seeds, dry chilli and garam masala, pan-fried and embellished with toasted garlic flakes.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Sole Fish Tikka",
+            "price": 697,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Boneless \"chunks - tikka\" of River Sole fish, marinated with lemon juice, mustard and carom seeds, gently cooked on coal embers.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Amritsari Fish Pakora",
+            "price": 697,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Charrey Aloo",
+            "price": 357,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A sumptuous dish that is made in every home, our rendition is, \"bullet - charrey\" or baby potatoes with mustard, cumin and fennel.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Kadhai Mushroom",
+            "price": 556,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Prepared in the \"Indian wok - kadhai\", fresh mushrooms stir-fried with bell pepper juliennes, tomatoes, spring onion, crushed toasted coriander seeds and tomato gravy.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Malai Kofta",
+            "price": 556,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A celebratory dish, cashew and vegetable stuffed cottage cheese dumplings in a titillating saffron-cream gravy.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Channa Masala",
+            "price": 397,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A staple from Punjab, chickpeas gently simmered with whole spices and then finished with our secret spice.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Saag Paneer",
+            "price": 556,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Pan-fried cottage cheese with creamy \"spinach puree - saag\", garlic and whole spices, tempered with coriander seeds and red chilli.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "The Original Butter Paneer",
+            "price": 556,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "House special, tandoor cooked paneer tikka in a delectable gravy made with hand crushed vine ripe tomatoes and a bit of butter, the dish is invigorated with a fresh tempering of green chillies and ginger juliennes.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "The Original 1947 Dal Makhani",
+            "price": 528,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "This original recipe by Kundan Lal Jaggi is prepared with overnight simmered black lentils, bit of butter, dry fenugreek leaves and freshly pureed vine ripe tomatoes.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Yellow Dal Double Tadka",
+            "price": 397,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Perfect cooked trio of lentils, \"tempered twice - double tadka\" first with cumin and later finished with dry red chilli and ghee.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Paneer Lababdar",
+            "price": 556,
+            "veg_status": "Veg",
+            "tags": "BESTSELLER",
+            "description": "Lababdar style is amongst the most robust, \"cottage cheese - paneer\" cooked with onion and capsicum in a thick-creamy-tomato gravy.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Baingan Ka Bharta",
+            "price": 397,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "An all time favourite recipe of smokey, charcoal roasted aubergine hash with onions, tomatoes, ginger, fresh coriander and red chilli.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mixed Vegetables",
+            "price": 427,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "An exquisit \"melange - miloni\" of the seasons prime \"vegetables - subz\" cooked in a zesty, mildly spiced sauce.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Butter Paneer Masala",
+            "price": 556,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Our modern day version is prepared with a buttery, creamy, velvety, fine tomato sauce and tandoor cooked paneer tikka.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Aloo Gobhi",
+            "price": 397,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Dhaba style dry and spicy preparation of cauliflower and potatoes",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "The Original Egg Makhani",
+            "price": 397,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "House special, batter fried boiled egg whites in a delectable gravy made with hand crushed vine ripe tomatoes and a bit of butter, the dish is invigorated with a fresh tempering of green chillies and ginger juliennes.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Egg Curry",
+            "price": 397,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "A typical Sunday home lunch dish, perfectly boiled eggs is a light onion-tomato gravy.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Daryaganj Chicken Curry",
+            "price": 667,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "This delectable slow cooked curry is prepared with on the bone chicken, onion, tomatoes and whole spices.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Kadhai Chicken",
+            "price": 667,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "This ingenious recipe is cooked in the \"Indian wok - kadhai\", with chunks of boneless chicken, bell pepper juliennes, diced tomatoes, crushed coriander seeds and tomato gravy.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Saag Chicken",
+            "price": 667,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "A congenial melange of char-grilled chicken and creamy \"spinach puree - saag\" invigorated with a tempering of coriander seeds and slivered garlic.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "The Original 1947 Butter Chicken",
+            "price": 667,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "This original rendition by Kundan Lal Jaggi is prepared with hand crushed vine ripe tomatoes, bit of butter and on the bone (half) tandoori chicken, the dish is invigorated with a fresh tempering of green chillies and ginger juliennes.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Today'S Butter Chicken",
+            "price": 667,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "Our modern day version is prepared with a buttery, creamy, velvetty, fine tomato sauce and tandoori chicken tikka.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Daryaganj Mutton Curry",
+            "price": 697,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "This robust and sumptuous slow cooked curry is prepared with choice cuts of on the bone mutton, onion, tomatoes and whole spices.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mutton Bheja Fry",
+            "price": 697,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "An exquisite recipe from the bylanes of Old Delhi, soft, creamy goat brain gently scrambled with ginger-garlic-tomatoes and a hint of garam masala.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mutton Keema Kaleji",
+            "price": 697,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "A rustic dish of coarse \"mutton mince - keema\" and diced fresh \"liver - kaleji\" cooked gently in a robust onion gravy.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Saag Meat",
+            "price": 697,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Slow braised on the bone mutton with creamy \"spinach puree - saag\", garlic and whole spices, tempered with coriander seeds and red chilli.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chicken Biryani",
+            "price": 697,
+            "veg_status": "Non-Veg",
+            "tags": "BESTSELLER",
+            "description": "A layered, aromatic, culinary masterpiece created with slow cooked on the bone chicken, basmati rice, saffron, warm spices and fresh mint.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mutton Yakhni Pulao",
+            "price": 797,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "This colloquial recipe is from Peshawar of the erstwhile undivided Punjab, a delish symphony of basmati rice, flavourful mutton broth, choice cuts of mutton, fresh mint and aromatic fried onions.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Steamed Basmati",
+            "price": 229,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Indigenous, aromatic, superior long-grain rice, served steaming hot",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Subz Biryani",
+            "price": 587,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "A layered, aromatic specialty, \"slow cooked - dum\" with gently cooked vegetables of the season, basmati rice, saffron, warm spices and fresh mint.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mutton Biryani",
+            "price": 797,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Our piece de resistance, \"slow cooked - dum\" choice cuts of mutton, basmati rice, saffron, warm spices and fresh mint.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Boondi Raita",
+            "price": 157,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Seasoned whipped yoghurt with fried chickpea batter pearls",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Green Salad",
+            "price": 157,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "The quintessential onion-tomato-cucumber salad",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mix Veg Raita",
+            "price": 157,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Seasoned whipped yoghurt with onion-tomato-cucumber",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Saunf Mishri Box",
+            "price": 12,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Sirka Onion Jar",
+            "price": 51,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Chutney Jar",
+            "price": 41,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Burani Raita",
+            "price": 177,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Butter Naan",
+            "price": 143,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Liberally Smothered with Butter",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Butter Roti",
+            "price": 119,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Wholewheat bread smothered with butter.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Garlic Naan",
+            "price": 157,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Infused with a generous dose of chopped fresh garlic",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Lachha Parantha",
+            "price": 143,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Multi-layered wholewheat bread",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Assorted Bread Basket",
+            "price": 336,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Lachha parantha, naan, tandoori roti",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Missi Roti",
+            "price": 136,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Wholewheat bread fortified with chickpea flour, carom seeds, turmeric, dry fenugreek leaves and fresh coriander",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Plain Naan",
+            "price": 137,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "The classic version, delicately scented with nutty onion seeds also called kalonji.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Tandoori Roti",
+            "price": 109,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Unleavened wholewheat bread",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Pudina Parantha",
+            "price": 143,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Multi layered whole wheat bread, spiked with sun dried mint",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Hari Mirch Parantha",
+            "price": 143,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Multi-layered wholewheat bread with green chilli.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Lal Mirch Parantha",
+            "price": 143,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Multi-layered wholewheat bread with red chilli.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Cheese Naan",
+            "price": 167,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Topped with cheddar cheese",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Cheese Garlic Naan",
+            "price": 177,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Coke",
+            "price": 66.15,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Sprite",
+            "price": 66.15,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Thums Up",
+            "price": 66.15,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Mineral Water",
+            "price": 126.4,
+            "veg_status": "Veg",
+            "tags": "Not on Pro, Not eligible for coupons",
+            "description": "",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Rasmalai",
+            "price": 203,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Cotton soft, fresh cheese \"chenna\" dumplings, macerated in chilled cardamom and saffron infused milk.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Phirni",
+            "price": 177,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Silky, slow cooked semolina and milk pudding flavoured with Kashmiri saffron.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Gulab Jamun",
+            "price": 203,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Warm, delish, syrup oozing round Indian dougnuts, made with reduced milk called \"khoya\", garnished with pistachio niblets.",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Daryaganj Five Senses Delivery Box Vegetarian",
+            "price": 3667,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Any Two Appetizers, Four Mains, and Six Breads (Meal For 8-10 Pax)",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Daryaganj Five Senses Delivery Box Non-Veg",
+            "price": 4019,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Any Two Appetizers, Four Mains, and Six Breads (Meal For 8-10 Pax)",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Five senses Veg Kebab box",
+            "price": 2599,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Five Appetizers (Meal For 8-10 Pax)",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Five senses Veg Curry box",
+            "price": 2807,
+            "veg_status": "Veg",
+            "tags": "",
+            "description": "Any Five Vegetarian Curries (Meal For 8-10 Pax)",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Five senses Non Veg Curry box",
+            "price": 3535,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Any Five Non Vegetarian Curries (Meal For 8-10 Pax)",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        },
+        {
+            "category": "Unknown Category",
+            "subcategory": "",
+            "name": "Five senses Non Veg Kebab box",
+            "price": 3327,
+            "veg_status": "Non-Veg",
+            "tags": "",
+            "description": "Any Five Appetizers (Meal For 8-10 Pax)",
+            "restaurant_name": "Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani"
+        }
+    ]
+}
